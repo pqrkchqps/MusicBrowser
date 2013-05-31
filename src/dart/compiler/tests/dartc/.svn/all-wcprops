@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/20466/branches/bleeding_edge/dart/compiler/tests/dartc
+END
+dartc.status
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11162/branches/bleeding_edge/dart/compiler/tests/dartc/dartc.status
+END
+test_config.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/20466/branches/bleeding_edge/dart/compiler/tests/dartc/test_config.dart
+END

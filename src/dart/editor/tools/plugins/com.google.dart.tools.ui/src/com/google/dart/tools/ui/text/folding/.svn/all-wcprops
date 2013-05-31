@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/19825/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/text/folding
+END
+IDartFoldingStructureProviderExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/text/folding/IDartFoldingStructureProviderExtension.java
+END
+IDartFoldingPreferenceBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/text/folding/IDartFoldingPreferenceBlock.java
+END
+IDartFoldingStructureProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/text/folding/IDartFoldingStructureProvider.java
+END
+DefaultDartFoldingStructureProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/19825/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/text/folding/DefaultDartFoldingStructureProvider.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/21556/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/refactoring
+END
+InlineLocalRefactoringImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/!svn/ver/21556/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/refactoring/InlineLocalRefactoringImplTest.java
+END
+NamingConventionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/21158/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/refactoring/NamingConventionsTest.java
+END
+ExtractMethodRefactoringImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/!svn/ver/21310/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/refactoring/ExtractMethodRefactoringImplTest.java
+END
+RenameConstructorRefactoringImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/!svn/ver/20434/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/refactoring/RenameConstructorRefactoringImplTest.java
+END
+RefactoringImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/20434/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/refactoring/RefactoringImplTest.java
+END
+RenameUnitMemberRefactoringImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/!svn/ver/21301/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/refactoring/RenameUnitMemberRefactoringImplTest.java
+END
+InlineMethodRefactoringImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/21556/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/refactoring/InlineMethodRefactoringImplTest.java
+END
+ConvertMethodToGetterRefactoringImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/!svn/ver/21556/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/refactoring/ConvertMethodToGetterRefactoringImplTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/21556/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/refactoring/TestAll.java
+END
+RenameLocalRefactoringImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/!svn/ver/19348/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/refactoring/RenameLocalRefactoringImplTest.java
+END
+ExtractLocalRefactoringImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/20434/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/refactoring/ExtractLocalRefactoringImplTest.java
+END
+RenameClassMemberRefactoringImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/!svn/ver/21044/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/refactoring/RenameClassMemberRefactoringImplTest.java
+END
+RenameRefactoringImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/20434/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/refactoring/RenameRefactoringImplTest.java
+END

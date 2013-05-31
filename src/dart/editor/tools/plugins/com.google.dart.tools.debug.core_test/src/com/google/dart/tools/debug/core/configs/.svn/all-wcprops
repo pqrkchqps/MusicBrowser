@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/21558/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core_test/src/com/google/dart/tools/debug/core/configs
+END
+DartServerLaunchConfigurationDelegateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/!svn/ver/21558/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core_test/src/com/google/dart/tools/debug/core/configs/DartServerLaunchConfigurationDelegateTest.java
+END
+VMDebugger.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/21486/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core_test/src/com/google/dart/tools/debug/core/configs/VMDebugger.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/20679/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core_test/src/com/google/dart/tools/debug/core/configs/TestAll.java
+END

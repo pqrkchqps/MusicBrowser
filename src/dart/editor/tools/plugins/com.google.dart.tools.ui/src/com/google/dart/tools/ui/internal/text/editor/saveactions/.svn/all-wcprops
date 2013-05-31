@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/13340/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/saveactions
+END
+CodeFormatEditFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/13340/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/saveactions/CodeFormatEditFactory.java
+END
+RemoveTrailingWhitespaceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/6608/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/saveactions/RemoveTrailingWhitespaceAction.java
+END

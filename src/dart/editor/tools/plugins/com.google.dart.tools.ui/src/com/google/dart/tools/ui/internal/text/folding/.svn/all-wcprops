@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/9998/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/folding
+END
+JavaFoldingStructureProviderDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/folding/JavaFoldingStructureProviderDescriptor.java
+END
+DefaultJavaFoldingPreferenceBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/folding/DefaultJavaFoldingPreferenceBlock.java
+END
+FoldingMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/folding/FoldingMessages.properties
+END
+JavaFoldingStructureProviderRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/9998/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/folding/JavaFoldingStructureProviderRegistry.java
+END
+FoldingMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/folding/FoldingMessages.java
+END
+EmptyJavaFoldingPreferenceBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/folding/EmptyJavaFoldingPreferenceBlock.java
+END

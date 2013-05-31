@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/fields
+END
+ListDialogField.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/4796/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/fields/ListDialogField.java
+END
+Separator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/fields/Separator.java
+END
+IDialogFieldListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/fields/IDialogFieldListener.java
+END
+DialogField.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/fields/DialogField.java
+END
+SelectionButtonDialogField.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/fields/SelectionButtonDialogField.java
+END
+IListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/fields/IListAdapter.java
+END
+StringDialogField.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/fields/StringDialogField.java
+END
+LayoutUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/fields/LayoutUtil.java
+END

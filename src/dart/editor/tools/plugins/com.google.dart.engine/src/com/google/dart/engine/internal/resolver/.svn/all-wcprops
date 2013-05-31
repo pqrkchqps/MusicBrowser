@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/21772/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/resolver
+END
+StaticTypeAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/21662/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/resolver/StaticTypeAnalyzer.java
+END
+ResolverVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/21772/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/resolver/ResolverVisitor.java
+END
+TypeResolverVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/21705/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/resolver/TypeResolverVisitor.java
+END
+Library.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/21415/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/resolver/Library.java
+END
+LibraryElementBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/21415/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/resolver/LibraryElementBuilder.java
+END
+LibraryResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/21508/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/resolver/LibraryResolver.java
+END
+DeclarationResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/21649/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/resolver/DeclarationResolver.java
+END
+ElementResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/21772/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/resolver/ElementResolver.java
+END
+TypeProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/20085/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/resolver/TypeProvider.java
+END
+TypeOverrideManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/21379/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/resolver/TypeOverrideManager.java
+END
+ScopedVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/21706/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/resolver/ScopedVisitor.java
+END
+TypeProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/20085/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/resolver/TypeProviderImpl.java
+END

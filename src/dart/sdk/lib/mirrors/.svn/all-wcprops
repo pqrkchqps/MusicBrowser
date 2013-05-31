@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/21636/branches/bleeding_edge/dart/sdk/lib/mirrors
+END
+mirrors.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/21636/branches/bleeding_edge/dart/sdk/lib/mirrors/mirrors.dart
+END
+mirrors_sources.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/20503/branches/bleeding_edge/dart/sdk/lib/mirrors/mirrors_sources.gypi
+END

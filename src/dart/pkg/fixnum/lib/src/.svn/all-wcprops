@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/19112/branches/bleeding_edge/dart/pkg/fixnum/lib/src
+END
+int32.dart
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/19112/branches/bleeding_edge/dart/pkg/fixnum/lib/src/int32.dart
+END
+intx.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14760/branches/bleeding_edge/dart/pkg/fixnum/lib/src/intx.dart
+END
+int64.dart
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/19112/branches/bleeding_edge/dart/pkg/fixnum/lib/src/int64.dart
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/21556/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/change
+END
+SourceChangeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/19871/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/change/SourceChangeManager.java
+END
+Change.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/18463/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/change/Change.java
+END
+SourceChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/18903/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/change/SourceChange.java
+END
+CompositeChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/21556/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/change/CompositeChange.java
+END

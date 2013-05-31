@@ -1,0 +1,49 @@
+10
+
+dir
+21780
+https://dart.googlecode.com/svn/branches/bleeding_edge/dart/editor/tools/features
+https://dart.googlecode.com/svn
+
+
+
+2013-03-21T13:07:47.968560Z
+20313
+kustermann@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+260f80e4-7a28-3924-810f-c04153c831b5
+
+com.google.dart.eclipse.feature
+dir
+
+com.google.dart.tools.eclipse.platform.feature
+dir
+
+com.google.dart.tools.deploy.feature_releng
+dir
+
+com.google.dart.tools.deploy.feature
+dir
+
+com.google.dart.tools.tests.feature_releng
+dir
+
+com.google.dart.eclipse.feature_releng
+dir
+
+com.google.dart.tools.tests.feature
+dir
+

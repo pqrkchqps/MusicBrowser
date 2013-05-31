@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/21338/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/dart_backend
+END
+backend.dart
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/20145/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/dart_backend/backend.dart
+END
+placeholder_collector.dart
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/19849/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/dart_backend/placeholder_collector.dart
+END
+emitter.dart
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/21338/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/dart_backend/emitter.dart
+END
+renamer.dart
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/21338/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/dart_backend/renamer.dart
+END
+utils.dart
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/18120/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/dart_backend/utils.dart
+END
+dart_backend.dart
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/17825/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/dart_backend/dart_backend.dart
+END

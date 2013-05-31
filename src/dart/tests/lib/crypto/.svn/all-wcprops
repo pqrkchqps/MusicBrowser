@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/lib/crypto
+END
+sha256_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/lib/crypto/sha256_test.dart
+END
+hmac_sha1_test_vectors.dart
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/13967/branches/bleeding_edge/dart/tests/lib/crypto/hmac_sha1_test_vectors.dart
+END
+sha256_long_test_vectors.dart
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14815/branches/bleeding_edge/dart/tests/lib/crypto/sha256_long_test_vectors.dart
+END
+sha256_short_test_vectors.dart
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14815/branches/bleeding_edge/dart/tests/lib/crypto/sha256_short_test_vectors.dart
+END
+sha1_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/lib/crypto/sha1_test.dart
+END
+hmac_md5_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/lib/crypto/hmac_md5_test.dart
+END
+sha1_short_test_vectors.dart
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14815/branches/bleeding_edge/dart/tests/lib/crypto/sha1_short_test_vectors.dart
+END
+sha1_long_test_vectors.dart
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14815/branches/bleeding_edge/dart/tests/lib/crypto/sha1_long_test_vectors.dart
+END
+hmac_sha256_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/lib/crypto/hmac_sha256_test.dart
+END
+hmac_sha1_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/lib/crypto/hmac_sha1_test.dart
+END
+base64_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/lib/crypto/base64_test.dart
+END
+hmac_sha256_test_vectors.dart
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/13967/branches/bleeding_edge/dart/tests/lib/crypto/hmac_sha256_test_vectors.dart
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/20346/branches/bleeding_edge/dart/pkg/serialization/test
+END
+serialization_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/19880/branches/bleeding_edge/dart/pkg/serialization/test/serialization_test.dart
+END
+no_library_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/20346/branches/bleeding_edge/dart/pkg/serialization/test/no_library_test.dart
+END
+polyfill_identity_map_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/18960/branches/bleeding_edge/dart/pkg/serialization/test/polyfill_identity_map_test.dart
+END
+test_models.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16823/branches/bleeding_edge/dart/pkg/serialization/test/test_models.dart
+END

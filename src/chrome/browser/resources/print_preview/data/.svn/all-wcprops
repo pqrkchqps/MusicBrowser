@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/193208/trunk/src/chrome/browser/resources/print_preview/data
+END
+cloud_parsers.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/192749/trunk/src/chrome/browser/resources/print_preview/data/cloud_parsers.js
+END
+printable_area.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/138737/trunk/src/chrome/browser/resources/print_preview/data/printable_area.js
+END
+size.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/138737/trunk/src/chrome/browser/resources/print_preview/data/size.js
+END
+print_ticket_store.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/182005/trunk/src/chrome/browser/resources/print_preview/data/print_ticket_store.js
+END
+coordinate2d.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/138737/trunk/src/chrome/browser/resources/print_preview/data/coordinate2d.js
+END
+cloud_capabilities.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/193208/trunk/src/chrome/browser/resources/print_preview/data/cloud_capabilities.js
+END
+app_state.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/176617/trunk/src/chrome/browser/resources/print_preview/data/app_state.js
+END
+destination.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/188600/trunk/src/chrome/browser/resources/print_preview/data/destination.js
+END
+capabilities_holder.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/138737/trunk/src/chrome/browser/resources/print_preview/data/capabilities_holder.js
+END
+user_info.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/188408/trunk/src/chrome/browser/resources/print_preview/data/user_info.js
+END
+document_info.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/182005/trunk/src/chrome/browser/resources/print_preview/data/document_info.js
+END
+local_parsers.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/188600/trunk/src/chrome/browser/resources/print_preview/data/local_parsers.js
+END
+measurement_system.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/139820/trunk/src/chrome/browser/resources/print_preview/data/measurement_system.js
+END
+chromium_capabilities.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/138737/trunk/src/chrome/browser/resources/print_preview/data/chromium_capabilities.js
+END
+destination_store.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/188936/trunk/src/chrome/browser/resources/print_preview/data/destination_store.js
+END
+measurement_system_unittest.gtestjs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/177425/trunk/src/chrome/browser/resources/print_preview/data/measurement_system_unittest.gtestjs
+END
+page_number_set.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/182005/trunk/src/chrome/browser/resources/print_preview/data/page_number_set.js
+END
+margins.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/156432/trunk/src/chrome/browser/resources/print_preview/data/margins.js
+END

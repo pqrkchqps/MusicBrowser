@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/20585/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport
+END
+LinkedProposalModelPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/LinkedProposalModelPresenter.java
+END
+ProblemTreeViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/ProblemTreeViewer.java
+END
+LabelProviderDisposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/LabelProviderDisposer.java
+END
+DartUILabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/DartUILabelProvider.java
+END
+OwnerDrawSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/OwnerDrawSupport.java
+END
+ImageDescriptorRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/ImageDescriptorRegistry.java
+END
+FilterUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/FilterUpdater.java
+END
+SourcePositionComparator_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/20095/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/SourcePositionComparator_OLD.java
+END
+DartElementLabelComposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/DartElementLabelComposer.java
+END
+HistoryDropDownAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/HistoryDropDownAction.java
+END
+MemberFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/MemberFilter.java
+END
+BasicElementLabels.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/6806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/BasicElementLabels.java
+END
+ProjectTemplateStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/ProjectTemplateStore.java
+END
+NameElementComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/20095/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/NameElementComparator.java
+END
+SelectionProviderMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/SelectionProviderMediator.java
+END
+BindingLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/BindingLabelProvider.java
+END
+ColoredViewersManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/ColoredViewersManager.java
+END
+SourcePositionElementComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/20095/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/SourcePositionElementComparator.java
+END
+ColoringLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/ColoringLabelProvider.java
+END
+IProblemChangedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/IProblemChangedListener.java
+END
+ImageDisposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/ImageDisposer.java
+END
+ViewHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/ViewHistory.java
+END
+ProblemMarkerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/ProblemMarkerManager.java
+END
+StatusBarUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/StatusBarUpdater.java
+END
+ColoredDartElementLabels.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/8499/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/ColoredDartElementLabels.java
+END
+ResourceToItemsMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/9965/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/ResourceToItemsMapper.java
+END
+IViewPartInputProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/IViewPartInputProvider.java
+END
+DecoratingDartLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/DecoratingDartLabelProvider.java
+END
+ISelectionListenerWithAST.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/ISelectionListenerWithAST.java
+END
+IRichLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/IRichLabelProvider.java
+END
+LibraryFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/LibraryFilter.java
+END
+MemberFilterAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/MemberFilterAction.java
+END
+ColoredString.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/ColoredString.java
+END
+StorageLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/StorageLabelProvider.java
+END
+DartViewerFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/DartViewerFilter.java
+END
+DartElementImageProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/20585/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/DartElementImageProvider.java
+END
+ImageImageDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/ImageImageDescriptor.java
+END
+AppearanceAwareLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/AppearanceAwareLabelProvider.java
+END
+SelectionListenerWithASTManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/SelectionListenerWithASTManager.java
+END
+ProblemTableViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/ProblemTableViewer.java
+END
+HistoryListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/HistoryListAction.java
+END
+NewDartElementImageProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/20585/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/viewsupport/NewDartElementImageProvider.java
+END

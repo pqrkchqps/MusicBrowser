@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/20731/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/utilities/collection
+END
+IntStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/20666/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/utilities/collection/IntStack.java
+END
+IntList.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/utilities/collection/IntList.java
+END
+FastRemoveList.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/20731/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/utilities/collection/FastRemoveList.java
+END

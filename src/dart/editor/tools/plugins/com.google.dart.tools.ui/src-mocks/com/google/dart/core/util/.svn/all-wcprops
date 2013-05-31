@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/core/util
+END
+SingleCharReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/core/util/SingleCharReader.java
+END
+DartDocCommentReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/core/util/DartDocCommentReader.java
+END
+MethodOverrideTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/core/util/MethodOverrideTester.java
+END
+SequenceReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/core/util/SequenceReader.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/buffer
+END
+DocumentAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/buffer/DocumentAdapter.java
+END
+NullBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/buffer/NullBuffer.java
+END
+BufferManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/buffer/BufferManager.java
+END
+FileBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/5241/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/buffer/FileBuffer.java
+END
+BufferCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/buffer/BufferCache.java
+END

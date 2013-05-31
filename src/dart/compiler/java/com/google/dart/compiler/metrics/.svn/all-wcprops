@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4771/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/metrics
+END
+Tracer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/metrics/Tracer.java
+END
+CompilerMetrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/4771/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/metrics/CompilerMetrics.java
+END
+JvmMetrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/metrics/JvmMetrics.java
+END
+SpeedTracerEventType.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/metrics/SpeedTracerEventType.java
+END
+DartEventType.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/4771/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/metrics/DartEventType.java
+END

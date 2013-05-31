@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/sdk/lib/isolate
+END
+isolate_stream.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/sdk/lib/isolate/isolate_stream.dart
+END
+isolate.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/20503/branches/bleeding_edge/dart/sdk/lib/isolate/isolate.dart
+END
+isolate_sources.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/20503/branches/bleeding_edge/dart/sdk/lib/isolate/isolate_sources.gypi
+END

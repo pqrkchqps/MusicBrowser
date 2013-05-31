@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/21390/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/util
+END
+DartElementUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/21390/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/util/DartElementUtil.java
+END
+TextChangeManager_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/21157/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/util/TextChangeManager_OLD.java
+END
+RunnableEx.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/7710/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/util/RunnableEx.java
+END
+ExecutionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/14552/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/util/ExecutionUtils.java
+END
+TextChangeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/21157/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/util/TextChangeManager.java
+END
+ResourceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/6806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/util/ResourceUtil.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/util/Messages.java
+END
+Strings.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/util/Strings.java
+END
+RunnableObjectEx.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/6806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/util/RunnableObjectEx.java
+END
+ReflectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/14355/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/util/ReflectionUtils.java
+END

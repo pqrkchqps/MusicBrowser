@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/21632/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/index
+END
+MemoryIndexStoreImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/21632/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/index/MemoryIndexStoreImpl.java
+END
+IndexContributor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/21226/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/index/IndexContributor.java
+END
+MemoryIndexReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/index/MemoryIndexReader.java
+END
+IndexConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/21026/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/index/IndexConstants.java
+END
+IndexImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/21299/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/index/IndexImpl.java
+END
+ContributedLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/21299/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/index/ContributedLocation.java
+END
+UniverseElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/index/UniverseElementImpl.java
+END
+NameElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/index/NameElementImpl.java
+END
+MemoryIndexWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/20721/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/index/MemoryIndexWriter.java
+END

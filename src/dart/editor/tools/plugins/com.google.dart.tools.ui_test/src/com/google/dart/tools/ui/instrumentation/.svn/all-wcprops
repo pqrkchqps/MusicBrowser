@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/21400/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/instrumentation
+END
+HeartbeatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/21029/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/instrumentation/HeartbeatTest.java
+END
+InstrumentationTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/21030/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/instrumentation/InstrumentationTestCase.java
+END
+LogErrorInstrumentationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/21030/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/instrumentation/LogErrorInstrumentationTest.java
+END
+MockInstrumentationBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/21400/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/instrumentation/MockInstrumentationBuilder.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/21030/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/instrumentation/TestAll.java
+END
+MockInstrumentationLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/21030/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/instrumentation/MockInstrumentationLogger.java
+END

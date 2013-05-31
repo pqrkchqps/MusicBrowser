@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/21567/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/timing
+END
+ScanTimings.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/21567/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/timing/ScanTimings.java
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/15211/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/timing/readme.txt
+END
+HtmlParserTimings.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/21122/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/timing/HtmlParserTimings.java
+END

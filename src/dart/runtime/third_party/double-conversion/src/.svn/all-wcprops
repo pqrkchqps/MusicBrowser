@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/21757/branches/bleeding_edge/dart/runtime/third_party/double-conversion/src
+END
+double-conversion.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2601/branches/bleeding_edge/dart/runtime/third_party/double-conversion/src/double-conversion.cc
+END
+double-conversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1870/branches/bleeding_edge/dart/runtime/third_party/double-conversion/src/double-conversion.h
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1872/branches/bleeding_edge/dart/runtime/third_party/double-conversion/src/utils.h
+END
+bignum-dtoa.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1870/branches/bleeding_edge/dart/runtime/third_party/double-conversion/src/bignum-dtoa.cc
+END
+bignum-dtoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1870/branches/bleeding_edge/dart/runtime/third_party/double-conversion/src/bignum-dtoa.h
+END
+double.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1870/branches/bleeding_edge/dart/runtime/third_party/double-conversion/src/double.h
+END
+strtod.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1870/branches/bleeding_edge/dart/runtime/third_party/double-conversion/src/strtod.cc
+END
+double-conversion.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/21757/branches/bleeding_edge/dart/runtime/third_party/double-conversion/src/double-conversion.gypi
+END
+bignum.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1870/branches/bleeding_edge/dart/runtime/third_party/double-conversion/src/bignum.cc
+END
+strtod.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1870/branches/bleeding_edge/dart/runtime/third_party/double-conversion/src/strtod.h
+END
+fast-dtoa.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1870/branches/bleeding_edge/dart/runtime/third_party/double-conversion/src/fast-dtoa.cc
+END
+bignum.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1870/branches/bleeding_edge/dart/runtime/third_party/double-conversion/src/bignum.h
+END
+fast-dtoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1870/branches/bleeding_edge/dart/runtime/third_party/double-conversion/src/fast-dtoa.h
+END
+fixed-dtoa.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1870/branches/bleeding_edge/dart/runtime/third_party/double-conversion/src/fixed-dtoa.cc
+END
+cached-powers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1870/branches/bleeding_edge/dart/runtime/third_party/double-conversion/src/cached-powers.cc
+END
+fixed-dtoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1870/branches/bleeding_edge/dart/runtime/third_party/double-conversion/src/fixed-dtoa.h
+END
+cached-powers.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1870/branches/bleeding_edge/dart/runtime/third_party/double-conversion/src/cached-powers.h
+END
+diy-fp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1870/branches/bleeding_edge/dart/runtime/third_party/double-conversion/src/diy-fp.cc
+END
+diy-fp.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1870/branches/bleeding_edge/dart/runtime/third_party/double-conversion/src/diy-fp.h
+END

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/17605/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info
+END
+DartImportInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/7203/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/DartImportInfo.java
+END
+DartImportContainerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/DartImportContainerInfo.java
+END
+DartMethodInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/16170/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/DartMethodInfo.java
+END
+DartTypeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/DartTypeInfo.java
+END
+DartTypeParameterInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/6855/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/DartTypeParameterInfo.java
+END
+DartFieldInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/DartFieldInfo.java
+END
+DeclarationElementInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/1942/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/DeclarationElementInfo.java
+END
+OpenableElementInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/OpenableElementInfo.java
+END
+DartVariableInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/12394/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/DartVariableInfo.java
+END
+DartFunctionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/16170/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/DartFunctionInfo.java
+END
+DartResourceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/63/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/DartResourceInfo.java
+END
+LibraryFileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/LibraryFileInfo.java
+END
+HTMLFileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/HTMLFileInfo.java
+END
+DartElementInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/DartElementInfo.java
+END
+DartModelInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/12647/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/DartModelInfo.java
+END
+DartLibraryFolderInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/DartLibraryFolderInfo.java
+END
+DartFunctionTypeAliasInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/DartFunctionTypeAliasInfo.java
+END
+ASTHolderCUInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/6855/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/ASTHolderCUInfo.java
+END
+DartApplicationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/DartApplicationInfo.java
+END
+CompilationUnitInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/13099/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/CompilationUnitInfo.java
+END
+SourceReferenceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/9819/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/SourceReferenceInfo.java
+END
+DartLibraryInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/13781/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/DartLibraryInfo.java
+END
+SourceElementWithChildrenInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/7197/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/SourceElementWithChildrenInfo.java
+END
+DartProjectInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/17605/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/info/DartProjectInfo.java
+END

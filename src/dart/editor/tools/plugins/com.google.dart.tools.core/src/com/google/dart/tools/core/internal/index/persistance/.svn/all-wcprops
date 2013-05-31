@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/11980/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/index/persistance
+END
+IndexWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/11189/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/index/persistance/IndexWriter.java
+END
+IndexReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/11980/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/index/persistance/IndexReader.java
+END

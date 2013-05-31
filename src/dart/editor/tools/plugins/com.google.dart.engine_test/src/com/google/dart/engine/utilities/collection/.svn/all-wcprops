@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/20731/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/utilities/collection
+END
+IntStackTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/16766/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/utilities/collection/IntStackTest.java
+END
+IntListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/9664/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/utilities/collection/IntListTest.java
+END
+FastRemoveListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/20731/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/utilities/collection/FastRemoveListTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/20721/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/utilities/collection/TestAll.java
+END

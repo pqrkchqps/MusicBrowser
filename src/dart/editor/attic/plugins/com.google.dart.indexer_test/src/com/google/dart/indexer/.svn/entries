@@ -1,0 +1,80 @@
+10
+
+dir
+21780
+https://dart.googlecode.com/svn/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer_test/src/com/google/dart/indexer
+https://dart.googlecode.com/svn
+
+
+
+2011-11-15T02:26:06.772748Z
+1525
+brianwilkerson@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+260f80e4-7a28-3924-810f-c04153c831b5
+
+source
+dir
+
+tests
+dir
+
+pagedstorage
+dir
+
+core
+dir
+
+TestAll.java
+file
+
+
+
+
+2013-04-14T04:51:46.730782Z
+ff8602cac22b2fafc52beb064fa2e4a6
+2011-11-15T02:26:06.772748Z
+1525
+brianwilkerson@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1151
+
+pagestore
+dir
+
+utilities
+dir
+

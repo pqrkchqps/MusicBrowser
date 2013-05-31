@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14638/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/util/apache
+END
+NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/7049/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/util/apache/NOTICE.txt
+END
+ArrayUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7049/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/util/apache/ArrayUtils.java
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7049/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/util/apache/LICENSE.txt
+END
+FileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7625/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/util/apache/FileUtils.java
+END
+FilenameUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/14638/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/util/apache/FilenameUtils.java
+END
+IOCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/14638/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/util/apache/IOCase.java
+END
+ObjectUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7049/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/util/apache/ObjectUtils.java
+END
+CharSequenceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7049/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/util/apache/CharSequenceUtils.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/11112/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/util/apache/StringUtils.java
+END
+CharUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7049/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/util/apache/CharUtils.java
+END

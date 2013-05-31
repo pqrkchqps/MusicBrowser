@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/21222/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/server
+END
+DartServerTabGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/3372/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/server/DartServerTabGroup.java
+END
+DartServerLaunchShortcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/21222/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/server/DartServerLaunchShortcut.java
+END
+DartServerMainTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/20592/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/server/DartServerMainTab.java
+END

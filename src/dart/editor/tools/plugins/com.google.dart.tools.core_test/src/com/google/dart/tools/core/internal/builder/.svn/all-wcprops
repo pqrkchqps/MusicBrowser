@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/21750/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/builder
+END
+AnalysisMarkerManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/21122/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/builder/AnalysisMarkerManagerTest.java
+END
+DartBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/16148/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/builder/DartBuilderTest.java
+END
+LocalArtifactProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/215/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/builder/LocalArtifactProviderTest.java
+END
+BuildParticipantDeclarationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/15619/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/builder/BuildParticipantDeclarationTest.java
+END
+CachingArtifactProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/1534/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/builder/CachingArtifactProviderTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/21440/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/builder/TestAll.java
+END
+AnalysisEngineParticipantTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/21245/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/builder/AnalysisEngineParticipantTest.java
+END
+BuildDartParticipantTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/17484/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/builder/BuildDartParticipantTest.java
+END
+AnalysisServerParticipantTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/19714/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/builder/AnalysisServerParticipantTest.java
+END
+DeltaProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/21741/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/builder/DeltaProcessorTest.java
+END
+TestProjects.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/20639/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/builder/TestProjects.java
+END
+RootArtifactProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/7726/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/builder/RootArtifactProviderTest.java
+END
+AnalysisWorkerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/21463/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/builder/AnalysisWorkerTest.java
+END
+MockContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/21750/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/builder/MockContext.java
+END

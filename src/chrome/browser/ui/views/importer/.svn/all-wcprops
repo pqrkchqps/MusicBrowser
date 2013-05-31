@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/173993/trunk/src/chrome/browser/ui/views/importer
+END
+import_lock_dialog_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/173993/trunk/src/chrome/browser/ui/views/importer/import_lock_dialog_view.cc
+END
+import_lock_dialog_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/173993/trunk/src/chrome/browser/ui/views/importer/import_lock_dialog_view.h
+END
+import_progress_dialog_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/173993/trunk/src/chrome/browser/ui/views/importer/import_progress_dialog_view.cc
+END
+import_progress_dialog_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/173993/trunk/src/chrome/browser/ui/views/importer/import_progress_dialog_view.h
+END

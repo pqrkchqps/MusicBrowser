@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/20403/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation
+END
+CopyResourceElementsOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation/CopyResourceElementsOperation.java
+END
+BatchOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation/BatchOperation.java
+END
+CommitWorkingCopyOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation/CommitWorkingCopyOperation.java
+END
+BecomeWorkingCopyOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation/BecomeWorkingCopyOperation.java
+END
+MultiOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation/MultiOperation.java
+END
+CreateElementInCUOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation/CreateElementInCUOperation.java
+END
+CreateTypeMemberOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/8944/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation/CreateTypeMemberOperation.java
+END
+DeleteElementsOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation/DeleteElementsOperation.java
+END
+ReconcileWorkingCopyOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/20403/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation/ReconcileWorkingCopyOperation.java
+END
+CreateCompilationUnitOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation/CreateCompilationUnitOperation.java
+END
+MoveElementsOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation/MoveElementsOperation.java
+END
+CreateMethodOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation/CreateMethodOperation.java
+END
+RenameElementsOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation/RenameElementsOperation.java
+END
+CreateTypeOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation/CreateTypeOperation.java
+END
+DiscardWorkingCopyOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation/DiscardWorkingCopyOperation.java
+END
+DeleteResourceElementsOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation/DeleteResourceElementsOperation.java
+END
+CreateFieldOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation/CreateFieldOperation.java
+END
+CopyElementsOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation/CopyElementsOperation.java
+END
+DartModelOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/19591/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation/DartModelOperation.java
+END
+MoveResourceElementsOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation/MoveResourceElementsOperation.java
+END
+RenameResourceElementsOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/operation/RenameResourceElementsOperation.java
+END

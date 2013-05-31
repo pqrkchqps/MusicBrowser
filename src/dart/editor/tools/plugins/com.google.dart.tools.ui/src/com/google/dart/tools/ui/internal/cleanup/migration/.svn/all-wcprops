@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/20428/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/migration
+END
+Migrate_1M2_removeAbstract_CleanUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/14171/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/migration/Migrate_1M2_removeAbstract_CleanUp.java
+END
+Migrate_1M2_functionLiteral_CleanUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/15174/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/migration/Migrate_1M2_functionLiteral_CleanUp.java
+END
+Migrate_1M4_CleanUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/19907/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/migration/Migrate_1M4_CleanUp.java
+END
+Migrate_1M1_library_CleanUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/16174/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/migration/Migrate_1M1_library_CleanUp.java
+END
+Migrate_1M2_methods_CleanUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/18547/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/migration/Migrate_1M2_methods_CleanUp.java
+END
+AbstractMigrateCleanUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/18547/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/migration/AbstractMigrateCleanUp.java
+END
+Migrate_1M1_optionalNamed_CleanUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/14241/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/migration/Migrate_1M1_optionalNamed_CleanUp.java
+END
+Migrate_1M1_identical_CleanUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/12918/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/migration/Migrate_1M1_identical_CleanUp.java
+END
+Migrate_1M3_Future_CleanUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/17500/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/migration/Migrate_1M3_Future_CleanUp.java
+END
+Migrate_1M2_renameTypes_CleanUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/14168/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/migration/Migrate_1M2_renameTypes_CleanUp.java
+END
+Migrate_1M2_removeInterface_CleanUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/14214/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/migration/Migrate_1M2_removeInterface_CleanUp.java
+END
+Migrate_1M3_corelib_CleanUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/20428/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/migration/Migrate_1M3_corelib_CleanUp.java
+END

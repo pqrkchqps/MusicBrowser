@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/16692/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/xml
+END
+XmlPartitionScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/6371/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/xml/XmlPartitionScanner.java
+END
+XmlTagRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/6371/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/xml/XmlTagRule.java
+END
+XmlTagScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/6371/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/xml/XmlTagScanner.java
+END
+XmlWordDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/6371/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/xml/XmlWordDetector.java
+END
+XmlEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/15552/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/xml/XmlEditor.java
+END
+XmlContentOutlinePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/16692/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/xml/XmlContentOutlinePage.java
+END
+XmlDocumentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/6371/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/xml/XmlDocumentProvider.java
+END
+Tokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/6371/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/xml/Tokenizer.java
+END
+XmlScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/6371/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/xml/XmlScanner.java
+END
+XmlLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/15567/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/xml/XmlLabelProvider.java
+END
+XmlDamagerRepairer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/6371/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/xml/XmlDamagerRepairer.java
+END
+XmlSourceViewerConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/15317/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/xml/XmlSourceViewerConfiguration.java
+END
+XmlNodeContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/16544/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/xml/XmlNodeContentProvider.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/14039/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui
+END
+ISearchResultViewPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/ISearchResultViewPart.java
+END
+IContextMenuConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/IContextMenuConstants.java
+END
+IReplacePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/IReplacePage.java
+END
+ISearchResultListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/ISearchResultListener.java
+END
+ISearchQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/ISearchQuery.java
+END
+IQueryListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/IQueryListener.java
+END
+ISearchPageScoreComputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/ISearchPageScoreComputer.java
+END
+SearchResultEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/SearchResultEvent.java
+END
+ISearchResultPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/ISearchResultPage.java
+END
+ISearchPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/ISearchPage.java
+END
+NewSearchUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/NewSearchUI.java
+END
+ISearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/ISearchResult.java
+END
+ISearchPageContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/ISearchPageContainer.java
+END

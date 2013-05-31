@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/18000/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/search
+END
+ElementQuerySpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/17417/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/search/ElementQuerySpecification.java
+END
+PatternQuerySpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/6806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/search/PatternQuerySpecification.java
+END
+QuerySpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/18000/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/search/QuerySpecification.java
+END
+MatchPresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/6806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/search/MatchPresentation.java
+END
+NodeQuerySpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/17417/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/search/NodeQuerySpecification.java
+END

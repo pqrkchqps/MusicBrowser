@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/model
+END
+XmlObjectInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/model/XmlObjectInfo.java
+END
+HtmlRenderHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/model/HtmlRenderHelper.java
+END
+EditorContextCommitListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/model/EditorContextCommitListener.java
+END

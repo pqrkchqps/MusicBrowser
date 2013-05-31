@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/20173/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/yaml
+END
+YamlAutoIndentStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/16692/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/yaml/YamlAutoIndentStrategy.java
+END
+YamlContentAssistProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/15111/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/yaml/YamlContentAssistProcessor.java
+END
+YamlPartitionScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/15111/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/yaml/YamlPartitionScanner.java
+END
+YamlEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/20173/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/yaml/YamlEditor.java
+END
+Tokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/10984/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/yaml/Tokenizer.java
+END
+YamlKeywords.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/15111/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/yaml/YamlKeywords.java
+END
+PubspecYamlEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/20173/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/yaml/PubspecYamlEditor.java
+END
+YamlDocumentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/10984/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/yaml/YamlDocumentProvider.java
+END
+YamlScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/16543/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/yaml/YamlScanner.java
+END
+YamlSourceViewerConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/16543/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/yaml/YamlSourceViewerConfiguration.java
+END
+KeyValueSeparatorRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/16543/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/yaml/KeyValueSeparatorRule.java
+END

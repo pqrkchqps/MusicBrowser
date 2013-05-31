@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/16692/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/css/model
+END
+CssParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/16692/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/css/model/CssParser.java
+END
+CssBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/16692/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/css/model/CssBody.java
+END
+CssDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/16692/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/css/model/CssDocument.java
+END
+Tokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/16692/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/css/model/Tokenizer.java
+END
+CssProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/16692/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/css/model/CssProperty.java
+END
+CssSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/16692/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/css/model/CssSection.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/pkg/scheduled_test/test/descriptor
+END
+pattern_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/20827/branches/bleeding_edge/dart/pkg/scheduled_test/test/descriptor/pattern_test.dart
+END
+async_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/pkg/scheduled_test/test/descriptor/async_test.dart
+END
+file_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/20827/branches/bleeding_edge/dart/pkg/scheduled_test/test/descriptor/file_test.dart
+END
+utils.dart
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/20978/branches/bleeding_edge/dart/pkg/scheduled_test/test/descriptor/utils.dart
+END
+directory_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/20827/branches/bleeding_edge/dart/pkg/scheduled_test/test/descriptor/directory_test.dart
+END
+nothing_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/20827/branches/bleeding_edge/dart/pkg/scheduled_test/test/descriptor/nothing_test.dart
+END

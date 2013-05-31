@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/21179/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/html/scanner
+END
+StringScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/html/scanner/StringScanner.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/20907/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/html/scanner/Token.java
+END
+CharBufferScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/20251/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/html/scanner/CharBufferScanner.java
+END
+TokenType.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/html/scanner/TokenType.java
+END
+HtmlScanResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/21179/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/html/scanner/HtmlScanResult.java
+END
+AbstractScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/html/scanner/AbstractScanner.java
+END
+HtmlScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/21179/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/html/scanner/HtmlScanner.java
+END

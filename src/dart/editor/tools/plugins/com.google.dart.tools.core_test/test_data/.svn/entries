@@ -1,0 +1,43 @@
+10
+
+dir
+21780
+https://dart.googlecode.com/svn/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/test_data
+https://dart.googlecode.com/svn
+
+
+
+2013-01-21T13:34:02.802912Z
+17352
+floitsch@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+260f80e4-7a28-3924-810f-c04153c831b5
+
+UserLibrary
+dir
+
+Money
+dir
+
+Geometry
+dir
+
+Bank
+dir
+
+SampleCode
+dir
+

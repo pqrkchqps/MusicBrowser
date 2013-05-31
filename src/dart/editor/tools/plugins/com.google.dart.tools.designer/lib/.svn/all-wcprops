@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/16223/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/lib
+END
+httpcore-4.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/lib/httpcore-4.2.2.jar
+END
+httpcore-4.2.2-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/lib/httpcore-4.2.2-sources.jar
+END
+commons-exec-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/lib/commons-exec-1.1.jar
+END
+commons-exec-1.1-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/lib/commons-exec-1.1-sources.jar
+END
+commons-lang3-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/lib/commons-lang3-3.1.jar
+END
+commons-lang3-3.1-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/lib/commons-lang3-3.1-sources.jar
+END
+commons-io-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/lib/commons-io-2.4.jar
+END
+commons-io-2.4-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/lib/commons-io-2.4-sources.jar
+END

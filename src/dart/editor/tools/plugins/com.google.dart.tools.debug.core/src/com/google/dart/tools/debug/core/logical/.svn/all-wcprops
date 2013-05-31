@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/17257/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/logical
+END
+MapStructureType.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/17257/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/logical/MapStructureType.java
+END
+LogicalDebugVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/12727/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/logical/LogicalDebugVariable.java
+END
+LogicalDebugValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/12727/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/logical/LogicalDebugValue.java
+END

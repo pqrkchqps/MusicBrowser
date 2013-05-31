@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/21758/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/.project
+END
+DartdocHoverStyleSheet.css
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/6893/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/DartdocHoverStyleSheet.css
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/12122/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/.gitignore
+END
+about.ini
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/about.ini
+END
+plugin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/21407/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/plugin.properties
+END
+.options
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14355/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/.options
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/4983/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/build.properties
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/21675/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/plugin.xml
+END

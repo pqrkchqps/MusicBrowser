@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/updating
+END
+FileInfoUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/updating/FileInfoUpdater.java
+END
+LayerUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/updating/LayerUpdater.java
+END
+FileInfoUpdaterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/updating/FileInfoUpdaterImpl.java
+END
+FileInfoBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/updating/FileInfoBuilder.java
+END
+PerLocationDependenciesBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/updating/PerLocationDependenciesBuilder.java
+END
+LocationUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/updating/LocationUpdater.java
+END
+DependenciesBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/updating/DependenciesBuilder.java
+END

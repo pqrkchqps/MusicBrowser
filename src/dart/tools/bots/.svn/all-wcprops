@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21430/branches/bleeding_edge/dart/tools/bots
+END
+compiler.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/21430/branches/bleeding_edge/dart/tools/bots/compiler.py
+END
+android.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15852/branches/bleeding_edge/dart/tools/bots/android.py
+END
+bot.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/20319/branches/bleeding_edge/dart/tools/bots/bot.py
+END
+pub.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/20630/branches/bleeding_edge/dart/tools/bots/pub.py
+END
+editor.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/20446/branches/bleeding_edge/dart/tools/bots/editor.py
+END

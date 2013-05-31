@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/20872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/handlers
+END
+OpenFileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/20718/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/handlers/OpenFileHandler.java
+END
+GenerateJavascriptHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/4768/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/handlers/GenerateJavascriptHandler.java
+END
+HandlerMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/705/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/handlers/HandlerMessages.properties
+END
+HandlerMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/705/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/handlers/HandlerMessages.java
+END
+PubUpdateHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/12924/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/handlers/PubUpdateHandler.java
+END
+NewFileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/16132/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/handlers/NewFileHandler.java
+END
+IgnoreResourceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/19506/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/handlers/IgnoreResourceHandler.java
+END
+GenerateDartdocHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/12250/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/handlers/GenerateDartdocHandler.java
+END
+OrganizeImportsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/20872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/handlers/OrganizeImportsHandler.java
+END
+OpenFolderHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/5042/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/handlers/OpenFolderHandler.java
+END
+PubInstallHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/11187/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/handlers/PubInstallHandler.java
+END
+UnIgnoreResourceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/11428/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/handlers/UnIgnoreResourceHandler.java
+END

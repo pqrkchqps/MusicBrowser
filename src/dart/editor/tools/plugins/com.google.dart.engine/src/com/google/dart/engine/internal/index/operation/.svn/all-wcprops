@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/21566/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/index/operation
+END
+RemoveSourceOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/index/operation/RemoveSourceOperation.java
+END
+OperationProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/20666/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/index/operation/OperationProcessor.java
+END
+RemoveSourcesOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/index/operation/RemoveSourcesOperation.java
+END
+RemoveContextOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/index/operation/RemoveContextOperation.java
+END
+OperationQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/21566/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/index/operation/OperationQueue.java
+END
+GetRelationshipsOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/index/operation/GetRelationshipsOperation.java
+END
+IndexOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/20666/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/index/operation/IndexOperation.java
+END
+IndexUnitOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/index/operation/IndexUnitOperation.java
+END

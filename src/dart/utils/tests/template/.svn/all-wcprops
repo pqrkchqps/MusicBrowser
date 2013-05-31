@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17549/branches/bleeding_edge/dart/utils/tests/template
+END
+name_entry_text.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5665/branches/bleeding_edge/dart/utils/tests/template/name_entry_text.tmpl
+END
+test_simple.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14693/branches/bleeding_edge/dart/utils/tests/template/test_simple.dart
+END
+callview.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5665/branches/bleeding_edge/dart/utils/tests/template/callview.tmpl
+END
+test_complex2.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14693/branches/bleeding_edge/dart/utils/tests/template/test_complex2.dart
+END
+applications2.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5900/branches/bleeding_edge/dart/utils/tests/template/applications2.tmpl
+END
+name_entry_css.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5544/branches/bleeding_edge/dart/utils/tests/template/name_entry_css.tmpl
+END
+name_entry_simple.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6231/branches/bleeding_edge/dart/utils/tests/template/name_entry_simple.tmpl
+END
+productview.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5544/branches/bleeding_edge/dart/utils/tests/template/productview.tmpl
+END
+nestedview.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5665/branches/bleeding_edge/dart/utils/tests/template/nestedview.tmpl
+END
+top_searches.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5665/branches/bleeding_edge/dart/utils/tests/template/top_searches.tmpl
+END
+name_entry2.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5544/branches/bleeding_edge/dart/utils/tests/template/name_entry2.tmpl
+END
+test_complex.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14693/branches/bleeding_edge/dart/utils/tests/template/test_complex.dart
+END
+applications.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5544/branches/bleeding_edge/dart/utils/tests/template/applications.tmpl
+END
+productview_localname.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5665/branches/bleeding_edge/dart/utils/tests/template/productview_localname.tmpl
+END
+top_searches_css.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5665/branches/bleeding_edge/dart/utils/tests/template/top_searches_css.tmpl
+END
+test_list.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14693/branches/bleeding_edge/dart/utils/tests/template/test_list.dart
+END
+test_with.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14693/branches/bleeding_edge/dart/utils/tests/template/test_with.dart
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6231/branches/bleeding_edge/dart/utils/tests/template/run
+END
+productview2.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5544/branches/bleeding_edge/dart/utils/tests/template/productview2.tmpl
+END
+productview3.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5900/branches/bleeding_edge/dart/utils/tests/template/productview3.tmpl
+END
+complex_datamodel.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12017/branches/bleeding_edge/dart/utils/tests/template/complex_datamodel.dart
+END
+sample.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14693/branches/bleeding_edge/dart/utils/tests/template/sample.dart
+END
+test_nested.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14693/branches/bleeding_edge/dart/utils/tests/template/test_nested.dart
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5544/branches/bleeding_edge/dart/utils/tests/template/README.txt
+END
+realviews.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5665/branches/bleeding_edge/dart/utils/tests/template/realviews.tmpl
+END
+real_app.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/17549/branches/bleeding_edge/dart/utils/tests/template/real_app.dart
+END
+name_entry.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5544/branches/bleeding_edge/dart/utils/tests/template/name_entry.tmpl
+END
+top_searches2.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5665/branches/bleeding_edge/dart/utils/tests/template/top_searches2.tmpl
+END

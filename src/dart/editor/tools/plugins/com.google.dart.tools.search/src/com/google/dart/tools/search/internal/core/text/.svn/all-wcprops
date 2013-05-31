@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/15057/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/core/text
+END
+FileCharSequenceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/core/text/FileCharSequenceProvider.java
+END
+PatternConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/core/text/PatternConstructor.java
+END
+ExternalFileCharSequenceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/core/text/ExternalFileCharSequenceProvider.java
+END
+DocumentCharSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/core/text/DocumentCharSequence.java
+END
+TextSearchExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/13988/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/core/text/TextSearchExecutor.java
+END
+TextSearchEngineRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/core/text/TextSearchEngineRegistry.java
+END
+FilesOfScopeCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/15057/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/core/text/FilesOfScopeCalculator.java
+END
+ExternalFilesOfScopeCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/7427/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/core/text/ExternalFilesOfScopeCalculator.java
+END
+FileNamePatternSearchScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/core/text/FileNamePatternSearchScope.java
+END

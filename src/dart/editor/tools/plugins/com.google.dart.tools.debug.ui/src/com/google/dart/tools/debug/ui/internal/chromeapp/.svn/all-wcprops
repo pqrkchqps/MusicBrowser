@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/20707/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/chromeapp
+END
+ChromeAppTabGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/17483/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/chromeapp/ChromeAppTabGroup.java
+END
+ChromeAppLaunchShortcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/20707/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/chromeapp/ChromeAppLaunchShortcut.java
+END
+ChromeAppMainTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/17483/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/chromeapp/ChromeAppMainTab.java
+END

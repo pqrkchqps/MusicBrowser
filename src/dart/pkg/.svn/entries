@@ -1,0 +1,184 @@
+10
+
+dir
+21780
+https://dart.googlecode.com/svn/branches/bleeding_edge/dart/pkg
+https://dart.googlecode.com/svn
+
+
+
+2013-04-19T22:24:22.819928Z
+21776
+gram@google.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+260f80e4-7a28-3924-810f-c04153c831b5
+
+pkg.gyp
+file
+
+
+
+
+2013-04-14T04:50:25.230783Z
+de0dfd08185b16528013bf3a1d938a4b
+2012-12-11T05:57:04.463020Z
+15947
+alanknight@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+773
+
+http
+dir
+
+unittest
+dir
+
+source_maps
+dir
+
+browser
+dir
+
+stack_trace
+dir
+
+meta
+dir
+
+logging
+dir
+
+expect
+dir
+
+webdriver
+dir
+
+args
+dir
+
+pathos
+dir
+
+scheduled_test
+dir
+
+oauth2
+dir
+
+analyzer_experimental
+dir
+
+yaml
+dir
+
+pkg.status
+file
+
+
+
+
+2013-04-20T00:08:20.694452Z
+f808131405bdfb30264db13598ee32a1
+2013-04-18T20:01:25.024544Z
+21697
+ahe@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5660
+
+.gitignore
+file
+
+
+
+
+2013-04-14T04:50:25.230783Z
+1367a635a09f09e6d7bdabdb6db26382
+2012-11-27T14:07:53.869151Z
+15392
+whesse@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+111
+
+intl
+dir
+
+fixnum
+dir
+
+serialization
+dir
+

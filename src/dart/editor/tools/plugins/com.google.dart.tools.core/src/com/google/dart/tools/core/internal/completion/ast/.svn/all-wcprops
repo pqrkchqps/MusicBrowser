@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/16864/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ast
+END
+FunctionCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/16170/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ast/FunctionCompleter.java
+END
+BlockCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/7349/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ast/BlockCompleter.java
+END
+CompletionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ast/CompletionUtil.java
+END
+SuperConstructorInvocationCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/7349/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ast/SuperConstructorInvocationCompleter.java
+END
+IfCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/10295/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ast/IfCompleter.java
+END
+CompletionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ast/CompletionNode.java
+END
+ClassCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/16864/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ast/ClassCompleter.java
+END
+PropertyAccessCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/13324/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ast/PropertyAccessCompleter.java
+END
+NewExpressionCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/7349/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ast/NewExpressionCompleter.java
+END
+MethodInvocationCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/13324/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ast/MethodInvocationCompleter.java
+END
+VariableStatementCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/7349/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ast/VariableStatementCompleter.java
+END
+ReturnCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/7349/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ast/ReturnCompleter.java
+END
+ParameterCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/7349/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ast/ParameterCompleter.java
+END
+TypeCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/7349/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ast/TypeCompleter.java
+END
+IdentifierCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/7349/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ast/IdentifierCompleter.java
+END
+TypeParameterCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/7349/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ast/TypeParameterCompleter.java
+END
+FieldCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/7349/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ast/FieldCompleter.java
+END

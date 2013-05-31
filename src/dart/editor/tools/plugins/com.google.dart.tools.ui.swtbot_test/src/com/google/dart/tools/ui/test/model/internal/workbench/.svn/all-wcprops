@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/15535/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/test/model/internal/workbench
+END
+LogWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/15459/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/test/model/internal/workbench/LogWatcher.java
+END
+WorkbenchCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/15439/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/test/model/internal/workbench/WorkbenchCommand.java
+END
+CommandRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/15439/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/test/model/internal/workbench/CommandRunnable.java
+END
+ProjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/15535/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/test/model/internal/workbench/ProjectImpl.java
+END
+WorkbenchFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/15439/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/test/model/internal/workbench/WorkbenchFinder.java
+END
+CommandException.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/15439/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/test/model/internal/workbench/CommandException.java
+END

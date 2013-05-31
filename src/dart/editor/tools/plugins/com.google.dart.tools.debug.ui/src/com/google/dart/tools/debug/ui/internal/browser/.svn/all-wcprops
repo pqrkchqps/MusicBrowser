@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/21284/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/browser
+END
+BrowserMainTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/15159/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/browser/BrowserMainTab.java
+END
+BrowserLaunchConfigurationDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/21284/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/browser/BrowserLaunchConfigurationDelegate.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/15159/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/browser/messages.properties
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/9308/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/browser/Messages.java
+END
+BrowserLaunchShortcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/20707/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/browser/BrowserLaunchShortcut.java
+END
+BrowserLaunchConfigurationTabGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/3377/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/browser/BrowserLaunchConfigurationTabGroup.java
+END

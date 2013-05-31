@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/20931/branches/bleeding_edge/dart/samples/openglui/android-blasteroids
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/20745/branches/bleeding_edge/dart/samples/openglui/android-blasteroids/project.properties
+END
+custom_rules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/20745/branches/bleeding_edge/dart/samples/openglui/android-blasteroids/custom_rules.xml
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/20745/branches/bleeding_edge/dart/samples/openglui/android-blasteroids/AndroidManifest.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/20745/branches/bleeding_edge/dart/samples/openglui/android-blasteroids/build.xml
+END
+android.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/20931/branches/bleeding_edge/dart/samples/openglui/android-blasteroids/android.gyp
+END

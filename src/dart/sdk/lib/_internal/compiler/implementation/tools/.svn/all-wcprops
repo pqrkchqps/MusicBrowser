@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/21466/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/tools
+END
+mini_parser.dart
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/21466/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/tools/mini_parser.dart
+END
+find_file_to_parse.sh
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/14473/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/tools/find_file_to_parse.sh
+END

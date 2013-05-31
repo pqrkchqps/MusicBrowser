@@ -1,0 +1,30 @@
+
+FAILED: none-dartium release_ia32 html/webgl_1_test/supported
+Expected: pass fail 
+Actual: crash
+
+stdout:
+run_selenium.py: Unexpected exception occured: 
+    type:  <class 'selenium.common.exceptions.WebDriverException'>
+    value:  Message: u'Could not find Chrome binary at: /home/mt5/Apps/Dart/dartium/src/out/Release/chrome' 
+    traceback:  <traceback object at 0xb750025c>
+Closing browser
+
+To retest, run:  /home/mt5/Apps/Dart/dartium/src/dart/tools/testing/bin/linux/dart /home/mt5/Apps/Dart/dartium/src/dart/tools/testing/dart/http_server.dart -p 50734 -c 59576 --build-directory=/home/mt5/Apps/Dart/dartium/src/out/ReleaseIA32
+
+Command line: python "/home/mt5/Apps/Dart/dartium/src/dart/tools/testing/run_selenium.py" "--browser=dartium" "--timeout=120" "--out=http://127.0.0.1:50734/root_build/generated_tests/none-dartium/tests_html_webgl_1_test/test.html?crossOriginPort=59576&group=supported" "--executable=/home/mt5/Apps/Dart/dartium/src/out/Release/chrome"
+
+FAILED: none-dartium release_ia32 html/webgl_1_test/functional
+Expected: pass fail 
+Actual: crash
+
+stdout:
+run_selenium.py: Unexpected exception occured: 
+    type:  <class 'selenium.common.exceptions.WebDriverException'>
+    value:  Message: u'Could not find Chrome binary at: /home/mt5/Apps/Dart/dartium/src/out/Release/chrome' 
+    traceback:  <traceback object at 0xb747925c>
+Closing browser
+
+To retest, run:  /home/mt5/Apps/Dart/dartium/src/dart/tools/testing/bin/linux/dart /home/mt5/Apps/Dart/dartium/src/dart/tools/testing/dart/http_server.dart -p 50734 -c 59576 --build-directory=/home/mt5/Apps/Dart/dartium/src/out/ReleaseIA32
+
+Command line: python "/home/mt5/Apps/Dart/dartium/src/dart/tools/testing/run_selenium.py" "--browser=dartium" "--timeout=120" "--out=http://127.0.0.1:50734/root_build/generated_tests/none-dartium/tests_html_webgl_1_test/test.html?crossOriginPort=59576&group=functional" "--executable=/home/mt5/Apps/Dart/dartium/src/out/Release/chrome" "--force-refresh"

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/18098/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/completion
+END
+CompletionMetrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/4962/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/completion/CompletionMetrics.java
+END
+CorrectionRequestor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/completion/CorrectionRequestor.java
+END
+CompletionRequestor.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/18098/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/completion/CompletionRequestor.java
+END
+CompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/13147/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/completion/CompletionProposal.java
+END
+CompletionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/completion/CompletionContext.java
+END

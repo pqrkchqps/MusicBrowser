@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/16266/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/schema
+END
+buildParticipants.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/15625/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/schema/buildParticipants.exsd
+END
+instrumentationLogger.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/16266/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/schema/instrumentationLogger.exsd
+END
+workingCopyOwner.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/schema/workingCopyOwner.exsd
+END

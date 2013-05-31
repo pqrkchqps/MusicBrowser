@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search2/internal/ui/text
+END
+MarkerHighlighter.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search2/internal/ui/text/MarkerHighlighter.java
+END
+PositionTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search2/internal/ui/text/PositionTracker.java
+END
+EditorAccessHighlighter.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search2/internal/ui/text/EditorAccessHighlighter.java
+END
+AnnotationManagers.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search2/internal/ui/text/AnnotationManagers.java
+END
+AnnotationHighlighter.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search2/internal/ui/text/AnnotationHighlighter.java
+END
+EditorAnnotationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search2/internal/ui/text/EditorAnnotationManager.java
+END
+WindowAnnotationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search2/internal/ui/text/WindowAnnotationManager.java
+END
+Highlighter.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search2/internal/ui/text/Highlighter.java
+END

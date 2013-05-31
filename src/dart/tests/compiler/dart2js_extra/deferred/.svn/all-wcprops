@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/21103/branches/bleeding_edge/dart/tests/compiler/dart2js_extra/deferred
+END
+deferred_constant_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/21103/branches/bleeding_edge/dart/tests/compiler/dart2js_extra/deferred/deferred_constant_test.dart
+END
+deferred_class_library.dart
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/19378/branches/bleeding_edge/dart/tests/compiler/dart2js_extra/deferred/deferred_class_library.dart
+END
+deferred_function_library.dart
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/18671/branches/bleeding_edge/dart/tests/compiler/dart2js_extra/deferred/deferred_function_library.dart
+END
+deferred_function_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/21103/branches/bleeding_edge/dart/tests/compiler/dart2js_extra/deferred/deferred_function_test.dart
+END
+deferred_class_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/21103/branches/bleeding_edge/dart/tests/compiler/dart2js_extra/deferred/deferred_class_test.dart
+END
+deferred_semantics_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/18671/branches/bleeding_edge/dart/tests/compiler/dart2js_extra/deferred/deferred_semantics_test.dart
+END

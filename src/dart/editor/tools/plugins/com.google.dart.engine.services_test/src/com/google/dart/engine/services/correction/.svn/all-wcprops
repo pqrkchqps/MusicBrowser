@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/21751/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/correction
+END
+CorrectionProposalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/21716/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/correction/CorrectionProposalTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/21751/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/correction/TestAll.java
+END
+CorrectionProcessorsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/21675/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/correction/CorrectionProcessorsTest.java
+END

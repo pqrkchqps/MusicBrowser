@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/16066/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/refresh
+END
+ResourceChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/4276/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/refresh/ResourceChangeEvent.java
+END
+ResourceRefreshManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/refresh/ResourceRefreshManager.java
+END
+ResourceChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/4276/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/refresh/ResourceChangeListener.java
+END
+DartPackagesFolderMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/16066/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/refresh/DartPackagesFolderMatcher.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/19925/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/base
+END
+Env.dart
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16065/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/base/Env.dart
+END
+Size.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/16065/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/base/Size.dart
+END
+base.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/18562/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/base/base.dart
+END
+AnimationScheduler.dart
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/19925/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/base/AnimationScheduler.dart
+END
+Device.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/16065/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/base/Device.dart
+END
+DomWrapper.dart
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/18562/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/base/DomWrapper.dart
+END

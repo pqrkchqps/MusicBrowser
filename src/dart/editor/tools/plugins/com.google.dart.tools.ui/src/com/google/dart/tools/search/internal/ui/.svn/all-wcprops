@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/21750/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/search/internal/ui
+END
+SearchMatchPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/21704/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/search/internal/ui/SearchMatchPage.java
+END
+FindReferencesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/21026/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/search/internal/ui/FindReferencesAction.java
+END
+SearchView.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/21704/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/search/internal/ui/SearchView.java
+END
+FindOverridesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/20221/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/search/internal/ui/FindOverridesAction.java
+END
+ReferencesSearchGroup_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/20973/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/search/internal/ui/ReferencesSearchGroup_OLD.java
+END
+SearchPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/20221/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/search/internal/ui/SearchPage.java
+END
+FindDeclarationsAction_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/20221/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/search/internal/ui/FindDeclarationsAction_OLD.java
+END
+FindDeclarationsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/21020/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/search/internal/ui/FindDeclarationsAction.java
+END
+DartSearchActionGroup_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/20221/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/search/internal/ui/DartSearchActionGroup_OLD.java
+END
+DartSearchActionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/20716/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/search/internal/ui/DartSearchActionGroup.java
+END
+FindAction_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/21750/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/search/internal/ui/FindAction_OLD.java
+END
+FindReferencesAction_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/20221/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/search/internal/ui/FindReferencesAction_OLD.java
+END

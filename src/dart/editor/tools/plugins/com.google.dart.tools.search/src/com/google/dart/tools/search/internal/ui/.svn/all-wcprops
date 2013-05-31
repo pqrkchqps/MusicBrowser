@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/15057/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui
+END
+ScopePart.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/ScopePart.java
+END
+SearchPageDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/SearchPageDescriptor.java
+END
+SearchPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/SearchPreferencePage.java
+END
+OpenSearchDialogPageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/OpenSearchDialogPageAction.java
+END
+OpenSearchDialogAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/OpenSearchDialogAction.java
+END
+SelectAllAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/SelectAllAction.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/Messages.java
+END
+SearchMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/SearchMessages.properties
+END
+SearchPreferenceInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/SearchPreferenceInitializer.java
+END
+SearchPluginImages.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/SearchPluginImages.java
+END
+SorterDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/SorterDescriptor.java
+END
+OpenFileSearchPageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/OpenFileSearchPageAction.java
+END
+WorkingSetComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/WorkingSetComparator.java
+END
+SearchPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/SearchPlugin.java
+END
+SearchDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/SearchDialog.java
+END
+CopyToClipboardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/CopyToClipboardAction.java
+END
+ISearchHelpContextIds.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/ISearchHelpContextIds.java
+END
+SearchMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/SearchMessages.java
+END

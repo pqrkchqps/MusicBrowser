@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/21741/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/model
+END
+ContextManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/21245/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/model/ContextManager.java
+END
+ProjectManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/20736/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/model/ProjectManager.java
+END
+PubFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/21741/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/model/PubFolder.java
+END
+Project.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/21228/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/model/Project.java
+END
+ProjectEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/18735/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/model/ProjectEvent.java
+END
+ProjectListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/18735/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/model/ProjectListener.java
+END

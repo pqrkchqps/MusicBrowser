@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/breakpoints
+END
+DartEnableDisableBreakpointDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/7426/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/breakpoints/DartEnableDisableBreakpointDelegate.java
+END
+RulerEnableDisableBreakpointAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/7426/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/breakpoints/RulerEnableDisableBreakpointAction.java
+END
+DartBreakpointAdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/12923/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/breakpoints/DartBreakpointAdapterFactory.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/breakpoints/messages.properties
+END
+DartToggleBreakpointDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/12923/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/breakpoints/DartToggleBreakpointDelegate.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/7426/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/breakpoints/Messages.java
+END
+DartBreakpointAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/breakpoints/DartBreakpointAdapter.java
+END
+RetargetToggleBreakpointAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/9598/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/breakpoints/RetargetToggleBreakpointAction.java
+END

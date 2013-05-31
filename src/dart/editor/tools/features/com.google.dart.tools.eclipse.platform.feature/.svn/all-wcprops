@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/19360/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.tools.eclipse.platform.feature
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.tools.eclipse.platform.feature/.project
+END
+feature.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/10547/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.tools.eclipse.platform.feature/feature.properties
+END
+feature.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/19360/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.tools.eclipse.platform.feature/feature.xml
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.tools.eclipse.platform.feature/build.properties
+END

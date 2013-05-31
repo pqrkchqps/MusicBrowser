@@ -1,0 +1,86 @@
+10
+
+dir
+21780
+https://dart.googlecode.com/svn/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services
+https://dart.googlecode.com/svn
+
+
+
+2013-04-19T20:12:40.518182Z
+21765
+messick@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+260f80e4-7a28-3924-810f-c04153c831b5
+
+status
+dir
+
+refactoring
+dir
+
+change
+dir
+
+assist
+dir
+
+correction
+dir
+
+TestAll.java
+file
+
+
+
+
+2013-04-14T04:51:27.731282Z
+666bd81a2e58f24b1b2af781d03e9c08
+2013-03-26T15:48:35.559354Z
+20519
+scheglov@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1492
+
+completion
+dir
+
+internal
+dir
+
+util
+dir
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/19714/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/index
+END
+AnalysisMarkerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/19505/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/index/AnalysisMarkerManager.java
+END
+AnalysisIndexListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/14581/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/index/AnalysisIndexListener.java
+END
+AnalysisIndexManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/19714/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/index/AnalysisIndexManager.java
+END

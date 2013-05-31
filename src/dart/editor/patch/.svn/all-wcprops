@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/13262/branches/bleeding_edge/dart/editor/patch
+END
+CompletionProposalPopup.diff
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12813/branches/bleeding_edge/dart/editor/patch/CompletionProposalPopup.diff
+END
+RefactoringStatusDialog.diff
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12750/branches/bleeding_edge/dart/editor/patch/RefactoringStatusDialog.diff
+END
+FileSystemResourceManager.diff
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/13262/branches/bleeding_edge/dart/editor/patch/FileSystemResourceManager.diff
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/21533/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/observable
+END
+ChangeEvent.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/16065/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/observable/ChangeEvent.dart
+END
+EventBatch.dart
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/16065/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/observable/EventBatch.dart
+END
+observable.dart
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/21533/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/observable/observable.dart
+END

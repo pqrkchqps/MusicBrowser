@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/21166/branches/bleeding_edge/dart/pkg/intl/test
+END
+bidi_utils_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/17007/branches/bleeding_edge/dart/pkg/intl/test/bidi_utils_test.dart
+END
+date_time_format_file_odd_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/20993/branches/bleeding_edge/dart/pkg/intl/test/date_time_format_file_odd_test.dart
+END
+date_time_format_local_even_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/20993/branches/bleeding_edge/dart/pkg/intl/test/date_time_format_local_even_test.dart
+END
+date_time_format_uninitialized_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/20993/branches/bleeding_edge/dart/pkg/intl/test/date_time_format_uninitialized_test.dart
+END
+date_time_format_test_data.dart
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14443/branches/bleeding_edge/dart/pkg/intl/test/date_time_format_test_data.dart
+END
+data_directory.dart
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/20122/branches/bleeding_edge/dart/pkg/intl/test/data_directory.dart
+END
+date_time_format_test_stub.dart
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/20993/branches/bleeding_edge/dart/pkg/intl/test/date_time_format_test_stub.dart
+END
+number_format_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/21166/branches/bleeding_edge/dart/pkg/intl/test/number_format_test.dart
+END
+date_time_format_local_odd_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/20993/branches/bleeding_edge/dart/pkg/intl/test/date_time_format_local_odd_test.dart
+END
+find_default_locale_browser_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/17091/branches/bleeding_edge/dart/pkg/intl/test/find_default_locale_browser_test.dart
+END
+intl_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17007/branches/bleeding_edge/dart/pkg/intl/test/intl_test.dart
+END
+date_time_format_http_request_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/20993/branches/bleeding_edge/dart/pkg/intl/test/date_time_format_http_request_test.dart
+END
+date_time_format_test_core.dart
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/20993/branches/bleeding_edge/dart/pkg/intl/test/date_time_format_test_core.dart
+END
+find_default_locale_standalone_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/17674/branches/bleeding_edge/dart/pkg/intl/test/find_default_locale_standalone_test.dart
+END
+date_time_format_file_even_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/20993/branches/bleeding_edge/dart/pkg/intl/test/date_time_format_file_even_test.dart
+END
+bidi_format_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/17007/branches/bleeding_edge/dart/pkg/intl/test/bidi_format_test.dart
+END
+number_test_data.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/21166/branches/bleeding_edge/dart/pkg/intl/test/number_test_data.dart
+END
+number_closure_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/21166/branches/bleeding_edge/dart/pkg/intl/test/number_closure_test.dart
+END
+intl_message_basic_example_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/20047/branches/bleeding_edge/dart/pkg/intl/test/intl_message_basic_example_test.dart
+END

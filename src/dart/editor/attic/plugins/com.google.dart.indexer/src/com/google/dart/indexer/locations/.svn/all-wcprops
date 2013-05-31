@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/locations
+END
+Location.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/locations/Location.java
+END
+LocationPersitence.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/locations/LocationPersitence.java
+END
+LocationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/locations/LocationType.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/21390/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring
+END
+RefactoringCoreMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/16980/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/RefactoringCoreMessages.properties
+END
+Checks.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/16980/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/Checks.java
+END
+StubTypeContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/13920/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/StubTypeContext.java
+END
+RefactoringCoreMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/16980/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/RefactoringCoreMessages.java
+END
+RefactoringAvailabilityTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/19877/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/RefactoringAvailabilityTester.java
+END
+RefactoringExecutionStarter_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/20718/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/RefactoringExecutionStarter_OLD.java
+END
+TypeContextChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/14374/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/TypeContextChecker.java
+END
+RefactoringExecutionStarter.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/20365/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/RefactoringExecutionStarter.java
+END

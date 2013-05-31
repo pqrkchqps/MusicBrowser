@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/21568/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/mock
+END
+MockProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/21568/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/mock/MockProject.java
+END
+MockResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/21568/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/mock/MockResource.java
+END
+MockDelta.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/20712/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/mock/MockDelta.java
+END
+MockProjectDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/mock/MockProjectDescription.java
+END
+MockFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/16148/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/mock/MockFolder.java
+END
+MockCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/379/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/mock/MockCommand.java
+END
+MockWorkspace.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/21178/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/mock/MockWorkspace.java
+END
+MockFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/21032/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/mock/MockFile.java
+END
+MockMarker.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/21178/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/mock/MockMarker.java
+END
+MockProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/15561/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/mock/MockProxy.java
+END
+MockContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/20712/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/mock/MockContainer.java
+END
+MockWorkspaceRoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/21568/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/mock/MockWorkspaceRoot.java
+END
+MockDartElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/12394/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/mock/MockDartElement.java
+END

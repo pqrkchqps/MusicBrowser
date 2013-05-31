@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/21675/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/proposals
+END
+LinkedNamesAssistProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/19745/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/proposals/LinkedNamesAssistProposal.java
+END
+ConvertMethodToGetterRefactoringProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/!svn/ver/19075/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/proposals/ConvertMethodToGetterRefactoringProposal.java
+END
+ConvertGetterToMethodRefactoringProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/!svn/ver/19075/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/proposals/ConvertGetterToMethodRefactoringProposal.java
+END
+TrackedNodeProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/10988/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/proposals/TrackedNodeProposal.java
+END
+SourceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/15337/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/proposals/SourceBuilder.java
+END
+RenameRefactoringProposal_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/21518/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/proposals/RenameRefactoringProposal_OLD.java
+END
+CreateFileCorrectionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/14573/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/proposals/CreateFileCorrectionProposal.java
+END
+RenameRefactoringProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/21518/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/proposals/RenameRefactoringProposal.java
+END
+CUCorrectionProposal_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/19745/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/proposals/CUCorrectionProposal_OLD.java
+END
+LinkedCorrectionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/19745/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/proposals/LinkedCorrectionProposal.java
+END
+CUCorrectionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/21675/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/proposals/CUCorrectionProposal.java
+END
+TrackedPositions.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/15337/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/proposals/TrackedPositions.java
+END
+MarkerResolutionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/9865/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/proposals/MarkerResolutionProposal.java
+END
+ConvertOptionalParametersToNamedRefactoringProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/!svn/ver/19075/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/proposals/ConvertOptionalParametersToNamedRefactoringProposal.java
+END
+ChangeCorrectionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/8194/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/proposals/ChangeCorrectionProposal.java
+END

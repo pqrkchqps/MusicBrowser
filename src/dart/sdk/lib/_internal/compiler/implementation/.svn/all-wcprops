@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/21744/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation
+END
+world.dart
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/21609/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/world.dart
+END
+warnings.dart
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/21694/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/warnings.dart
+END
+diagnostic_listener.dart
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/17763/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/diagnostic_listener.dart
+END
+library_loader.dart
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/19694/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/library_loader.dart
+END
+apiimpl.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/21330/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/apiimpl.dart
+END
+constant_system.dart
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/17051/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/constant_system.dart
+END
+source_file.dart
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/18680/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/source_file.dart
+END
+dart2jslib.dart
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/18671/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/dart2jslib.dart
+END
+colors.dart
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/14566/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/colors.dart
+END
+resolved_visitor.dart
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/15721/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/resolved_visitor.dart
+END
+compile_time_constants.dart
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/20605/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/compile_time_constants.dart
+END
+code_buffer.dart
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/21193/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/code_buffer.dart
+END
+source_map_builder.dart
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/18680/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/source_map_builder.dart
+END
+filenames.dart
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/17026/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/filenames.dart
+END
+tree_validator.dart
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/19849/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/tree_validator.dart
+END
+script.dart
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/17556/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/script.dart
+END
+typechecker.dart
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/18749/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/typechecker.dart
+END
+constant_system_dart.dart
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/17051/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/constant_system_dart.dart
+END
+enqueue.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/21609/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/enqueue.dart
+END
+source_file_provider.dart
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/source_file_provider.dart
+END
+dart2js.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/dart2js.dart
+END
+compiler.dart
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/21694/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/compiler.dart
+END
+string_validator.dart
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/17352/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/string_validator.dart
+END
+patch_parser.dart
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/18137/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/patch_parser.dart
+END
+closure.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/21342/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/closure.dart
+END
+constants.dart
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/19690/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/constants.dart
+END
+dart_types.dart
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/21550/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/dart_types.dart
+END
+deferred_load.dart
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/21546/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/deferred_load.dart
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/14473/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/README.txt
+END
+native_handler.dart
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/20891/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/native_handler.dart
+END

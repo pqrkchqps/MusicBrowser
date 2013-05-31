@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/21773/branches/bleeding_edge/dart/utils/pub/solver
+END
+backtracking_solver.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/21773/branches/bleeding_edge/dart/utils/pub/solver/backtracking_solver.dart
+END
+version_solver.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/21700/branches/bleeding_edge/dart/utils/pub/solver/version_solver.dart
+END

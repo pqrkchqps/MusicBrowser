@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/21701/branches/bleeding_edge/dart/pkg/http/test
+END
+mock_client_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/pkg/http/test/mock_client_test.dart
+END
+request_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/pkg/http/test/request_test.dart
+END
+streamed_request_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/20640/branches/bleeding_edge/dart/pkg/http/test/streamed_request_test.dart
+END
+client_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/21135/branches/bleeding_edge/dart/pkg/http/test/client_test.dart
+END
+response_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/20640/branches/bleeding_edge/dart/pkg/http/test/response_test.dart
+END
+http_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/21135/branches/bleeding_edge/dart/pkg/http/test/http_test.dart
+END
+multipart_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/pkg/http/test/multipart_test.dart
+END
+utils.dart
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/20640/branches/bleeding_edge/dart/pkg/http/test/utils.dart
+END
+safe_http_server.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/21701/branches/bleeding_edge/dart/pkg/http/test/safe_http_server.dart
+END

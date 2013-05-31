@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/samples/leap
+END
+leap_server.dart
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/samples/leap/leap_server.dart
+END
+leap_leg.dart
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/19690/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/samples/leap/leap_leg.dart
+END
+isolate.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/14473/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/samples/leap/isolate.html
+END
+request_cache.dart
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/14671/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/samples/leap/request_cache.dart
+END
+leap.css
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14473/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/samples/leap/leap.css
+END
+leap.dart
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14473/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/samples/leap/leap.dart
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14473/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/samples/leap/index.html
+END
+leap_script.dart
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/14473/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/samples/leap/leap_script.dart
+END

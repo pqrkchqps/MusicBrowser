@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/193042/trunk/src/chrome/browser/resources/local_omnibox_popup
+END
+local_omnibox_popup.css
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/191517/trunk/src/chrome/browser/resources/local_omnibox_popup/local_omnibox_popup.css
+END
+local_omnibox_popup.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/193042/trunk/src/chrome/browser/resources/local_omnibox_popup/local_omnibox_popup.js
+END
+local_omnibox_popup.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/188050/trunk/src/chrome/browser/resources/local_omnibox_popup/local_omnibox_popup.html
+END

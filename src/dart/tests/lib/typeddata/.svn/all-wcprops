@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/21586/branches/bleeding_edge/dart/tests/lib/typeddata
+END
+float32x4_unbox_regress_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/21541/branches/bleeding_edge/dart/tests/lib/typeddata/float32x4_unbox_regress_test.dart
+END
+float32x4_list_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/21586/branches/bleeding_edge/dart/tests/lib/typeddata/float32x4_list_test.dart
+END
+float32x4_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/lib/typeddata/float32x4_test.dart
+END

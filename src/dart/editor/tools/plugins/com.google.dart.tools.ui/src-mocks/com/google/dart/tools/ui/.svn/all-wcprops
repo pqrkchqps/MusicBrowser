@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/9001/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui
+END
+SignatureUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/SignatureUtil.java
+END
+DartContextType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/DartContextType.java
+END
+TemplateEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/TemplateEngine.java
+END
+StubUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/9001/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/StubUtility.java
+END
+CodeTemplatePreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/CodeTemplatePreferencePage.java
+END
+TypeInfoFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/TypeInfoFilter.java
+END
+IDocumentationReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/IDocumentationReader.java
+END
+CodeGenerationSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/CodeGenerationSettings.java
+END
+AccessorClassReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/AccessorClassReference.java
+END
+IVisibilityChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/IVisibilityChangeListener.java
+END
+PositionBasedCompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/6887/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/PositionBasedCompletionProposal.java
+END
+CodeTemplateContextType.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/CodeTemplateContextType.java
+END
+DartDoc2HTMLTextReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/DartDoc2HTMLTextReader.java
+END
+NLSHintHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/NLSHintHelper.java
+END
+GetterSetterUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/GetterSetterUtil.java
+END
+ContextSensitiveImportRewriteContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/6887/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/ContextSensitiveImportRewriteContext.java
+END
+MembersOrderPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/MembersOrderPreferencePage.java
+END
+SuperTypeHierarchyCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/SuperTypeHierarchyCache.java
+END
+StubUtility2.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/StubUtility2.java
+END
+JavaPreferencesSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/JavaPreferencesSettings.java
+END
+OpenTypeHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/OpenTypeHistory.java
+END
+DartDocContextType.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/DartDocContextType.java
+END
+QualifiedTypeNameHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/6887/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/QualifiedTypeNameHistory.java
+END
+IIncludePathEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/IIncludePathEntry.java
+END
+FunctionDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/FunctionDeclaration.java
+END
+IIncludePathAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/IIncludePathAttribute.java
+END
+CorrectionEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/tools/ui/CorrectionEngine.java
+END

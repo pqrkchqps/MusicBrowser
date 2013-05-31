@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21757/branches/bleeding_edge/dart/tools
+END
+presubmit.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10996/branches/bleeding_edge/dart/tools/presubmit.sh
+END
+list_files.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7227/branches/bleeding_edge/dart/tools/list_files.py
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/13568/branches/bleeding_edge/dart/tools/VERSION
+END
+build.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/21757/branches/bleeding_edge/dart/tools/build.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/18736/branches/bleeding_edge/dart/tools/utils.py
+END
+print_version.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/18432/branches/bleeding_edge/dart/tools/print_version.py
+END
+ddbg.dart
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tools/ddbg.dart
+END
+generate_projects.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10299/branches/bleeding_edge/dart/tools/generate_projects.py
+END
+create_sdk.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/21479/branches/bleeding_edge/dart/tools/create_sdk.py
+END
+make_bundle_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/18/branches/bleeding_edge/dart/tools/make_bundle_unittest.py
+END
+dartc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/18/branches/bleeding_edge/dart/tools/dartc
+END
+publish_pkg.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/20304/branches/bleeding_edge/dart/tools/publish_pkg.py
+END
+revert.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15172/branches/bleeding_edge/dart/tools/revert.py
+END
+list_pkg_directories.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/15840/branches/bleeding_edge/dart/tools/list_pkg_directories.py
+END
+create_editor.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/20368/branches/bleeding_edge/dart/tools/create_editor.py
+END
+gyp_dart.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/13702/branches/bleeding_edge/dart/tools/gyp_dart.py
+END
+only_in_release_mode.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/21211/branches/bleeding_edge/dart/tools/only_in_release_mode.py
+END
+make_links.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15580/branches/bleeding_edge/dart/tools/make_links.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/21287/branches/bleeding_edge/dart/tools/test.py
+END
+get_archive.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/16192/branches/bleeding_edge/dart/tools/get_archive.py
+END
+test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/21669/branches/bleeding_edge/dart/tools/test.dart
+END
+publish_all_pkgs.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tools/publish_all_pkgs.py
+END
+make_version.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15769/branches/bleeding_edge/dart/tools/make_version.py
+END
+line_doc_comments.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/19690/branches/bleeding_edge/dart/tools/line_doc_comments.dart
+END
+copy_dart.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/19059/branches/bleeding_edge/dart/tools/copy_dart.py
+END
+upload_sdk.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8077/branches/bleeding_edge/dart/tools/upload_sdk.py
+END
+clean_output_directory.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14999/branches/bleeding_edge/dart/tools/clean_output_directory.py
+END
+version.dart
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tools/version.dart
+END

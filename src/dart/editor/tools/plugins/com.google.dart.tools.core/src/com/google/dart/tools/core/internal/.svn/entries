@@ -1,0 +1,150 @@
+10
+
+dir
+21780
+https://dart.googlecode.com/svn/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal
+https://dart.googlecode.com/svn
+
+
+
+2013-04-19T14:03:33.955410Z
+21741
+danrubel@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+260f80e4-7a28-3924-810f-c04153c831b5
+
+dom
+dir
+
+directoryset
+dir
+
+analysis
+dir
+
+OptionManager.java
+file
+
+
+
+
+2013-04-14T04:51:37.731282Z
+345c41cfb0bc97bd30bc67e17ab4af59
+2013-03-25T17:16:52.320537Z
+20455
+pquitslund@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14451
+
+builder
+dir
+
+perf
+dir
+
+problem
+dir
+
+model
+dir
+
+operation
+dir
+
+cache
+dir
+
+formatter
+dir
+
+refactoring
+dir
+
+search
+dir
+
+index
+dir
+
+completion
+dir
+
+buffer
+dir
+
+MessageConsoleImpl.java
+file
+
+
+
+
+2013-04-14T04:51:37.731282Z
+65b0138a429b81ff2af8879346d159c7
+2013-03-13T16:58:30.082577Z
+19945
+devoncarew@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1947
+
+compiler
+dir
+
+workingcopy
+dir
+
+util
+dir
+

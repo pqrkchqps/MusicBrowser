@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/17108/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/search
+END
+SearchScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/search/SearchScope.java
+END
+MatchKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/11689/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/search/MatchKind.java
+END
+SearchMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/10463/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/search/SearchMatch.java
+END
+SearchPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/search/SearchPattern.java
+END
+SearchFilterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/search/SearchFilterFactory.java
+END
+SearchEngineFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/7616/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/search/SearchEngineFactory.java
+END
+SearchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/11396/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/search/SearchException.java
+END
+MatchQuality.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/11823/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/search/MatchQuality.java
+END
+SearchScopeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/7329/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/search/SearchScopeFactory.java
+END
+DartSearchScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/search/DartSearchScope.java
+END
+SearchEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/17108/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/search/SearchEngine.java
+END
+SearchListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/5194/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/search/SearchListener.java
+END
+SearchFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/search/SearchFilter.java
+END
+SearchPatternFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/search/SearchPatternFactory.java
+END

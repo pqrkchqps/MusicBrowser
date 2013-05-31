@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/11537/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/dom
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/6379/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/dom/TestAll.java
+END
+NodeFinderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/11537/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/dom/NodeFinderTest.java
+END

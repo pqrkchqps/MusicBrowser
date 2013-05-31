@@ -1,0 +1,83 @@
+10
+
+dir
+21780
+https://dart.googlecode.com/svn/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web
+https://dart.googlecode.com/svn
+
+
+
+2013-04-17T20:19:29.292783Z
+21656
+keertip@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+260f80e4-7a28-3924-810f-c04153c831b5
+
+utils
+dir
+
+xml
+dir
+
+pubspec
+dir
+
+yaml
+dir
+
+html
+dir
+
+DartWebPlugin.java
+file
+
+
+
+
+2013-04-14T04:51:39.730784Z
+457b52f0885979435640e906a06ba3c4
+2013-01-07T12:34:55.402462Z
+16692
+devoncarew@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5297
+
+css
+dir
+
+json
+dir
+

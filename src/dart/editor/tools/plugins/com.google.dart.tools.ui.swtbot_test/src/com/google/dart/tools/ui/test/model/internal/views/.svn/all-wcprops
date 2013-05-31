@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/15439/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/test/model/internal/views
+END
+ViewFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/15439/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/test/model/internal/views/ViewFinder.java
+END
+ShowViewCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/15439/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/test/model/internal/views/ShowViewCommand.java
+END
+ViewExplorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/15439/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/test/model/internal/views/ViewExplorer.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/11269/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/comment
+END
+CommentFormattingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/11269/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/comment/CommentFormattingStrategy.java
+END
+CommentFormattingContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/comment/CommentFormattingContext.java
+END

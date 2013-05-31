@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/21648/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions
+END
+OpenAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/20973/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/OpenAction.java
+END
+AbstractDartSelectionActionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/20292/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/AbstractDartSelectionActionGroup.java
+END
+CopyDetailsToClipboardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/19331/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/CopyDetailsToClipboardAction.java
+END
+OpenExternalDartdocAction_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/20973/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/OpenExternalDartdocAction_OLD.java
+END
+RenameAction_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/20292/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/RenameAction_OLD.java
+END
+OpenViewActionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/20626/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/OpenViewActionGroup.java
+END
+DartEditorActionDefinitionIds.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/15104/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/DartEditorActionDefinitionIds.java
+END
+DeleteResourceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/21297/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/DeleteResourceAction.java
+END
+ExtractMethodAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/21244/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/ExtractMethodAction.java
+END
+FoldingMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/FoldingMessages.java
+END
+InlineAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/21244/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/InlineAction.java
+END
+JdtActionConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/15104/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/JdtActionConstants.java
+END
+InlineMethodAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/20435/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/InlineMethodAction.java
+END
+OpenAsTextAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/15997/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/OpenAsTextAction.java
+END
+DartdocActionGroup_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/20973/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/DartdocActionGroup_OLD.java
+END
+GenerateDartdocAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/20567/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/GenerateDartdocAction.java
+END
+OpenTypeHierarchyAction_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/20626/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/OpenTypeHierarchyAction_OLD.java
+END
+DeleteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/19123/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/DeleteAction.java
+END
+OpenExternalDartdocAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/20973/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/OpenExternalDartdocAction.java
+END
+RenameAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/20292/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/RenameAction.java
+END
+InstrumentedJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/21400/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/InstrumentedJob.java
+END
+OpenOnlineDocsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/19123/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/OpenOnlineDocsAction.java
+END
+FormatAllAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/20718/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/FormatAllAction.java
+END
+IndentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/11269/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/IndentAction.java
+END
+OpenIntroEditorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/19123/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/OpenIntroEditorAction.java
+END
+OpenTutorialAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/19123/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/OpenTutorialAction.java
+END
+CopyFilePathAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/19123/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/CopyFilePathAction.java
+END
+MemberFilterActionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/MemberFilterActionGroup.java
+END
+RunPublishAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/21286/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/RunPublishAction.java
+END
+OpenNewFileWizardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/15321/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/OpenNewFileWizardAction.java
+END
+ContributionItemUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/ContributionItemUtilities.java
+END
+DartdocActionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/20973/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/DartdocActionGroup.java
+END
+ConvertMethodToGetterAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/19140/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/ConvertMethodToGetterAction.java
+END
+CCPMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/12306/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/CCPMessages.java
+END
+ActionInstrumentationUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/20567/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/ActionInstrumentationUtilities.java
+END
+ConvertGetterToMethodAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/19140/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/ConvertGetterToMethodAction.java
+END
+OpenTypeHierarchyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/20626/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/OpenTypeHierarchyAction.java
+END
+AbstractOpenWizardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/19123/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/AbstractOpenWizardAction.java
+END
+InstrumentedSelectionDispatchAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/21648/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/InstrumentedSelectionDispatchAction.java
+END
+GenerateActionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/GenerateActionGroup.java
+END
+CCPMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/12306/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/CCPMessages.properties
+END
+NavigateActionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/20292/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/NavigateActionGroup.java
+END
+RefactorActionGroup_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/20365/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/RefactorActionGroup_OLD.java
+END
+ExtractLocalAction_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/20365/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/ExtractLocalAction_OLD.java
+END
+AbstractDartSelectionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/21518/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/AbstractDartSelectionAction.java
+END
+ShowSelectionLabelAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/20365/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/ShowSelectionLabelAction.java
+END
+FoldingMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/FoldingMessages.properties
+END
+InlineLocalAction_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/20365/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/InlineLocalAction_OLD.java
+END
+OrganizeImportsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/19252/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/OrganizeImportsAction.java
+END
+OpenAction_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/20973/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/OpenAction_OLD.java
+END
+OpenApiDocsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/19123/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/OpenApiDocsAction.java
+END
+OpenViewActionGroup_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/20626/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/OpenViewActionGroup_OLD.java
+END
+ActionMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/18594/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/ActionMessages.java
+END
+ExtractMethodAction_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/20365/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/ExtractMethodAction_OLD.java
+END
+OpenResourceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/19123/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/OpenResourceAction.java
+END
+RunPubAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/21300/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/RunPubAction.java
+END
+InlineAction_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/20435/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/InlineAction_OLD.java
+END
+CreateAndRevealProjectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/21309/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/CreateAndRevealProjectAction.java
+END
+InlineMethodAction_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/20435/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/InlineMethodAction_OLD.java
+END
+OpenExternalFolderDialogAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/21031/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/OpenExternalFolderDialogAction.java
+END
+GenerateJavascriptAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/20567/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/GenerateJavascriptAction.java
+END
+InstrumentedAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/19123/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/InstrumentedAction.java
+END
+ActionMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/20567/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/ActionMessages.properties
+END
+CCPActionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/18946/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/CCPActionGroup.java
+END
+RefactorActionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/20365/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/RefactorActionGroup.java
+END
+OpenEditorActionGroup_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/20973/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/OpenEditorActionGroup_OLD.java
+END
+DeployConsolePatternMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/21165/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/DeployConsolePatternMatcher.java
+END
+OpenExternalFileDialogAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/6806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/OpenExternalFileDialogAction.java
+END
+ExtractLocalAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/21244/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/ExtractLocalAction.java
+END
+OpenNewFolderWizardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/5061/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/OpenNewFolderWizardAction.java
+END
+InlineLocalAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/20435/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/actions/InlineLocalAction.java
+END

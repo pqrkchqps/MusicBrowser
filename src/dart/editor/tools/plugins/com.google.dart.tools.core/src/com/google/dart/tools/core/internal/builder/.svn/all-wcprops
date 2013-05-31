@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/21741/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder
+END
+DeltaListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/18909/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/DeltaListener.java
+END
+DartBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/17783/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/DartBuilder.java
+END
+ResourceDeltaEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/18909/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/ResourceDeltaEvent.java
+END
+BuildParticipantDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/15619/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/BuildParticipantDeclaration.java
+END
+DartBuilderMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/5040/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/DartBuilderMessages.properties
+END
+AnalysisEngineParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/21463/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/AnalysisEngineParticipant.java
+END
+LocalUrisTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/9642/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/LocalUrisTracker.java
+END
+BuildDartParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/20922/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/BuildDartParticipant.java
+END
+AnalysisServerParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/16148/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/AnalysisServerParticipant.java
+END
+MetricsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/MetricsListener.java
+END
+ScanCallbackProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/14429/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/ScanCallbackProvider.java
+END
+RootArtifactProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/3075/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/RootArtifactProvider.java
+END
+SourceDeltaEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/17256/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/SourceDeltaEvent.java
+END
+MarkerUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/15415/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/MarkerUtilities.java
+END
+AnalysisWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/21463/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/AnalysisWorker.java
+END
+ErrorChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/4962/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/ErrorChecker.java
+END
+MetricsMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/MetricsMessenger.java
+END
+SourceContainerDeltaEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/17256/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/SourceContainerDeltaEvent.java
+END
+AnalysisMarkerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/21675/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/AnalysisMarkerManager.java
+END
+LocalArtifactProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/215/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/LocalArtifactProvider.java
+END
+BuilderUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/16547/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/BuilderUtil.java
+END
+CachingArtifactProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/3756/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/CachingArtifactProvider.java
+END
+DartBuilderMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1463/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/DartBuilderMessages.java
+END
+DeltaProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/21741/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/DeltaProcessor.java
+END
+DeltaAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/18909/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/DeltaAdapter.java
+END
+DeltaListenerList.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/18909/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/DeltaListenerList.java
+END
+ProjectUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/21168/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/ProjectUpdater.java
+END
+DelegatingArtifactProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/builder/DelegatingArtifactProvider.java
+END

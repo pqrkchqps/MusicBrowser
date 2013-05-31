@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/pkg/intl/example/basic
+END
+pubspec.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/20047/branches/bleeding_edge/dart/pkg/intl/example/basic/pubspec.yaml
+END
+basic_example.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/20047/branches/bleeding_edge/dart/pkg/intl/example/basic/basic_example.dart
+END
+messages_th_th.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/20047/branches/bleeding_edge/dart/pkg/intl/example/basic/messages_th_th.dart
+END
+messages_de.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/20047/branches/bleeding_edge/dart/pkg/intl/example/basic/messages_de.dart
+END
+messages_all.dart
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/pkg/intl/example/basic/messages_all.dart
+END
+basic_example_runner.dart
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14372/branches/bleeding_edge/dart/pkg/intl/example/basic/basic_example_runner.dart
+END

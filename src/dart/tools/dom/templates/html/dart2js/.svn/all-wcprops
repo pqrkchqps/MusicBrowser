@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/21722/branches/bleeding_edge/dart/tools/dom/templates/html/dart2js
+END
+html_dart2js.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/21717/branches/bleeding_edge/dart/tools/dom/templates/html/dart2js/html_dart2js.darttemplate
+END
+impl_ElementEvents.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/17929/branches/bleeding_edge/dart/tools/dom/templates/html/dart2js/impl_ElementEvents.darttemplate
+END
+impl_AudioBufferSourceNode.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/17929/branches/bleeding_edge/dart/tools/dom/templates/html/dart2js/impl_AudioBufferSourceNode.darttemplate
+END
+chrome_dart2js.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/19059/branches/bleeding_edge/dart/tools/dom/templates/html/dart2js/chrome_dart2js.darttemplate
+END
+impl_MouseEvent.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/20205/branches/bleeding_edge/dart/tools/dom/templates/html/dart2js/impl_MouseEvent.darttemplate
+END
+indexed_db_dart2js.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/18712/branches/bleeding_edge/dart/tools/dom/templates/html/dart2js/indexed_db_dart2js.darttemplate
+END
+impl_RTCSessionDescription.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/18320/branches/bleeding_edge/dart/tools/dom/templates/html/dart2js/impl_RTCSessionDescription.darttemplate
+END
+impl_URL.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/17929/branches/bleeding_edge/dart/tools/dom/templates/html/dart2js/impl_URL.darttemplate
+END
+impl_KeyboardEvent.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/17585/branches/bleeding_edge/dart/tools/dom/templates/html/dart2js/impl_KeyboardEvent.darttemplate
+END
+impl_Console.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/21722/branches/bleeding_edge/dart/tools/dom/templates/html/dart2js/impl_Console.darttemplate
+END
+web_sql_dart2js.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/21443/branches/bleeding_edge/dart/tools/dom/templates/html/dart2js/web_sql_dart2js.darttemplate
+END
+impl_RTCIceCandidate.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/18320/branches/bleeding_edge/dart/tools/dom/templates/html/dart2js/impl_RTCIceCandidate.darttemplate
+END
+web_audio_dart2js.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/21443/branches/bleeding_edge/dart/tools/dom/templates/html/dart2js/web_audio_dart2js.darttemplate
+END
+web_gl_dart2js.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/21443/branches/bleeding_edge/dart/tools/dom/templates/html/dart2js/web_gl_dart2js.darttemplate
+END
+svg_dart2js.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/21443/branches/bleeding_edge/dart/tools/dom/templates/html/dart2js/svg_dart2js.darttemplate
+END
+impl_SpeechRecognition.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/17754/branches/bleeding_edge/dart/tools/dom/templates/html/dart2js/impl_SpeechRecognition.darttemplate
+END
+impl_ArrayBuffer.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/17323/branches/bleeding_edge/dart/tools/dom/templates/html/dart2js/impl_ArrayBuffer.darttemplate
+END

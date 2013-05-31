@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/21687/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/internal/update
+END
+INIRewriteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/21687/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/internal/update/INIRewriteTest.java
+END
+UpdateUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/13799/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/internal/update/UpdateUtilsTest.java
+END
+CleanupInstallationJobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/9472/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/internal/update/CleanupInstallationJobTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/13571/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/internal/update/TestAll.java
+END

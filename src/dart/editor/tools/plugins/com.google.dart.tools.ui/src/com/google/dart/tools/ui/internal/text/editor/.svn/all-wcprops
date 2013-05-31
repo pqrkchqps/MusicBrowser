@@ -1,0 +1,473 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/21756/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor
+END
+ICompilationUnitDocumentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/19890/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/ICompilationUnitDocumentProvider.java
+END
+DartAnnotationImageProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/13071/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DartAnnotationImageProvider.java
+END
+DartTextSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/9998/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DartTextSelection.java
+END
+IDartEditorActionConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/IDartEditorActionConstants.java
+END
+NewDartOutlinePageContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/18731/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/NewDartOutlinePageContentProvider.java
+END
+OverrideIndicatorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/9597/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/OverrideIndicatorManager.java
+END
+ConstructedJavaEditorMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/18056/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/ConstructedJavaEditorMessages.properties
+END
+DartMoveLinesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/10069/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DartMoveLinesAction.java
+END
+TogglePresentationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/TogglePresentationAction.java
+END
+SemanticHighlightings.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/19696/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/SemanticHighlightings.java
+END
+ClipboardOperationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/ClipboardOperationAction.java
+END
+DocumentAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DocumentAdapter.java
+END
+JarEntryStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/JarEntryStorage.java
+END
+DartElementHyperlinkDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/21398/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DartElementHyperlinkDetector.java
+END
+NLSKeyHyperlinkDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/NLSKeyHyperlinkDetector.java
+END
+ISavePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/ISavePolicy.java
+END
+DartMarkerAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/13071/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DartMarkerAnnotation.java
+END
+DartOutlinePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/21756/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DartOutlinePage.java
+END
+DartSourceViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/15012/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DartSourceViewer.java
+END
+SemanticHighlightingReconciler.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/21110/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/SemanticHighlightingReconciler.java
+END
+DartOutlinePage_I.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/20095/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DartOutlinePage_I.java
+END
+ExternalCompilationUnitEditorInputFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/20872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/ExternalCompilationUnitEditorInputFactory.java
+END
+ASTProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/10468/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/ASTProvider.java
+END
+ToggleCommentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/10069/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/ToggleCommentAction.java
+END
+SpecificContentAssistAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/SpecificContentAssistAction.java
+END
+NewEditorInputAdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/19431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/NewEditorInputAdapterFactory.java
+END
+LightNodeElements.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/21155/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/LightNodeElements.java
+END
+GotoMatchingBracketAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/GotoMatchingBracketAction.java
+END
+IndentUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/11269/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/IndentUtil.java
+END
+BasicCompilationUnitEditorActionContributor.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/BasicCompilationUnitEditorActionContributor.java
+END
+SemanticHighlightingPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/12444/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/SemanticHighlightingPresenter.java
+END
+JavaSelectAnnotationRulerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/21675/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/JavaSelectAnnotationRulerAction.java
+END
+ToggleMarkOccurrencesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/ToggleMarkOccurrencesAction.java
+END
+SpecificContentAssistExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/11396/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/SpecificContentAssistExecutor.java
+END
+CompilationUnitDocumentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/19890/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/CompilationUnitDocumentProvider.java
+END
+DartAnnotationIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DartAnnotationIterator.java
+END
+DartTextHover.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/21755/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DartTextHover.java
+END
+SemanticToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/15043/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/SemanticToken.java
+END
+ExternalCompilationUnitEditorInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/20872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/ExternalCompilationUnitEditorInput.java
+END
+DartDocumentSetupParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/11408/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DartDocumentSetupParticipant.java
+END
+EditorUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/20973/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/EditorUtility.java
+END
+Binding.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/Binding.java
+END
+LegacyCompilationUnitDocumentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/21675/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/LegacyCompilationUnitDocumentProvider.java
+END
+CompilationUnitEditorActionContributor.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/CompilationUnitEditorActionContributor.java
+END
+StorageMarkerAnnotationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/StorageMarkerAnnotationModel.java
+END
+RemoveOccurrenceAnnotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/RemoveOccurrenceAnnotations.java
+END
+DartSelectMarkerRulerAction2.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DartSelectMarkerRulerAction2.java
+END
+LightNodeElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/20405/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/LightNodeElement.java
+END
+ToggleTextHoverAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/ToggleTextHoverAction.java
+END
+DartEditorMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/18026/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DartEditorMessages.java
+END
+NewDartElementLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/18790/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/NewDartElementLabelProvider.java
+END
+EditorHighlightingSynchronizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/EditorHighlightingSynchronizer.java
+END
+DartElementHyperlink.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/21400/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DartElementHyperlink.java
+END
+OverrideIndicatorImageProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/9111/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/OverrideIndicatorImageProvider.java
+END
+NLSKeyHyperlink.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/10069/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/NLSKeyHyperlink.java
+END
+BasicDartEditorActionContributor.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/18056/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/BasicDartEditorActionContributor.java
+END
+EditorInputAdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/19890/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/EditorInputAdapterFactory.java
+END
+DartSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/20838/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DartSelection.java
+END
+DartEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/21312/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DartEditor.java
+END
+DartSelectRulerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/10740/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DartSelectRulerAction.java
+END
+DartEditorMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/18026/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DartEditorMessages.properties
+END
+SimpleTextEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/13325/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/SimpleTextEditor.java
+END
+WorkingCopyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/16176/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/WorkingCopyManager.java
+END
+CompoundEditExitStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/CompoundEditExitStrategy.java
+END
+ICompoundEditListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/ICompoundEditListener.java
+END
+DartElementSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/17020/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DartElementSelection.java
+END
+DartEditorErrorTickUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/20585/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DartEditorErrorTickUpdater.java
+END
+CompositeActionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/CompositeActionGroup.java
+END
+SemanticHighlightingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/14355/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/SemanticHighlightingManager.java
+END
+DartOutlinePage_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/21704/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DartOutlinePage_OLD.java
+END
+IJavaAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/10067/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/IJavaAnnotation.java
+END
+DocumentWorkingCopyOwner.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/345/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/DocumentWorkingCopyOwner.java
+END
+CompilationUnitEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/20498/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/CompilationUnitEditor.java
+END
+JarEntryEditorInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/JarEntryEditorInput.java
+END
+AutoSaveHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/16866/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/AutoSaveHelper.java
+END
+SemanticHighlighting.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/12444/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/SemanticHighlighting.java
+END
+CompilationUnitAnnotationModelEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/CompilationUnitAnnotationModelEvent.java
+END
+OldDartOutlinePageContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/20095/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/OldDartOutlinePageContentProvider.java
+END

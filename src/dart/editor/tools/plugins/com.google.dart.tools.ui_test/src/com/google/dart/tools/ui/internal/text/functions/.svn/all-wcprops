@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/11408/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/internal/text/functions
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/2483/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/internal/text/functions/TestAll.java
+END
+BufferedDocumentScannerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/2483/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/internal/text/functions/BufferedDocumentScannerTest.java
+END
+FastDartPartitionScannerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/11408/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/internal/text/functions/FastDartPartitionScannerTest.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/21464/branches/bleeding_edge/dart/utils/tests/string_encoding
+END
+unicode_core_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14693/branches/bleeding_edge/dart/utils/tests/string_encoding/unicode_core_test.dart
+END
+utf32_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/18960/branches/bleeding_edge/dart/utils/tests/string_encoding/utf32_test.dart
+END
+dunit.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/18960/branches/bleeding_edge/dart/utils/tests/string_encoding/dunit.dart
+END
+run_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14693/branches/bleeding_edge/dart/utils/tests/string_encoding/run_test.dart
+END
+utf8_benchmarks.dart
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/19927/branches/bleeding_edge/dart/utils/tests/string_encoding/utf8_benchmarks.dart
+END
+benchmark_runner.dart
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/21464/branches/bleeding_edge/dart/utils/tests/string_encoding/benchmark_runner.dart
+END
+utf16_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/18960/branches/bleeding_edge/dart/utils/tests/string_encoding/utf16_test.dart
+END
+unicode_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/18960/branches/bleeding_edge/dart/utils/tests/string_encoding/unicode_test.dart
+END
+utf8_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/18960/branches/bleeding_edge/dart/utils/tests/string_encoding/utf8_test.dart
+END

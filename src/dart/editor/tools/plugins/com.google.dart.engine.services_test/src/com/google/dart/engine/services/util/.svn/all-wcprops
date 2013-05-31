@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/20626/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/util
+END
+HierarchyUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/20626/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/util/HierarchyUtilsTest.java
+END
+LocationSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/18177/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/util/LocationSpec.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/20519/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/util/TestAll.java
+END
+MockCompletionRequestor.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/19157/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/util/MockCompletionRequestor.java
+END

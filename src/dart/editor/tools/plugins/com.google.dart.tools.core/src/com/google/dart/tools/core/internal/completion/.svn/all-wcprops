@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/20591/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion
+END
+CompletionEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/19696/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/CompletionEngine.java
+END
+ProxyProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/20591/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ProxyProposal.java
+END
+AnalysisUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/18983/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/AnalysisUtil.java
+END
+ScopedNameFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/17146/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ScopedNameFinder.java
+END
+CompletionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/12212/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/CompletionParser.java
+END
+InternalCompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/13147/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/InternalCompletionProposal.java
+END
+ElementVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/6760/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ElementVisitor.java
+END
+Mark.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/Mark.java
+END
+ErrorRecordingContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/11104/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/ErrorRecordingContext.java
+END
+InternalCompletionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/InternalCompletionContext.java
+END
+CompletionEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/completion/CompletionEnvironment.java
+END

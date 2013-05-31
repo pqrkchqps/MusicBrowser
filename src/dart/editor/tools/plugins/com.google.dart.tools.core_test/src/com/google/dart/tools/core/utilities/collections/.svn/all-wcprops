@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/14385/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/utilities/collections
+END
+IntStackTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/5351/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/utilities/collections/IntStackTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/14385/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/utilities/collections/TestAll.java
+END
+FileSetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/14385/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/utilities/collections/FileSetTest.java
+END

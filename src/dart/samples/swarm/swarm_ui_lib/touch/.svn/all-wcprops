@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/21519/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/touch
+END
+Math.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/16065/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/touch/Math.dart
+END
+Geometry.dart
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/19659/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/touch/Geometry.dart
+END
+TimeUtil.dart
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/17549/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/touch/TimeUtil.dart
+END
+Momentum.dart
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/19810/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/touch/Momentum.dart
+END
+ClickBuster.dart
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/17807/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/touch/ClickBuster.dart
+END
+InfiniteScroller.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/18418/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/touch/InfiniteScroller.dart
+END
+FxUtil.dart
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/21121/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/touch/FxUtil.dart
+END
+ScrollWatcher.dart
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/18418/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/touch/ScrollWatcher.dart
+END
+EventUtil.dart
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/17807/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/touch/EventUtil.dart
+END
+TouchUtil.dart
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/19659/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/touch/TouchUtil.dart
+END
+TouchHandler.dart
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/20064/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/touch/TouchHandler.dart
+END
+touch.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/17682/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/touch/touch.dart
+END
+Scrollbar.dart
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/19659/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/touch/Scrollbar.dart
+END
+BezierPhysics.dart
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/16065/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/touch/BezierPhysics.dart
+END
+Scroller.dart
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/21519/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/touch/Scroller.dart
+END

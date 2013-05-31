@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/20503/branches/bleeding_edge/dart/sdk/lib/uri
+END
+uri.dart
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/20503/branches/bleeding_edge/dart/sdk/lib/uri/uri.dart
+END
+uri_sources.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/20503/branches/bleeding_edge/dart/sdk/lib/uri/uri_sources.gypi
+END
+encode_decode.dart
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/19690/branches/bleeding_edge/dart/sdk/lib/uri/encode_decode.dart
+END
+helpers.dart
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/18686/branches/bleeding_edge/dart/sdk/lib/uri/helpers.dart
+END

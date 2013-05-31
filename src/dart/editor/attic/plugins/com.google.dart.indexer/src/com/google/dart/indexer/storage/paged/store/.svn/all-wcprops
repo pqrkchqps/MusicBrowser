@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/storage/paged/store
+END
+CacheWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/storage/paged/store/CacheWriter.java
+END
+DataHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/storage/paged/store/DataHandler.java
+END
+Data.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/storage/paged/store/Data.java
+END
+CacheObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/storage/paged/store/CacheObject.java
+END
+FileStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/storage/paged/store/FileStore.java
+END

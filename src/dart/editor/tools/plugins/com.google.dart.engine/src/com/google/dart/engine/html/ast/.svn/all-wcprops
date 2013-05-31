@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/20907/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/html/ast
+END
+XmlTagNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/20907/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/html/ast/XmlTagNode.java
+END
+HtmlUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/19735/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/html/ast/HtmlUnit.java
+END
+XmlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/20907/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/html/ast/XmlNode.java
+END
+XmlAttributeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/19735/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/html/ast/XmlAttributeNode.java
+END

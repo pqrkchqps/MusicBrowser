@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/20745/branches/bleeding_edge/dart/samples/openglui/android-webgl-raytrace
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/20745/branches/bleeding_edge/dart/samples/openglui/android-webgl-raytrace/project.properties
+END
+custom_rules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/20745/branches/bleeding_edge/dart/samples/openglui/android-webgl-raytrace/custom_rules.xml
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/20745/branches/bleeding_edge/dart/samples/openglui/android-webgl-raytrace/AndroidManifest.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/20745/branches/bleeding_edge/dart/samples/openglui/android-webgl-raytrace/build.xml
+END
+android.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/20745/branches/bleeding_edge/dart/samples/openglui/android-webgl-raytrace/android.gyp
+END

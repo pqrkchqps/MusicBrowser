@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/21777/branches/bleeding_edge/dart/utils/tests/pub/install/hosted
+END
+cached_pubspec_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/21777/branches/bleeding_edge/dart/utils/tests/pub/install/hosted/cached_pubspec_test.dart
+END
+do_not_update_on_removed_constraints_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/hosted/do_not_update_on_removed_constraints_test.dart
+END
+fail_gracefully_on_missing_package_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/hosted/fail_gracefully_on_missing_package_test.dart
+END
+unlock_if_incompatible_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/hosted/unlock_if_incompatible_test.dart
+END
+stay_locked_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/hosted/stay_locked_test.dart
+END
+fail_gracefully_on_url_resolve_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/hosted/fail_gracefully_on_url_resolve_test.dart
+END
+repair_cache_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/20640/branches/bleeding_edge/dart/utils/tests/pub/install/hosted/repair_cache_test.dart
+END
+install_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/20264/branches/bleeding_edge/dart/utils/tests/pub/install/hosted/install_test.dart
+END
+resolve_constraints_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/hosted/resolve_constraints_test.dart
+END
+unlock_if_new_is_unsatisfied_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/hosted/unlock_if_new_is_unsatisfied_test.dart
+END
+remove_removed_dependency_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/hosted/remove_removed_dependency_test.dart
+END
+stay_locked_if_new_is_satisfied_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/hosted/stay_locked_if_new_is_satisfied_test.dart
+END
+stay_locked_if_compatible_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/hosted/stay_locked_if_compatible_test.dart
+END
+install_transitive_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/hosted/install_transitive_test.dart
+END
+remove_removed_transitive_dependency_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/hosted/remove_removed_transitive_dependency_test.dart
+END

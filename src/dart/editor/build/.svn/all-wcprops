@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21747/branches/bleeding_edge/dart/editor/build
+END
+pde.test.utils_3.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/build/pde.test.utils_3.3.jar
+END
+generate_sources.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/20228/branches/bleeding_edge/dart/editor/build/generate_sources.py
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/16927/branches/bleeding_edge/dart/editor/build/.project
+END
+runbuild.win.bat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6107/branches/bleeding_edge/dart/editor/build/runbuild.win.bat
+END
+build.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/21747/branches/bleeding_edge/dart/editor/build/build.py
+END
+runbuild.linux.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4830/branches/bleeding_edge/dart/editor/build/runbuild.linux.sh
+END
+runbuild.mac.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4830/branches/bleeding_edge/dart/editor/build/runbuild.mac.sh
+END
+.pydevproject
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/564/branches/bleeding_edge/dart/editor/build/.pydevproject
+END
+gsutilTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/16333/branches/bleeding_edge/dart/editor/build/gsutilTest.py
+END
+gsutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/16333/branches/bleeding_edge/dart/editor/build/gsutil.py
+END
+truncate_files.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/20228/branches/bleeding_edge/dart/editor/build/truncate_files.py
+END
+acl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3048/branches/bleeding_edge/dart/editor/build/acl.xml
+END
+setupLocalTesting.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16004/branches/bleeding_edge/dart/editor/build/setupLocalTesting.py
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/20228/branches/bleeding_edge/dart/editor/build/.gitignore
+END
+create_analyzer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/20175/branches/bleeding_edge/dart/editor/build/create_analyzer.xml
+END
+groupIds.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1128/branches/bleeding_edge/dart/editor/build/groupIds.txt
+END
+ziputils.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/16004/branches/bleeding_edge/dart/editor/build/ziputils.py
+END
+promote.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/19202/branches/bleeding_edge/dart/editor/build/promote.py
+END

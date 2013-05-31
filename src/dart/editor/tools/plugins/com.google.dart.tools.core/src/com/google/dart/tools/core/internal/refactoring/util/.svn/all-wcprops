@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/8944/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/refactoring/util
+END
+MultiStateCompilationUnitChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/5875/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/refactoring/util/MultiStateCompilationUnitChange.java
+END
+RefactoringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/8944/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/refactoring/util/RefactoringUtils.java
+END
+Changes.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/refactoring/util/Changes.java
+END
+TextEditUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/5875/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/refactoring/util/TextEditUtil.java
+END

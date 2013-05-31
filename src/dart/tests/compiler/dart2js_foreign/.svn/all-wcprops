@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign
+END
+native_literal_class_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_literal_class_test.dart
+END
+foreign_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/foreign_test.dart
+END
+native_property_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_property_test.dart
+END
+native_closure_identity_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_closure_identity_test.dart
+END
+native_class_avoids_hidden_name_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_class_avoids_hidden_name_test.dart
+END
+native_method_rename1_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_method_rename1_test.dart
+END
+native_window1_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_window1_test.dart
+END
+native_window2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_window2_test.dart
+END
+native_method_rename2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_method_rename2_test.dart
+END
+native_field_rename_1_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_field_rename_1_test.dart
+END
+native_missing_method1_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_missing_method1_test.dart
+END
+native_method_rename3_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_method_rename3_test.dart
+END
+native_missing_method2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_missing_method2_test.dart
+END
+native_field_rename_2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_field_rename_2_test.dart
+END
+native_checked_arguments1_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_checked_arguments1_test.dart
+END
+native_wrapping_function_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_wrapping_function_test.dart
+END
+native_named_constructors2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_named_constructors2_test.dart
+END
+native_use_native_name_in_table_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_use_native_name_in_table_test.dart
+END
+native_class_inheritance1_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_class_inheritance1_test.dart
+END
+native_named_constructors3_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_named_constructors3_test.dart
+END
+native_class_inheritance2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_class_inheritance2_test.dart
+END
+native_class_inheritance3_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_class_inheritance3_test.dart
+END
+native_class_inheritance4_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_class_inheritance4_test.dart
+END
+native_exceptions1_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_exceptions1_test.dart
+END
+native_library_same_name_used_lib2.dart
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/14913/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_library_same_name_used_lib2.dart
+END
+native_parameter_names_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_parameter_names_test.dart
+END
+native_call_arity1_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_call_arity1_test.dart
+END
+native_call_arity2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_call_arity2_test.dart
+END
+native_null_closure_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_null_closure_test.dart
+END
+native_call_arity3_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_call_arity3_test.dart
+END
+native_to_string_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_to_string_test.dart
+END
+native_checked_fields_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_checked_fields_test.dart
+END
+native_no_such_method_exception_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_no_such_method_exception_test.dart
+END
+native_wrapping_function2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_wrapping_function2_test.dart
+END
+native_class_is_check1_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_class_is_check1_test.dart
+END
+native_wrapping_function3_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_wrapping_function3_test.dart
+END
+native_class_is_check3_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_class_is_check3_test.dart
+END
+native_metadata.dart
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14885/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_metadata.dart
+END
+native_library_same_name_used_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_library_same_name_used_test.dart
+END
+native_class_with_dart_methods_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_class_with_dart_methods_test.dart
+END
+native_no_such_method_exception2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_no_such_method_exception2_test.dart
+END
+native_no_such_method_exception3_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_no_such_method_exception3_test.dart
+END
+native_no_such_method_exception4_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_no_such_method_exception4_test.dart
+END
+native_library_same_name_used_lib1.dart
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/14748/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_library_same_name_used_lib1.dart
+END
+native_no_such_method_exception5_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_no_such_method_exception5_test.dart
+END
+dart2js_foreign.status
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/15136/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/dart2js_foreign.status
+END
+native_null_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_null_test.dart
+END
+native_method_with_keyword_name_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/compiler/dart2js_foreign/native_method_with_keyword_name_test.dart
+END

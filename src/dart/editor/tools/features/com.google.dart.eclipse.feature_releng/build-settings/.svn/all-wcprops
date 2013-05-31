@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/13560/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.eclipse.feature_releng/build-settings
+END
+sample-user.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/9715/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.eclipse.feature_releng/build-settings/sample-user.properties
+END
+chrome-bot.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/10425/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.eclipse.feature_releng/build-settings/chrome-bot.properties
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/21408/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/html
+END
+XmlDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/15552/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/html/XmlDocument.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/15552/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/html/Token.java
+END
+HtmlParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/16591/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/html/HtmlParser.java
+END
+html.txt
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/15552/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/html/html.txt
+END
+HtmlBuildParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/19505/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/html/HtmlBuildParticipant.java
+END
+XmlAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/15552/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/html/XmlAttribute.java
+END
+DartHtmlScriptHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/15552/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/html/DartHtmlScriptHelper.java
+END
+XmlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/16591/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/html/XmlNode.java
+END
+Tokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/16544/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/html/Tokenizer.java
+END
+XmlElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/15552/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/html/XmlElement.java
+END
+HtmlKeywords.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/16591/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/html/HtmlKeywords.java
+END
+XmlParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/21408/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/html/XmlParser.java
+END

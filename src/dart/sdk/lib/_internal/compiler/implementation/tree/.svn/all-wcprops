@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/21546/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/tree
+END
+nodes.dart
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/19865/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/tree/nodes.dart
+END
+tree.dart
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/18136/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/tree/tree.dart
+END
+unparser.dart
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/21546/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/tree/unparser.dart
+END
+dartstring.dart
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/21457/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/tree/dartstring.dart
+END
+visitors.dart
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/14473/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/tree/visitors.dart
+END
+prettyprint.dart
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/18680/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/tree/prettyprint.dart
+END

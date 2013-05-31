@@ -1,0 +1,61 @@
+10
+
+dir
+21780
+https://dart.googlecode.com/svn/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/icons/full
+https://dart.googlecode.com/svn
+
+
+
+2013-03-19T17:33:01.284485Z
+20221
+scheglov@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+260f80e4-7a28-3924-810f-c04153c831b5
+
+dart16
+dir
+
+obj16
+dir
+
+tests
+dir
+
+dlcl16
+dir
+
+elcl16
+dir
+
+eview16
+dir
+
+dtool16
+dir
+
+etool16
+dir
+
+wizban
+dir
+
+misc
+dir
+
+ovr16
+dir
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/reorg
+END
+IReorgDestinationValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/6806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/reorg/IReorgDestinationValidator.java
+END
+IReorgQueries.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/6806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/reorg/IReorgQueries.java
+END
+IReorgPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/6806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/reorg/IReorgPolicy.java
+END
+IReorgDestination.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/6806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/reorg/IReorgDestination.java
+END
+IConfirmQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/6806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/reorg/IConfirmQuery.java
+END
+RenameSelectionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/reorg/RenameSelectionState.java
+END

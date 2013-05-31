@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/presentation
+END
+DartiumVariableLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/9818/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/presentation/DartiumVariableLabelProvider.java
+END
+ServerVariableLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/9818/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/presentation/ServerVariableLabelProvider.java
+END
+DebugElementAdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/17177/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/presentation/DebugElementAdapterFactory.java
+END
+DartLaunchElementLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/11348/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/presentation/DartLaunchElementLabelProvider.java
+END
+DartLaunchContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/17483/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/presentation/DartLaunchContentProvider.java
+END
+DartDebugModelPresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/presentation/DartDebugModelPresentation.java
+END

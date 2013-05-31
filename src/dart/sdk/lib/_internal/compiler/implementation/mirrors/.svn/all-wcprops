@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/mirrors
+END
+mirrors_util.dart
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/21457/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/mirrors/mirrors_util.dart
+END
+util.dart
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/21338/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/mirrors/util.dart
+END
+mirrors.dart
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/21338/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/mirrors/mirrors.dart
+END
+dart2js_mirror.dart
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/mirrors/dart2js_mirror.dart
+END

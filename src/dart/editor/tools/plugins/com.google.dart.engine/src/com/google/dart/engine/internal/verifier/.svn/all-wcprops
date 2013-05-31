@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/21684/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/verifier
+END
+ConstantVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/20490/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/verifier/ConstantVerifier.java
+END
+ErrorVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/21684/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/verifier/ErrorVerifier.java
+END

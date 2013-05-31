@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21780/branches/bleeding_edge/dart/runtime
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3451/branches/bleeding_edge/dart/runtime/PRESUBMIT.py
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/16313/branches/bleeding_edge/dart/runtime/.gitignore
+END
+dart-runtime.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/21757/branches/bleeding_edge/dart/runtime/dart-runtime.gyp
+END
+codereview.settings
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/293/branches/bleeding_edge/dart/runtime/codereview.settings
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/13071/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/problem
+END
+CategorizedProblem.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/5208/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/problem/CategorizedProblem.java
+END
+ProblemSeverities.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/13071/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/problem/ProblemSeverities.java
+END
+DefaultProblem.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/13071/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/problem/DefaultProblem.java
+END

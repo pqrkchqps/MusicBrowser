@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core_test/src/com/google/dart/tools/debug/core/sourcemaps
+END
+solar.dart.js.map
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/17789/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core_test/src/com/google/dart/tools/debug/core/sourcemaps/solar.dart.js.map
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/17789/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core_test/src/com/google/dart/tools/debug/core/sourcemaps/TestAll.java
+END
+VlqDecoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/17789/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core_test/src/com/google/dart/tools/debug/core/sourcemaps/VlqDecoderTest.java
+END
+main.dart.map
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core_test/src/com/google/dart/tools/debug/core/sourcemaps/main.dart.map
+END
+SourceMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core_test/src/com/google/dart/tools/debug/core/sourcemaps/SourceMapTest.java
+END

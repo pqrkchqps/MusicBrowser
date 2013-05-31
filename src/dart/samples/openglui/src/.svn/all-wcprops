@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/20978/branches/bleeding_edge/dart/samples/openglui/src
+END
+chrome.hex
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/18934/branches/bleeding_edge/dart/samples/openglui/src/chrome.hex
+END
+blasteroids.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/20745/branches/bleeding_edge/dart/samples/openglui/src/blasteroids.dart
+END
+openglui_raytrace.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/20745/branches/bleeding_edge/dart/samples/openglui/src/openglui_raytrace.dart
+END
+openglui_canvas_tests.dart
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/20978/branches/bleeding_edge/dart/samples/openglui/src/openglui_canvas_tests.dart
+END
+gl.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/20745/branches/bleeding_edge/dart/samples/openglui/src/gl.dart
+END
+flashingbox.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/20745/branches/bleeding_edge/dart/samples/openglui/src/flashingbox.dart
+END

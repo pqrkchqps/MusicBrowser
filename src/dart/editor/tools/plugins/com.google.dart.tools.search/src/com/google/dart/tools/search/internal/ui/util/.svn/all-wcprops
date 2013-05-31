@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/util
+END
+ExtendedDialogWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/util/ExtendedDialogWindow.java
+END
+FileTypeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/util/FileTypeEditor.java
+END
+SWTUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/util/SWTUtil.java
+END
+ExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/util/ExceptionHandler.java
+END

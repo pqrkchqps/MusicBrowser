@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/21706/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/internal/resolver
+END
+StaticTypeAnalyzerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/21459/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/internal/resolver/StaticTypeAnalyzerTest.java
+END
+ResolutionVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/18585/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/internal/resolver/ResolutionVerifier.java
+END
+TypeResolverVisitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/21164/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/internal/resolver/TypeResolverVisitorTest.java
+END
+LibraryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/21122/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/internal/resolver/LibraryTest.java
+END
+LibraryElementBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/21415/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/internal/resolver/LibraryElementBuilderTest.java
+END
+StaticTypeVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/18458/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/internal/resolver/StaticTypeVerifier.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/21379/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/internal/resolver/TestAll.java
+END
+ElementResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/21122/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/internal/resolver/ElementResolverTest.java
+END
+TestTypeProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/21706/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/internal/resolver/TestTypeProvider.java
+END
+TypeOverrideManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/21379/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/internal/resolver/TypeOverrideManagerTest.java
+END
+TypeProviderImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/18317/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/internal/resolver/TypeProviderImplTest.java
+END

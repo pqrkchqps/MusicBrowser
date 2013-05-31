@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/configuration/internal
+END
+IndexConfigurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/configuration/internal/IndexConfigurationImpl.java
+END
+ConfigurationError.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/configuration/internal/ConfigurationError.java
+END
+IndexConfigurationInstanceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/configuration/internal/IndexConfigurationInstanceImpl.java
+END
+ContributorInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/configuration/internal/ContributorInfo.java
+END
+ProcessorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/configuration/internal/ProcessorFactory.java
+END
+LayerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/configuration/internal/LayerInfo.java
+END
+ProcessorRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/configuration/internal/ProcessorRegistration.java
+END
+ProcessorInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/configuration/internal/ProcessorInfo.java
+END

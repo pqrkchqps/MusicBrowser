@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/14423/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/index/util
+END
+ResourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/7526/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/index/util/ResourceFactory.java
+END
+ElementFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/14423/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/index/util/ElementFactory.java
+END

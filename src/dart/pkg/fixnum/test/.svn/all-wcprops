@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/pkg/fixnum/test
+END
+int_32_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/pkg/fixnum/test/int_32_test.dart
+END
+int_64_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/pkg/fixnum/test/int_64_test.dart
+END
+int_64_vm_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/pkg/fixnum/test/int_64_vm_test.dart
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/21688/branches/bleeding_edge/dart/sdk/lib/typeddata
+END
+typeddata.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/21688/branches/bleeding_edge/dart/sdk/lib/typeddata/typeddata.dart
+END
+typeddata_sources.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/20503/branches/bleeding_edge/dart/sdk/lib/typeddata/typeddata_sources.gypi
+END

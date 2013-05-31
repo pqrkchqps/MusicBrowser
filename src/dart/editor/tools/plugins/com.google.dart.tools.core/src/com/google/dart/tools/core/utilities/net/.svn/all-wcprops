@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/20258/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/net
+END
+NetUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/20258/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/net/NetUtils.java
+END
+URIUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/16168/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/net/URIUtilities.java
+END

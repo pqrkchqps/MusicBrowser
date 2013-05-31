@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/18571/branches/bleeding_edge/dart/tests/standalone/io/pkcert
+END
+key4.db
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/18571/branches/bleeding_edge/dart/tests/standalone/io/pkcert/key4.db
+END
+cert9.db
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/18571/branches/bleeding_edge/dart/tests/standalone/io/pkcert/cert9.db
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/15634/branches/bleeding_edge/dart/tests/standalone/io/pkcert/README
+END

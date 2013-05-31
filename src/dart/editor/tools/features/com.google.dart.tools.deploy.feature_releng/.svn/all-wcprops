@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/20110/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.tools.deploy.feature_releng
+END
+build_rcp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/20110/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.tools.deploy.feature_releng/build_rcp.xml
+END
+build-common.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/17116/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.tools.deploy.feature_releng/build-common.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.tools.deploy.feature_releng/.project
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/12122/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.tools.deploy.feature_releng/.gitignore
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/17228/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.tools.deploy.feature_releng/build.properties
+END
+jar_optimization_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/515/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.tools.deploy.feature_releng/jar_optimization_readme.txt
+END

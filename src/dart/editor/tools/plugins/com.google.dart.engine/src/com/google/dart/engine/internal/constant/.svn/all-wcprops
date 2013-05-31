@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/21027/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/constant
+END
+ConstantFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/20451/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/constant/ConstantFinder.java
+END
+DirectedGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/20451/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/constant/DirectedGraph.java
+END
+ConstantValueComputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/20451/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/constant/ConstantValueComputer.java
+END
+ReferenceFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/20730/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/constant/ReferenceFinder.java
+END
+ErrorResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/20451/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/constant/ErrorResult.java
+END
+EvaluationResultImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/19813/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/constant/EvaluationResultImpl.java
+END
+ConstantVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/21027/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/constant/ConstantVisitor.java
+END
+ValidResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/20490/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/constant/ValidResult.java
+END

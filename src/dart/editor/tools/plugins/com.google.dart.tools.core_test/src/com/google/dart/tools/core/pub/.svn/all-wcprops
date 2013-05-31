@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/20657/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/pub
+END
+PubspecModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/20028/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/pub/PubspecModelTest.java
+END
+PubBuildParticipantTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/17605/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/pub/PubBuildParticipantTest.java
+END
+RunPubJobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/20657/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/pub/RunPubJobTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/16604/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/pub/TestAll.java
+END
+PubYamlUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/20028/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/pub/PubYamlUtilsTest.java
+END

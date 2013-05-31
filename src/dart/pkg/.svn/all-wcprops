@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21776/branches/bleeding_edge/dart/pkg
+END
+pkg.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15947/branches/bleeding_edge/dart/pkg/pkg.gyp
+END
+pkg.status
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/21697/branches/bleeding_edge/dart/pkg/pkg.status
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15392/branches/bleeding_edge/dart/pkg/.gitignore
+END

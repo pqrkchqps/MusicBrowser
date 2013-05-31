@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/11087/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/changes
+END
+TextChangeCompatibility.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/changes/TextChangeCompatibility.java
+END
+DynamicValidationStateChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/11087/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/changes/DynamicValidationStateChange.java
+END
+WorkspaceTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/11087/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/changes/WorkspaceTracker.java
+END

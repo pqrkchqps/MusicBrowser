@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/schema
+END
+dartElementFilters.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/schema/dartElementFilters.exsd
+END
+dartEditorTextHovers.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/schema/dartEditorTextHovers.exsd
+END
+foldingStructureProviders.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/schema/foldingStructureProviders.exsd
+END
+dartCompletionProposalComputer.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/schema/dartCompletionProposalComputer.exsd
+END
+DocumentationProvider.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/schema/DocumentationProvider.exsd
+END
+dartCompletionProposalSorters.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/schema/dartCompletionProposalSorters.exsd
+END
+quickAssistProcessors.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/schema/quickAssistProcessors.exsd
+END
+com.google.dart.tools.ui.cleanUps.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/schema/com.google.dart.tools.ui.cleanUps.exsd
+END
+quickFixProcessors.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/schema/quickFixProcessors.exsd
+END
+dartDocCompletionProcessor.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/schema/dartDocCompletionProcessor.exsd
+END

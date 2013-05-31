@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 62
+tmp
+tmp.tmp
+postporcess.config
+*.pyc
+changelog.html
+generated
+
+END

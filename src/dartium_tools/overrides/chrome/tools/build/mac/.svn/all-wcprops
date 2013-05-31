@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/multivm/!svn/ver/1015/trunk/tools/overrides/chrome/tools/build/mac
+END
+verify_order
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/multivm/!svn/ver/1015/trunk/tools/overrides/chrome/tools/build/mac/verify_order
+END

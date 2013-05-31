@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/21588/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/configs
+END
+DartServerLaunchConfigurationDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/20677/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/configs/DartServerLaunchConfigurationDelegate.java
+END
+DartiumLaunchConfigurationDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/20677/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/configs/DartiumLaunchConfigurationDelegate.java
+END
+ChromeAppLaunchConfigurationDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/21588/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/configs/ChromeAppLaunchConfigurationDelegate.java
+END

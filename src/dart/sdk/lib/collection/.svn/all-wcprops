@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/21471/branches/bleeding_edge/dart/sdk/lib/collection
+END
+linked_hash_map.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/21072/branches/bleeding_edge/dart/sdk/lib/collection/linked_hash_map.dart
+END
+splay_tree.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/21457/branches/bleeding_edge/dart/sdk/lib/collection/splay_tree.dart
+END
+iterable.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/21458/branches/bleeding_edge/dart/sdk/lib/collection/iterable.dart
+END
+iterator.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17352/branches/bleeding_edge/dart/sdk/lib/collection/iterator.dart
+END
+list.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/21471/branches/bleeding_edge/dart/sdk/lib/collection/list.dart
+END
+collection.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/21457/branches/bleeding_edge/dart/sdk/lib/collection/collection.dart
+END
+collection_sources.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/21457/branches/bleeding_edge/dart/sdk/lib/collection/collection_sources.gypi
+END
+hash_set.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/21457/branches/bleeding_edge/dart/sdk/lib/collection/hash_set.dart
+END
+collections.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/21443/branches/bleeding_edge/dart/sdk/lib/collection/collections.dart
+END
+maps.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17918/branches/bleeding_edge/dart/sdk/lib/collection/maps.dart
+END
+hash_map.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/21180/branches/bleeding_edge/dart/sdk/lib/collection/hash_map.dart
+END
+linked_hash_set.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/21180/branches/bleeding_edge/dart/sdk/lib/collection/linked_hash_set.dart
+END
+queue.dart
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/21457/branches/bleeding_edge/dart/sdk/lib/collection/queue.dart
+END

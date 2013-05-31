@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/saveparticipant
+END
+SaveParticipantMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/saveparticipant/SaveParticipantMessages.properties
+END
+SaveActionSelectionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/saveparticipant/SaveActionSelectionDialog.java
+END
+IPostSaveListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/saveparticipant/IPostSaveListener.java
+END
+SaveParticipantMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/saveparticipant/SaveParticipantMessages.java
+END
+SaveParticipantRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/saveparticipant/SaveParticipantRegistry.java
+END
+AbstractSaveParticipantPreferenceConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/!svn/ver/8499/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/saveparticipant/AbstractSaveParticipantPreferenceConfiguration.java
+END
+SaveParticipantDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/saveparticipant/SaveParticipantDescriptor.java
+END
+CleanUpSaveParticipantPreferenceConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/saveparticipant/CleanUpSaveParticipantPreferenceConfiguration.java
+END
+ISaveParticipantPreferenceConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/saveparticipant/ISaveParticipantPreferenceConfiguration.java
+END
+CleanUpSelectionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/saveparticipant/CleanUpSelectionDialog.java
+END

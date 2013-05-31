@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/161824/trunk/src/webkit/data/dom_serializer
+END
+html_doc_has_base_tag.htm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/18/trunk/src/webkit/data/dom_serializer/html_doc_has_base_tag.htm
+END
+non_html_namespace.htm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/161824/trunk/src/webkit/data/dom_serializer/non_html_namespace.htm
+END
+youtube_1.htm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/18/trunk/src/webkit/data/dom_serializer/youtube_1.htm
+END
+note.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2778/trunk/src/webkit/data/dom_serializer/note.xml
+END
+youtube_2.htm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/18/trunk/src/webkit/data/dom_serializer/youtube_2.htm
+END
+iframe-src-is-exe.htm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/47054/trunk/src/webkit/data/dom_serializer/iframe-src-is-exe.htm
+END
+nonstandard_htmlentities.htm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/57593/trunk/src/webkit/data/dom_serializer/nonstandard_htmlentities.htm
+END

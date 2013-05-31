@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/20666/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/search/pattern
+END
+CamelCaseSearchPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/20666/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/search/pattern/CamelCaseSearchPattern.java
+END
+PrefixSearchPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/20666/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/search/pattern/PrefixSearchPattern.java
+END
+OrSearchPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/search/pattern/OrSearchPattern.java
+END
+RegularExpressionSearchPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/20666/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/search/pattern/RegularExpressionSearchPattern.java
+END
+AndSearchPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/search/pattern/AndSearchPattern.java
+END
+ExactSearchPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/20666/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/search/pattern/ExactSearchPattern.java
+END
+WildcardSearchPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/20666/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/search/pattern/WildcardSearchPattern.java
+END

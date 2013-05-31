@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/20249/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core_test/src/com/google/dart/tools/debug/core/util
+END
+test1.json.gz
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/20216/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core_test/src/com/google/dart/tools/debug/core/util/test1.json.gz
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/20249/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core_test/src/com/google/dart/tools/debug/core/util/TestAll.java
+END
+JsonTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/20249/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core_test/src/com/google/dart/tools/debug/core/util/JsonTests.java
+END
+HttpUrlConnectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/20249/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core_test/src/com/google/dart/tools/debug/core/util/HttpUrlConnectorTest.java
+END

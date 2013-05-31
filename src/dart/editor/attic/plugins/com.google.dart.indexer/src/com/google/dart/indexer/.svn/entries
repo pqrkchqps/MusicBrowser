@@ -1,0 +1,95 @@
+10
+
+dir
+21780
+https://dart.googlecode.com/svn/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer
+https://dart.googlecode.com/svn
+
+
+
+2012-08-03T22:01:40.055136Z
+10256
+devoncarew@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+260f80e4-7a28-3924-810f-c04153c831b5
+
+utils
+dir
+
+source
+dir
+
+standard
+dir
+
+exceptions
+dir
+
+storage
+dir
+
+pagedstorage
+dir
+
+debug
+dir
+
+index
+dir
+
+locations
+dir
+
+utilities
+dir
+
+IndexerPlugin.java
+file
+
+
+
+
+2013-04-14T04:51:46.231281Z
+1611f2a2df4528de24362b723f1218c5
+2011-10-05T05:04:34.413220Z
+13
+dgrove@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1583
+
+workspace
+dir
+

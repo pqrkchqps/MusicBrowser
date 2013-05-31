@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dartc/metrics
+END
+MetricsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dartc/metrics/MetricsManager.java
+END
+MetricsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dartc/metrics/MetricsView.java
+END
+MetricsTableLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dartc/metrics/MetricsTableLabelProvider.java
+END

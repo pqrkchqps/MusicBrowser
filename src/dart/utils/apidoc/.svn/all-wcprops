@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/utils/apidoc
+END
+html_diff.dart
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/19817/branches/bleeding_edge/dart/utils/apidoc/html_diff.dart
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15392/branches/bleeding_edge/dart/utils/apidoc/.gitignore
+END
+apidoc.dart
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/utils/apidoc/apidoc.dart
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7779/branches/bleeding_edge/dart/utils/apidoc/README.txt
+END
+apidoc.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/21257/branches/bleeding_edge/dart/utils/apidoc/apidoc.gyp
+END

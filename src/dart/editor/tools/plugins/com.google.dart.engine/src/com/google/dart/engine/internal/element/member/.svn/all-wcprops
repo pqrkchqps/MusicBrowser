@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/21750/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/member
+END
+PropertyAccessorMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/21660/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/member/PropertyAccessorMember.java
+END
+Member.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/21750/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/member/Member.java
+END
+MethodMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/21660/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/member/MethodMember.java
+END
+ParameterMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/21660/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/member/ParameterMember.java
+END
+ExecutableMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/21660/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/member/ExecutableMember.java
+END
+FieldMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/21660/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/member/FieldMember.java
+END
+VariableMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/21660/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/member/VariableMember.java
+END

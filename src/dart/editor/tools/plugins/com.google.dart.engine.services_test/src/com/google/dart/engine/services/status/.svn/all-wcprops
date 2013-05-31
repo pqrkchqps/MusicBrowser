@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/20094/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/status
+END
+RefactoringStatusTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/19252/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/status/RefactoringStatusTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/18336/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/status/TestAll.java
+END
+RefactoringStatusEntryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/18336/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/status/RefactoringStatusEntryTest.java
+END
+RefactoringStatusContextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/20094/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/status/RefactoringStatusContextTest.java
+END

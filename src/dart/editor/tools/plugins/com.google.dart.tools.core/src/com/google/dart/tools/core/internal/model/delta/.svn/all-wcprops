@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/19655/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/delta
+END
+DartElementDeltaImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/delta/DartElementDeltaImpl.java
+END
+IDeltaProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/19591/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/delta/IDeltaProcessor.java
+END
+DeltaProcessorDelta.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/14642/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/delta/DeltaProcessorDelta.java
+END
+SimpleDelta.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/delta/SimpleDelta.java
+END
+MockDeltaProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/19655/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/delta/MockDeltaProcessor.java
+END
+DartElementDeltaBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/delta/DartElementDeltaBuilder.java
+END
+DeltaProcessingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/14642/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/delta/DeltaProcessingState.java
+END
+DeltaProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/19591/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/delta/DeltaProcessor.java
+END

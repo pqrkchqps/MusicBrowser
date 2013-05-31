@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/21179/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/html/parser
+END
+HtmlParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/21179/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/html/parser/HtmlParser.java
+END
+XmlParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/html/parser/XmlParser.java
+END
+HtmlParseResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/21179/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/html/parser/HtmlParseResult.java
+END

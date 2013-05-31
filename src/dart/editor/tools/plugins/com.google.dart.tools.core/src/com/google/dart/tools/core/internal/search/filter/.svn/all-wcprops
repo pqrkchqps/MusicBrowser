@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/search/filter
+END
+OrFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/search/filter/OrFilter.java
+END
+AndFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/search/filter/AndFilter.java
+END
+MatchKindFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/search/filter/MatchKindFilter.java
+END
+MatchQualityFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/search/filter/MatchQualityFilter.java
+END

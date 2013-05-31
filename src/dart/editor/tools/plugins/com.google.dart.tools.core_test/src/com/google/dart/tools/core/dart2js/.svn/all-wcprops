@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/19592/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/dart2js
+END
+JsonServerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/11112/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/dart2js/JsonServerTest.java
+END
+Dart2JSCompilerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/19592/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/dart2js/Dart2JSCompilerTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/12063/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/dart2js/TestAll.java
+END

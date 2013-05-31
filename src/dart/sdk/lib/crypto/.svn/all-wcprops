@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/20968/branches/bleeding_edge/dart/sdk/lib/crypto
+END
+sha256.dart
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19112/branches/bleeding_edge/dart/sdk/lib/crypto/sha256.dart
+END
+hmac.dart
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/19112/branches/bleeding_edge/dart/sdk/lib/crypto/hmac.dart
+END
+sha1.dart
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/19112/branches/bleeding_edge/dart/sdk/lib/crypto/sha1.dart
+END
+crypto_utils.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/20845/branches/bleeding_edge/dart/sdk/lib/crypto/crypto_utils.dart
+END
+crypto.dart
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/20968/branches/bleeding_edge/dart/sdk/lib/crypto/crypto.dart
+END
+crypto_sources.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20503/branches/bleeding_edge/dart/sdk/lib/crypto/crypto_sources.gypi
+END
+hash_utils.dart
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/20064/branches/bleeding_edge/dart/sdk/lib/crypto/hash_utils.dart
+END
+md5.dart
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/16287/branches/bleeding_edge/dart/sdk/lib/crypto/md5.dart
+END

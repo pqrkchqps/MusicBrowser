@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/20626/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/typehierarchy
+END
+TypeHierarchyViewPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/20626/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/typehierarchy/TypeHierarchyViewPart.java
+END
+HierarchyInformationControl_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/20519/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/typehierarchy/HierarchyInformationControl_OLD.java
+END
+MethodsViewer_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/20626/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/typehierarchy/MethodsViewer_OLD.java
+END
+TypeHierarchyMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/16061/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/typehierarchy/TypeHierarchyMessages.properties
+END
+TypeHierarchyContentProvider_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/20519/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/typehierarchy/TypeHierarchyContentProvider_OLD.java
+END
+MethodsViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/20626/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/typehierarchy/MethodsViewer.java
+END
+HierarchyInformationControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/20519/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/typehierarchy/HierarchyInformationControl.java
+END
+TypeHierarchyContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/20519/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/typehierarchy/TypeHierarchyContentProvider.java
+END
+HierarchyLabelProvider_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/20519/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/typehierarchy/HierarchyLabelProvider_OLD.java
+END
+TypeHierarchyMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/13447/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/typehierarchy/TypeHierarchyMessages.java
+END
+HierarchyLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/20519/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/typehierarchy/HierarchyLabelProvider.java
+END
+MethodsViewer_I.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/20626/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/typehierarchy/MethodsViewer_I.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/21775/branches/bleeding_edge/dart/editor
+END
+analyzer.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/21362/branches/bleeding_edge/dart/editor/analyzer.gyp
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/21362/branches/bleeding_edge/dart/editor/.gitignore
+END

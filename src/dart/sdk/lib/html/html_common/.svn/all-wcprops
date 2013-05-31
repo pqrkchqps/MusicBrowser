@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/21471/branches/bleeding_edge/dart/sdk/lib/html/html_common
+END
+conversions.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/17549/branches/bleeding_edge/dart/sdk/lib/html/html_common/conversions.dart
+END
+html_common.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/19833/branches/bleeding_edge/dart/sdk/lib/html/html_common/html_common.dart
+END
+lists.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/20064/branches/bleeding_edge/dart/sdk/lib/html/html_common/lists.dart
+END
+device.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/19833/branches/bleeding_edge/dart/sdk/lib/html/html_common/device.dart
+END
+metadata.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/17619/branches/bleeding_edge/dart/sdk/lib/html/html_common/metadata.dart
+END
+filtered_element_list.dart
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/21471/branches/bleeding_edge/dart/sdk/lib/html/html_common/filtered_element_list.dart
+END
+html_common_dart2js.dart
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/19833/branches/bleeding_edge/dart/sdk/lib/html/html_common/html_common_dart2js.dart
+END

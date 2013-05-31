@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/16587/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/json
+END
+JsonWordDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/16587/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/json/JsonWordDetector.java
+END
+JsonEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/16587/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/json/JsonEditor.java
+END
+JsonScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/16587/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/json/JsonScanner.java
+END
+JsonDocumentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/16587/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/json/JsonDocumentProvider.java
+END
+JsonSourceViewerConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/16587/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/json/JsonSourceViewerConfiguration.java
+END
+JsonCommentScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/16587/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/json/JsonCommentScanner.java
+END
+JsonHyperlinkDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/16587/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/json/JsonHyperlinkDetector.java
+END
+JsonStringScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/16587/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/json/JsonStringScanner.java
+END
+JsonContentAssistProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/16587/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/json/JsonContentAssistProcessor.java
+END
+JsonPartitionScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/16587/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/json/JsonPartitionScanner.java
+END
+ManifestKeywords.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/16587/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/json/ManifestKeywords.java
+END

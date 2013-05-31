@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/20175/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.command.analyze_test
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/19837/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.command.analyze_test/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/19837/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.command.analyze_test/.project
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/19837/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.command.analyze_test/.gitignore
+END
+plugin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/19837/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.command.analyze_test/plugin.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/19837/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.command.analyze_test/build.properties
+END

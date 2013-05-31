@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/14694/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/test_data/Bank
+END
+localbank.dart
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/14386/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/test_data/Bank/localbank.dart
+END
+pubspec.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/11160/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/test_data/Bank/pubspec.yaml
+END
+bank.css
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/11160/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/test_data/Bank/bank.css
+END
+bank.dart
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/14386/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/test_data/Bank/bank.dart
+END
+dart.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/11160/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/test_data/Bank/dart.js
+END
+bank.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/11160/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/test_data/Bank/bank.html
+END

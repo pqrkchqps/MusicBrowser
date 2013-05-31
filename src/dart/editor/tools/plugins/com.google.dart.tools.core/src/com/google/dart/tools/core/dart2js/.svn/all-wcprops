@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/20679/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/dart2js
+END
+JsonServerProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/13765/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/dart2js/JsonServerProcess.java
+END
+JsonServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/11112/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/dart2js/JsonServer.java
+END
+ResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/11112/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/dart2js/ResponseMessage.java
+END
+ResponseDone.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/11112/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/dart2js/ResponseDone.java
+END
+Dart2JSCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/20646/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/dart2js/Dart2JSCompiler.java
+END
+ProcessRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/20679/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/dart2js/ProcessRunner.java
+END
+JsonServerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/11189/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/dart2js/JsonServerManager.java
+END
+ResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/11112/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/dart2js/ResponseHandler.java
+END
+Response.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/11112/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/dart2js/Response.java
+END

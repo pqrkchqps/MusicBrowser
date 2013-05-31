@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/17286/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/internal/search/scope
+END
+UniverseSearchScopeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/17286/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/internal/search/scope/UniverseSearchScopeTest.java
+END
+LibrarySearchScopeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/17108/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/internal/search/scope/LibrarySearchScopeTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/17286/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/internal/search/scope/TestAll.java
+END

@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21739/branches/bleeding_edge/dart/sdk/lib/io
+END
+websocket.dart
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/21553/branches/bleeding_edge/dart/sdk/lib/io/websocket.dart
+END
+string_transformer.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/sdk/lib/io/string_transformer.dart
+END
+io_sink.dart
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/21553/branches/bleeding_edge/dart/sdk/lib/io/io_sink.dart
+END
+options.dart
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/20064/branches/bleeding_edge/dart/sdk/lib/io/options.dart
+END
+data_transformer.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/21504/branches/bleeding_edge/dart/sdk/lib/io/data_transformer.dart
+END
+http_body.dart
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/21202/branches/bleeding_edge/dart/sdk/lib/io/http_body.dart
+END
+link.dart
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/sdk/lib/io/link.dart
+END
+http_utils.dart
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19478/branches/bleeding_edge/dart/sdk/lib/io/http_utils.dart
+END
+file_impl.dart
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/21679/branches/bleeding_edge/dart/sdk/lib/io/file_impl.dart
+END
+timer_impl.dart
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19925/branches/bleeding_edge/dart/sdk/lib/io/timer_impl.dart
+END
+buffer_list.dart
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/21679/branches/bleeding_edge/dart/sdk/lib/io/buffer_list.dart
+END
+mime_multipart_parser.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/21452/branches/bleeding_edge/dart/sdk/lib/io/mime_multipart_parser.dart
+END
+directory.dart
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/21199/branches/bleeding_edge/dart/sdk/lib/io/directory.dart
+END
+io.dart
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/21438/branches/bleeding_edge/dart/sdk/lib/io/io.dart
+END
+path_impl.dart
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/20069/branches/bleeding_edge/dart/sdk/lib/io/path_impl.dart
+END
+iolib_sources.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/21202/branches/bleeding_edge/dart/sdk/lib/io/iolib_sources.gypi
+END
+http.dart
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/21545/branches/bleeding_edge/dart/sdk/lib/io/http.dart
+END
+eventhandler.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/16287/branches/bleeding_edge/dart/sdk/lib/io/eventhandler.dart
+END
+http_session.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/21075/branches/bleeding_edge/dart/sdk/lib/io/http_session.dart
+END
+base64.dart
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/19478/branches/bleeding_edge/dart/sdk/lib/io/base64.dart
+END
+common.dart
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/21466/branches/bleeding_edge/dart/sdk/lib/io/common.dart
+END
+socket.dart
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/21719/branches/bleeding_edge/dart/sdk/lib/io/socket.dart
+END
+http_parser.dart
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/21677/branches/bleeding_edge/dart/sdk/lib/io/http_parser.dart
+END
+path.dart
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/20069/branches/bleeding_edge/dart/sdk/lib/io/path.dart
+END
+secure_socket.dart
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/21739/branches/bleeding_edge/dart/sdk/lib/io/secure_socket.dart
+END
+http_impl.dart
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/21726/branches/bleeding_edge/dart/sdk/lib/io/http_impl.dart
+END
+platform_impl.dart
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/16695/branches/bleeding_edge/dart/sdk/lib/io/platform_impl.dart
+END
+websocket_impl.dart
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/21679/branches/bleeding_edge/dart/sdk/lib/io/websocket_impl.dart
+END
+http_headers.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/21462/branches/bleeding_edge/dart/sdk/lib/io/http_headers.dart
+END
+http_body_impl.dart
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/21432/branches/bleeding_edge/dart/sdk/lib/io/http_body_impl.dart
+END
+process.dart
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/21615/branches/bleeding_edge/dart/sdk/lib/io/process.dart
+END
+file.dart
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/21466/branches/bleeding_edge/dart/sdk/lib/io/file.dart
+END
+file_system_entity.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20307/branches/bleeding_edge/dart/sdk/lib/io/file_system_entity.dart
+END
+stdio.dart
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/sdk/lib/io/stdio.dart
+END
+secure_server_socket.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/sdk/lib/io/secure_server_socket.dart
+END
+platform.dart
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/16571/branches/bleeding_edge/dart/sdk/lib/io/platform.dart
+END
+directory_impl.dart
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/sdk/lib/io/directory_impl.dart
+END

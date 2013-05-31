@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/pkg/oauth2/test
+END
+handle_access_token_response_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/20640/branches/bleeding_edge/dart/pkg/oauth2/test/handle_access_token_response_test.dart
+END
+credentials_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/pkg/oauth2/test/credentials_test.dart
+END
+client_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/pkg/oauth2/test/client_test.dart
+END
+utils_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/20640/branches/bleeding_edge/dart/pkg/oauth2/test/utils_test.dart
+END
+utils.dart
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/pkg/oauth2/test/utils.dart
+END
+authorization_code_grant_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/pkg/oauth2/test/authorization_code_grant_test.dart
+END

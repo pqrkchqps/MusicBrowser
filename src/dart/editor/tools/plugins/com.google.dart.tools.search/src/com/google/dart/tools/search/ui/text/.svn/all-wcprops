@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/14039/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/text
+END
+MatchFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/text/MatchFilter.java
+END
+FileTextSearchScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/14039/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/text/FileTextSearchScope.java
+END
+ExternalRootSearchScopeHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/11189/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/text/ExternalRootSearchScopeHelper.java
+END
+IFileMatchAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/text/IFileMatchAdapter.java
+END
+AbstractTextSearchViewPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/text/AbstractTextSearchViewPage.java
+END
+ISearchEditorAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/text/ISearchEditorAccess.java
+END
+RemoveAllEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/text/RemoveAllEvent.java
+END
+TextSearchScopeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/14039/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/text/TextSearchScopeFilter.java
+END
+FilterUpdateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/text/FilterUpdateEvent.java
+END
+TextSearchQueryProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/text/TextSearchQueryProvider.java
+END
+Match.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/text/Match.java
+END
+IEditorMatchAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/text/IEditorMatchAdapter.java
+END
+AbstractTextSearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/7419/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/text/AbstractTextSearchResult.java
+END
+MatchEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/ui/text/MatchEvent.java
+END

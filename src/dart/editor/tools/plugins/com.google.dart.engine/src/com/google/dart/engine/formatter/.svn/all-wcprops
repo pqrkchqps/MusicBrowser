@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/20666/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/formatter
+END
+FormatterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/formatter/FormatterException.java
+END
+Scanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/formatter/Scanner.java
+END
+CodeFormatterOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/formatter/CodeFormatterOptions.java
+END
+CodeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/formatter/CodeFormatter.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/21309/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/objectinspector
+END
+ExpressionEvaluateJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/19760/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/objectinspector/ExpressionEvaluateJob.java
+END
+ObjectInspectorContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/19760/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/objectinspector/ObjectInspectorContentProvider.java
+END
+OpenInspectorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/19760/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/objectinspector/OpenInspectorAction.java
+END
+ValueLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/19760/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/objectinspector/ValueLabelProvider.java
+END
+ObjectInspectorView.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/21309/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/objectinspector/ObjectInspectorView.java
+END
+NameLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/19760/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/objectinspector/NameLabelProvider.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/17352/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/test_data/Money
+END
+money.dart
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/17352/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/test_data/Money/money.dart
+END
+currency.dart
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/14217/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/test_data/Money/currency.dart
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/test_data/Money/.project
+END
+currency_exchange.dart
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/14217/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/test_data/Money/currency_exchange.dart
+END
+.children
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/test_data/Money/.children
+END
+complex_money.dart
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/14217/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/test_data/Money/complex_money.dart
+END
+simple_money.dart
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/14217/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/test_data/Money/simple_money.dart
+END

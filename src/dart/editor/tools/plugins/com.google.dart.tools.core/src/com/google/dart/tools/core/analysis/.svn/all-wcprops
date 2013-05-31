@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/21741/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis
+END
+CacheWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/12451/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/CacheWriter.java
+END
+PackageContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/20171/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/PackageContext.java
+END
+ResolveTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/17783/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/ResolveTask.java
+END
+ParseRequestTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/17783/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/ParseRequestTask.java
+END
+ScanTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/17783/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/ScanTask.java
+END
+AnalysisUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/19505/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/AnalysisUtility.java
+END
+TaskListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/10575/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/TaskListener.java
+END
+AnalyzeLibraryTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/17783/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/AnalyzeLibraryTask.java
+END
+IdleListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/10575/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/IdleListener.java
+END
+AnalysisEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/12451/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/AnalysisEvent.java
+END
+ParseCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/10385/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/ParseCallback.java
+END
+AnalysisDebug.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/17783/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/AnalysisDebug.java
+END
+AnalyzeContextTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/17783/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/AnalyzeContextTask.java
+END
+ResolveCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/8378/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/ResolveCallback.java
+END
+DiscardTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/17783/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/DiscardTask.java
+END
+AnalysisServerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/20171/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/AnalysisServerImpl.java
+END
+ErrorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/12725/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/ErrorListener.java
+END
+ScanCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/10785/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/ScanCallback.java
+END
+TaskProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/17783/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/TaskProcessor.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/12087/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/Task.java
+END
+Library.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/14217/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/Library.java
+END
+SavedContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/20171/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/SavedContext.java
+END
+TaskQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/12087/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/TaskQueue.java
+END
+SelectiveCacheAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/12451/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/SelectiveCacheAdapter.java
+END
+ParseResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/10385/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/ParseResult.java
+END
+AnalysisServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/19714/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/AnalysisServer.java
+END
+ProjectContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/20171/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/ProjectContext.java
+END
+FileChangedTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/17783/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/FileChangedTask.java
+END
+EverythingChangedTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/17783/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/EverythingChangedTask.java
+END
+AnalysisServerMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/19714/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/AnalysisServerMock.java
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/14915/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/Context.java
+END
+CacheReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/17369/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/CacheReader.java
+END
+AnalysisErrorCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/AnalysisErrorCode.java
+END
+AnalysisListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/8378/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/AnalysisListener.java
+END
+EditContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/12451/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/EditContext.java
+END
+ParseTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/17783/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/ParseTask.java
+END
+AnalysisError.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/8214/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/analysis/AnalysisError.java
+END

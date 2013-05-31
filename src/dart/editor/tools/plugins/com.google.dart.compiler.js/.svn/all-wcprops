@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/18950/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.compiler.js
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/18950/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.compiler.js/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/18950/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.compiler.js/.project
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/12122/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.compiler.js/.gitignore
+END
+plugin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/10547/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.compiler.js/plugin.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/18950/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.compiler.js/build.properties
+END

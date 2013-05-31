@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/21621/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/dartium
+END
+DartiumUrlScriptSourceContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/9560/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/dartium/DartiumUrlScriptSourceContainer.java
+END
+DartiumDebugThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/20234/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/dartium/DartiumDebugThread.java
+END
+DartiumProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/20677/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/dartium/DartiumProcess.java
+END
+DartiumDebugIsolateFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/17177/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/dartium/DartiumDebugIsolateFrame.java
+END
+CssScriptManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/dartium/CssScriptManager.java
+END
+DartiumDebugValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/dartium/DartiumDebugValue.java
+END
+DartiumDebugStackFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/20234/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/dartium/DartiumDebugStackFrame.java
+END
+DartiumSourcePathComputerDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/9560/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/dartium/DartiumSourcePathComputerDelegate.java
+END
+DartCodeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/dartium/DartCodeManager.java
+END
+DartiumDebugVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/19760/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/dartium/DartiumDebugVariable.java
+END
+DartiumDebugTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/21102/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/dartium/DartiumDebugTarget.java
+END
+HtmlScriptManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/dartium/HtmlScriptManager.java
+END
+DartiumDebugElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/19760/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/dartium/DartiumDebugElement.java
+END
+DartiumStreamMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/18792/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/dartium/DartiumStreamMonitor.java
+END
+BreakpointManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/20322/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/dartium/BreakpointManager.java
+END
+SourceMapManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/21621/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/dartium/SourceMapManager.java
+END
+DartiumRemoteScriptSourceContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/14142/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/dartium/DartiumRemoteScriptSourceContainer.java
+END
+VariableCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/dartium/VariableCollector.java
+END

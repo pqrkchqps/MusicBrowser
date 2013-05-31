@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/21309/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/actions
+END
+AbstractToggleLinkingAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/actions/AbstractToggleLinkingAction.java
+END
+OpenTypeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/actions/OpenTypeAction.java
+END
+MultiOrganizeImportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/13852/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/actions/MultiOrganizeImportAction.java
+END
+CleanUpAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/19520/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/actions/CleanUpAction.java
+END
+NewSelectionConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/20737/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/actions/NewSelectionConverter.java
+END
+WorkbenchRunnableAdapter_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/20718/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/actions/WorkbenchRunnableAdapter_OLD.java
+END
+AddTaskAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/19123/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/actions/AddTaskAction.java
+END
+CollapseAllAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/21309/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/actions/CollapseAllAction.java
+END
+WorkbenchRunnableAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/20718/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/actions/WorkbenchRunnableAdapter.java
+END
+DartQuickMenuAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/actions/DartQuickMenuAction.java
+END
+ActionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/21019/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/actions/ActionUtil.java
+END
+DartQuickMenuCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/actions/DartQuickMenuCreator.java
+END
+SelectionConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/actions/SelectionConverter.java
+END
+FoldingActionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/actions/FoldingActionGroup.java
+END

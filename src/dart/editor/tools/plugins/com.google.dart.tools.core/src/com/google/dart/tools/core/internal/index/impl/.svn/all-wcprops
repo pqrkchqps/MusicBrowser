@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/21114/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/index/impl
+END
+IndexPerformanceRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/4697/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/index/impl/IndexPerformanceRecorder.java
+END
+InMemoryIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/21114/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/index/impl/InMemoryIndex.java
+END

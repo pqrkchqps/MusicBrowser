@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/16447/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/general
+END
+Timer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/16266/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/general/Timer.java
+END
+StringUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/16447/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/general/StringUtilities.java
+END
+FormattedStringBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/7493/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/general/FormattedStringBuilder.java
+END
+SourceRangeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/16170/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/general/SourceRangeFactory.java
+END
+AdapterUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/10031/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/general/AdapterUtilities.java
+END
+SourceUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/general/SourceUtilities.java
+END

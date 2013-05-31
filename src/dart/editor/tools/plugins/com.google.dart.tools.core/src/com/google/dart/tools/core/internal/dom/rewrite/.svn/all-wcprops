@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/12212/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/dom/rewrite
+END
+ASTRewriteAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/12212/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/dom/rewrite/ASTRewriteAnalyzer.java
+END
+ListRewriteEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/dom/rewrite/ListRewriteEvent.java
+END
+SourceModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/dom/rewrite/SourceModifier.java
+END
+RewriteEventStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/7590/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/dom/rewrite/RewriteEventStore.java
+END
+RewriteEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/dom/rewrite/RewriteEvent.java
+END
+NodeRewriteEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/dom/rewrite/NodeRewriteEvent.java
+END
+TokenScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/9599/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/dom/rewrite/TokenScanner.java
+END
+TrackedNodePositionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/5208/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/dom/rewrite/TrackedNodePositionImpl.java
+END
+LineCommentEndOffsets.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/5208/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/dom/rewrite/LineCommentEndOffsets.java
+END
+ASTRewriteFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/9996/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/dom/rewrite/ASTRewriteFormatter.java
+END
+LineInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/dom/rewrite/LineInformation.java
+END
+NodeInfoStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/dom/rewrite/NodeInfoStore.java
+END

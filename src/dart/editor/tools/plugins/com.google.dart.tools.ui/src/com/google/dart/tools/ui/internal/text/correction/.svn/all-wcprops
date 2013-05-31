@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/21751/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction
+END
+CorrectionMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/15337/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/CorrectionMessages.java
+END
+QuickAssistProcessor_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/21518/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/QuickAssistProcessor_OLD.java
+END
+QuickAssistProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/21716/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/QuickAssistProcessor.java
+END
+CorrectionCommandHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/8194/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/CorrectionCommandHandler.java
+END
+CorrectionMarkerResolutionGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/21675/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/CorrectionMarkerResolutionGenerator.java
+END
+ICommandAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/8194/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/ICommandAccess.java
+END
+AssistContextUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/21675/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/AssistContextUI.java
+END
+CorrectionMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/15337/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/CorrectionMessages.properties
+END
+DartCorrectionAssistant_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/21675/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/DartCorrectionAssistant_OLD.java
+END
+AssistContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/19745/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/AssistContext.java
+END
+DartCorrectionAssistant.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/21751/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/DartCorrectionAssistant.java
+END
+DartCorrectionProcessor_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/21675/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/DartCorrectionProcessor_OLD.java
+END
+ContributedProcessorDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/9865/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/ContributedProcessorDescriptor.java
+END
+QuickFixProcessor_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/21675/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/QuickFixProcessor_OLD.java
+END
+DartCorrectionProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/21751/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/DartCorrectionProcessor.java
+END
+QuickFixProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/21751/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/QuickFixProcessor.java
+END
+QuickAssistLightBulbUpdater_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/21675/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/QuickAssistLightBulbUpdater_OLD.java
+END
+CorrectionCommandInstaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/8194/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/CorrectionCommandInstaller.java
+END
+ProblemLocation_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/21675/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/correction/ProblemLocation_OLD.java
+END

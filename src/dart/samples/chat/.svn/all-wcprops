@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/samples/chat
+END
+chat_server_lib.dart
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/samples/chat/chat_server_lib.dart
+END
+chat_stress_client.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/19690/branches/bleeding_edge/dart/samples/chat/chat_stress_client.dart
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10210/branches/bleeding_edge/dart/samples/chat/README
+END
+chat_server.dart
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/18326/branches/bleeding_edge/dart/samples/chat/chat_server.dart
+END

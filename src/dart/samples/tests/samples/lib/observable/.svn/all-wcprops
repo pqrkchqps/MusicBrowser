@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16455/branches/bleeding_edge/dart/samples/tests/samples/lib/observable
+END
+change_event_tests.dart
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/16455/branches/bleeding_edge/dart/samples/tests/samples/lib/observable/change_event_tests.dart
+END
+abstract_observable_tests.dart
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/16455/branches/bleeding_edge/dart/samples/tests/samples/lib/observable/abstract_observable_tests.dart
+END
+observable_list_tests.dart
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/16455/branches/bleeding_edge/dart/samples/tests/samples/lib/observable/observable_list_tests.dart
+END
+observable_value_tests.dart
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/16455/branches/bleeding_edge/dart/samples/tests/samples/lib/observable/observable_value_tests.dart
+END
+observable_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/14660/branches/bleeding_edge/dart/samples/tests/samples/lib/observable/observable_test.dart
+END
+event_batch_tests.dart
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/16455/branches/bleeding_edge/dart/samples/tests/samples/lib/observable/event_batch_tests.dart
+END

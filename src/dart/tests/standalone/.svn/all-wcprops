@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/21739/branches/bleeding_edge/dart/tests/standalone
+END
+int_array_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/int_array_test.dart
+END
+medium_integer_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/medium_integer_test.dart
+END
+bytedata_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/21693/branches/bleeding_edge/dart/tests/standalone/bytedata_test.dart
+END
+typed_data_isolate_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/20426/branches/bleeding_edge/dart/tests/standalone/typed_data_isolate_test.dart
+END
+deoptimization_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/deoptimization_test.dart
+END
+double_temp_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/double_temp_test.dart
+END
+constant_left_shift_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/constant_left_shift_test.dart
+END
+assert_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/assert_test.dart
+END
+number_identity_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/number_identity_test.dart
+END
+status_expression_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/standalone/status_expression_test.dart
+END
+float_array_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/21452/branches/bleeding_edge/dart/tests/standalone/float_array_test.dart
+END
+pow_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/pow_test.dart
+END
+left_shift_bit_and_op_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/left_shift_bit_and_op_test.dart
+END
+typed_data_view_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/21688/branches/bleeding_edge/dart/tests/standalone/typed_data_view_test.dart
+END
+typed_data_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/21688/branches/bleeding_edge/dart/tests/standalone/typed_data_test.dart
+END
+byte_array_view_optimized_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/21586/branches/bleeding_edge/dart/tests/standalone/byte_array_view_optimized_test.dart
+END
+int_array_load_elimination_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/int_array_load_elimination_test.dart
+END
+black_listed_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16106/branches/bleeding_edge/dart/tests/standalone/black_listed_test.dart
+END
+standalone.status
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/21688/branches/bleeding_edge/dart/tests/standalone/standalone.status
+END
+typed_array_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/typed_array_test.dart
+END
+out_of_memory_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/out_of_memory_test.dart
+END
+int_array_deopt.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/19427/branches/bleeding_edge/dart/tests/standalone/int_array_deopt.dart
+END
+double_to_int_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/double_to_int_test.dart
+END

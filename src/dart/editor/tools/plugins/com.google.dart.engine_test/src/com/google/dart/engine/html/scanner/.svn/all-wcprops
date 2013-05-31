@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/20907/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/html/scanner
+END
+StringScannerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/18302/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/html/scanner/StringScannerTest.java
+END
+CharBufferScannerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/18302/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/html/scanner/CharBufferScannerTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/18302/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/html/scanner/TestAll.java
+END
+AbstractScannerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/20907/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/html/scanner/AbstractScannerTest.java
+END

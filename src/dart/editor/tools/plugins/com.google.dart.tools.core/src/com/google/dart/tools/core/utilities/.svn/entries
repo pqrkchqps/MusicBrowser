@@ -1,0 +1,61 @@
+10
+
+dir
+21780
+https://dart.googlecode.com/svn/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities
+https://dart.googlecode.com/svn
+
+
+
+2013-04-19T21:50:32.646507Z
+21775
+pquitslund@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+260f80e4-7a28-3924-810f-c04153c831b5
+
+dartdoc
+dir
+
+performance
+dir
+
+yaml
+dir
+
+net
+dir
+
+resource
+dir
+
+io
+dir
+
+ast
+dir
+
+compiler
+dir
+
+bindings
+dir
+
+general
+dir
+
+collections
+dir
+

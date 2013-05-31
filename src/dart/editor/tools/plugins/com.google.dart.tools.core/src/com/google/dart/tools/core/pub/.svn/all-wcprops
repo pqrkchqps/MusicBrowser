@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/21760/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/pub
+END
+IModelListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/16165/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/pub/IModelListener.java
+END
+PubManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/16580/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/pub/PubManager.java
+END
+PubspecModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/20729/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/pub/PubspecModel.java
+END
+IPackageRootProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/20046/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/pub/IPackageRootProvider.java
+END
+DependencyObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/20729/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/pub/DependencyObject.java
+END
+PubBuildParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/21381/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/pub/PubBuildParticipant.java
+END
+RunPubJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/21760/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/pub/RunPubJob.java
+END
+IPubUpdateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/16580/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/pub/IPubUpdateListener.java
+END
+PubMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/16547/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/pub/PubMessages.properties
+END
+PubspecConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/20028/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/pub/PubspecConstants.java
+END
+PubMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/15460/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/pub/PubMessages.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/20666/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/search/listener
+END
+CountingSearchListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/search/listener/CountingSearchListener.java
+END
+GatheringSearchListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/20666/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/search/listener/GatheringSearchListener.java
+END
+NameMatchingSearchListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/search/listener/NameMatchingSearchListener.java
+END
+FilteredSearchListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/search/listener/FilteredSearchListener.java
+END
+WrappedSearchListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/search/listener/WrappedSearchListener.java
+END

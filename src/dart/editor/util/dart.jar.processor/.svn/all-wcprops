@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12122/branches/bleeding_edge/dart/editor/util/dart.jar.processor
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/util/dart.jar.processor/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/util/dart.jar.processor/.project
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12122/branches/bleeding_edge/dart/editor/util/dart.jar.processor/.gitignore
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/util/dart.jar.processor/build.xml
+END

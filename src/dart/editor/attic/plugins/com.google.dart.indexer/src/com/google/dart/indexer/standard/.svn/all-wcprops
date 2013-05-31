@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/standard
+END
+ExtensionPointParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/standard/ExtensionPointParser.java
+END
+StandardIndexerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/standard/StandardIndexerFactory.java
+END
+StandardDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/standard/StandardDriver.java
+END

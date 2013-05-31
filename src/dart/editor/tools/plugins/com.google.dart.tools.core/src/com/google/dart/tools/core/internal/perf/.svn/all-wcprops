@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/19355/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/perf
+END
+Performance.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/19355/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/perf/Performance.java
+END
+Metric.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/9723/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/perf/Metric.java
+END
+Result.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/7493/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/perf/Result.java
+END

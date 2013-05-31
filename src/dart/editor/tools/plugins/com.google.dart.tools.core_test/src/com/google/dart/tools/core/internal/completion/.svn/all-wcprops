@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/21191/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/completion
+END
+MockLibrarySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/78/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/completion/MockLibrarySource.java
+END
+CompletionEngineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/21191/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/completion/CompletionEngineTest.java
+END
+ProxyProposalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/18586/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/completion/ProxyProposalTest.java
+END
+CompletionEngineTest2.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/572/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/completion/CompletionEngineTest2.java
+END
+CompletionSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/8229/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/completion/CompletionSpec.java
+END
+MockDartSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/completion/MockDartSource.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/18586/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/completion/TestAll.java
+END
+MockSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/5440/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/completion/MockSource.java
+END
+MockCompletionRequestor.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/18098/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/completion/MockCompletionRequestor.java
+END

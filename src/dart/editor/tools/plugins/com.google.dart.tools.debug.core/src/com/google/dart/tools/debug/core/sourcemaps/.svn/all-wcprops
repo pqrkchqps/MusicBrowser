@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/sourcemaps
+END
+SourceMapDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/sourcemaps/SourceMapDecoder.java
+END
+VlqDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/17789/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/sourcemaps/VlqDecoder.java
+END
+SourceMapInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/17789/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/sourcemaps/SourceMapInfo.java
+END
+SourceMapInfoEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/sourcemaps/SourceMapInfoEntry.java
+END
+SourceMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/sourcemaps/SourceMap.java
+END

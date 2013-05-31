@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/21661/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/src/com/google/dart/java2dart
+END
+SyntaxTranslatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/21585/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/src/com/google/dart/java2dart/SyntaxTranslatorTest.java
+END
+SemanticTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/21661/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/src/com/google/dart/java2dart/SemanticTest.java
+END
+AbstractSemanticTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/17692/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/src/com/google/dart/java2dart/AbstractSemanticTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/17287/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/src/com/google/dart/java2dart/TestAll.java
+END

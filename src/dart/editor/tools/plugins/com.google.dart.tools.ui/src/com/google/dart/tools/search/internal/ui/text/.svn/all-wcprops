@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/14777/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/search/internal/ui/text
+END
+FileSearchPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/14777/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/search/internal/ui/text/FileSearchPage.java
+END
+SortAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/14762/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/search/internal/ui/text/SortAction.java
+END
+FileTreeContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/14762/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/search/internal/ui/text/FileTreeContentProvider.java
+END
+FileTableContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/14762/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/search/internal/ui/text/FileTableContentProvider.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/21649/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/resources
+END
+java_engine.dart
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/21585/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/resources/java_engine.dart
+END
+all_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/19764/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/resources/all_test.dart
+END
+java_io.dart
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/20420/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/resources/java_io.dart
+END
+java_core.dart
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/21649/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/resources/java_core.dart
+END
+java_junit.dart
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/21585/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/resources/java_junit.dart
+END
+ast_include.dart
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/21338/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/resources/ast_include.dart
+END
+java_engine_io.dart
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/19585/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/resources/java_engine_io.dart
+END
+test_support_include.dart
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/21585/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/resources/test_support_include.dart
+END

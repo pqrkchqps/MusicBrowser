@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/21752/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/correction
+END
+QuickAssistProcessorImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/21752/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/correction/QuickAssistProcessorImplTest.java
+END
+QuickFixProcessorImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/21751/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/correction/QuickFixProcessorImplTest.java
+END
+SourceBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/18336/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/correction/SourceBuilderTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/21705/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/correction/TestAll.java
+END
+CorrectionUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/21294/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/correction/CorrectionUtilsTest.java
+END
+StatementAnalyzerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/20094/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/correction/StatementAnalyzerTest.java
+END
+SelectionAnalyzerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/20094/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/correction/SelectionAnalyzerTest.java
+END
+LinkedPositionProposalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/18336/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/correction/LinkedPositionProposalTest.java
+END
+AbstractDartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/20094/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/internal/correction/AbstractDartTest.java
+END

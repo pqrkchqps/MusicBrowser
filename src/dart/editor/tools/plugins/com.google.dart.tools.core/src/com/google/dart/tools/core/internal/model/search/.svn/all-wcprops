@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/5241/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/search
+END
+AbstractSearchScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/search/AbstractSearchScope.java
+END
+DartWorkspaceScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/5241/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/model/search/DartWorkspaceScope.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/20503/branches/bleeding_edge/dart/sdk/lib/math
+END
+math.dart
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/20503/branches/bleeding_edge/dart/sdk/lib/math/math.dart
+END
+math_sources.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/20503/branches/bleeding_edge/dart/sdk/lib/math/math_sources.gypi
+END
+random.dart
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/17836/branches/bleeding_edge/dart/sdk/lib/math/random.dart
+END

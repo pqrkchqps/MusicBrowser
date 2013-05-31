@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/13799/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/test_data/UpdateUtilsTest/testCopyPreservesPerms
+END
+no_exec
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/13799/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/test_data/UpdateUtilsTest/testCopyPreservesPerms/no_exec
+END
+exec
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/13799/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/test_data/UpdateUtilsTest/testCopyPreservesPerms/exec
+END

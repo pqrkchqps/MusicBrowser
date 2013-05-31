@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/21705/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/error
+END
+AnalysisErrorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/21000/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/error/AnalysisErrorListener.java
+END
+ErrorSeverity.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/19744/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/error/ErrorSeverity.java
+END
+ErrorCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/error/ErrorCode.java
+END
+StaticWarningCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/21705/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/error/StaticWarningCode.java
+END
+StaticTypeWarningCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/21684/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/error/StaticTypeWarningCode.java
+END
+ErrorType.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/error/ErrorType.java
+END
+CompileTimeErrorCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/21684/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/error/CompileTimeErrorCode.java
+END
+AnalysisError.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/20806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/error/AnalysisError.java
+END

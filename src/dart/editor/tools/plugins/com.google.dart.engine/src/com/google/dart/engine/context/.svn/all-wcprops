@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/21750/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/context
+END
+ChangeSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/20353/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/context/ChangeSet.java
+END
+AnalysisException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/context/AnalysisException.java
+END
+ChangeNotice.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/21168/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/context/ChangeNotice.java
+END
+AnalysisContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/21750/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/context/AnalysisContext.java
+END
+AnalysisErrorInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/21168/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/context/AnalysisErrorInfo.java
+END

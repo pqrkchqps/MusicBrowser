@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/21746/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator
+END
+ChromePackagedAppSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/18482/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/ChromePackagedAppSample.java
+END
+NewFileGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/16780/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/NewFileGenerator.java
+END
+AbstractSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/19806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/AbstractSample.java
+END
+generated-empty-file.txt
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/generated-empty-file.txt
+END
+generated-dart-class-main.txt
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/13855/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/generated-dart-class-main.txt
+END
+AbstractGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/8875/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/AbstractGenerator.java
+END
+ApplicationGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/15346/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/ApplicationGenerator.java
+END
+DartElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/DartElementGenerator.java
+END
+WebUiSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/17788/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/WebUiSample.java
+END
+GeneratorMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/GeneratorMessages.java
+END
+WebAppSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/19806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/WebAppSample.java
+END
+generated-dart-interface.txt
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/generated-dart-interface.txt
+END
+generated-css.txt
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/9562/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/generated-css.txt
+END
+generated-dart-class-empty.txt
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/21746/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/generated-dart-class-empty.txt
+END
+generated-html-new.txt
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/17156/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/generated-html-new.txt
+END
+FileGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/16780/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/FileGenerator.java
+END
+generated-dart-class.txt
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/8875/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/generated-dart-class.txt
+END
+CommandLineSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/17873/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/CommandLineSample.java
+END
+DartProjectGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/12877/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/DartProjectGenerator.java
+END
+generated-dart-server.txt
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/7743/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/generated-dart-server.txt
+END
+GeneratorMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/GeneratorMessages.properties
+END
+DartIdentifierUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/10247/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/DartIdentifierUtil.java
+END
+generated-pubspec.txt
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/15617/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/generated-pubspec.txt
+END
+generated-html.txt
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/16879/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/generated-html.txt
+END

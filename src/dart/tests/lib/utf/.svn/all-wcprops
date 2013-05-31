@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/21151/branches/bleeding_edge/dart/tests/lib/utf
+END
+utf_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/21151/branches/bleeding_edge/dart/tests/lib/utf/utf_test.dart
+END
+utf8_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/21151/branches/bleeding_edge/dart/tests/lib/utf/utf8_test.dart
+END

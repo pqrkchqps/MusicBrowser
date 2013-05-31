@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/21464/branches/bleeding_edge/dart/pkg/serialization/lib/src
+END
+format.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/19112/branches/bleeding_edge/dart/pkg/serialization/lib/src/format.dart
+END
+basic_rule.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/21457/branches/bleeding_edge/dart/pkg/serialization/lib/src/basic_rule.dart
+END
+reader_writer.dart
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/18357/branches/bleeding_edge/dart/pkg/serialization/lib/src/reader_writer.dart
+END
+serialization_helpers.dart
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/19391/branches/bleeding_edge/dart/pkg/serialization/lib/src/serialization_helpers.dart
+END
+mirrors_helpers.dart
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/16989/branches/bleeding_edge/dart/pkg/serialization/lib/src/mirrors_helpers.dart
+END
+serialization_rule.dart
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/21464/branches/bleeding_edge/dart/pkg/serialization/lib/src/serialization_rule.dart
+END

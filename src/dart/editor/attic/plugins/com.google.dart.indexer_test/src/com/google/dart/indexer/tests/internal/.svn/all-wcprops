@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer_test/src/com/google/dart/indexer/tests/internal
+END
+StringInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer_test/src/com/google/dart/indexer/tests/internal/StringInputStream.java
+END
+StringUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer_test/src/com/google/dart/indexer/tests/internal/StringUtilities.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer_test/src/com/google/dart/indexer/tests/internal/Activator.java
+END
+TestingUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer_test/src/com/google/dart/indexer/tests/internal/TestingUtils.java
+END
+ReaderInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer_test/src/com/google/dart/indexer/tests/internal/ReaderInputStream.java
+END

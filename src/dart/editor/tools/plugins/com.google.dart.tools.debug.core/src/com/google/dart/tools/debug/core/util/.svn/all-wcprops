@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/21284/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util
+END
+IDartStackFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/IDartStackFrame.java
+END
+CoreLaunchUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/20677/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/CoreLaunchUtils.java
+END
+CompilationServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/19589/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/CompilationServer.java
+END
+DebuggerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/DebuggerUtils.java
+END
+IDartDebugValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/19760/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/IDartDebugValue.java
+END
+IExceptionStackFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/19760/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/IExceptionStackFrame.java
+END
+ListeningStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/11956/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/ListeningStream.java
+END
+ResourceServerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/16088/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/ResourceServerManager.java
+END
+NullStreamsProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/20677/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/NullStreamsProxy.java
+END
+ResourceServerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/20543/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/ResourceServerHandler.java
+END
+HttpUrlConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/20410/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/HttpUrlConnector.java
+END
+ResourceServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/20543/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/ResourceServer.java
+END
+BrowserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/21284/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/BrowserManager.java
+END
+IRemoteConnectionDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/20677/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/IRemoteConnectionDelegate.java
+END
+IVariableResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/9661/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/IVariableResolver.java
+END
+IDartDebugVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/12727/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/IDartDebugVariable.java
+END
+agent.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/11327/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/agent.html
+END
+LogTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/9358/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/LogTimer.java
+END
+IResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/18398/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/IResourceResolver.java
+END
+mime.txt
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/20448/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/mime.txt
+END
+ResourceChangeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/ResourceChangeManager.java
+END
+agent.js
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/18864/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/agent.js
+END
+ResourceChangeParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/ResourceChangeParticipant.java
+END
+template.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/9822/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/util/template.html
+END

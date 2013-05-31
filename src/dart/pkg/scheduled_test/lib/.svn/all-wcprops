@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/21770/branches/bleeding_edge/dart/pkg/scheduled_test/lib
+END
+scheduled_server.dart
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/pkg/scheduled_test/lib/scheduled_server.dart
+END
+scheduled_process.dart
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/pkg/scheduled_test/lib/scheduled_process.dart
+END
+descriptor.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/21106/branches/bleeding_edge/dart/pkg/scheduled_test/lib/descriptor.dart
+END
+scheduled_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/21770/branches/bleeding_edge/dart/pkg/scheduled_test/lib/scheduled_test.dart
+END

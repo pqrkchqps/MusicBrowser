@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/21758/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui
+END
+DartPluginImages.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/20714/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/DartPluginImages.java
+END
+IWorkingCopyProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/18394/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/IWorkingCopyProvider.java
+END
+DartUiDebug.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/15464/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/DartUiDebug.java
+END
+IDartElementSearchConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/IDartElementSearchConstants.java
+END
+NewDartElementLabels.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/18731/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/NewDartElementLabels.java
+END
+DartPerspective.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/20417/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/DartPerspective.java
+END
+ISharedImages.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/ISharedImages.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/Messages.java
+END
+DartSuperTypeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/DartSuperTypeAction.java
+END
+DartProjectAdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/DartProjectAdapterFactory.java
+END
+PreferenceConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/20918/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/PreferenceConstants.java
+END
+DartUIStartup.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/21562/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/DartUIStartup.java
+END
+IWorkingCopyManagerExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/IWorkingCopyManagerExtension.java
+END
+OverrideIndicatorLabelDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/OverrideIndicatorLabelDecorator.java
+END
+DartElementLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/4796/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/DartElementLabelProvider.java
+END
+IWorkingCopyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/IWorkingCopyManager.java
+END
+ResourceAdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/ResourceAdapterFactory.java
+END
+CodeStyleConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/CodeStyleConfiguration.java
+END
+CodeGeneration.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/CodeGeneration.java
+END
+ImportedDartLibraryContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/18394/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/ImportedDartLibraryContainer.java
+END
+SharedASTProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/SharedASTProvider.java
+END
+OldStandardDartElementContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/18394/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/OldStandardDartElementContentProvider.java
+END
+DartElementAdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/10069/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/DartElementAdapterFactory.java
+END
+ProjectLibraryRoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/ProjectLibraryRoot.java
+END
+DartElementSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/DartElementSorter.java
+END
+NewStandardDartElementContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/18731/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/NewStandardDartElementContentProvider.java
+END
+DartElementImageDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/12805/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/DartElementImageDescriptor.java
+END
+NewDartElementAdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/20408/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/NewDartElementAdapterFactory.java
+END
+ITypeHierarchyViewPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/ITypeHierarchyViewPart.java
+END
+CmdLineFileProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/19355/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/CmdLineFileProcessor.java
+END
+IContextMenuConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/IContextMenuConstants.java
+END
+DartUIMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/9001/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/DartUIMessages.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/messages.properties
+END
+DartX.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/DartX.java
+END
+ImportedDartLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/18394/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/ImportedDartLibrary.java
+END
+DartLibrariesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/DartLibrariesAction.java
+END
+ProblemsLabelDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/12877/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/ProblemsLabelDecorator.java
+END
+DartElementLabels.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/18731/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/DartElementLabels.java
+END
+DartUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/20221/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/DartUI.java
+END
+DartToolsPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/21400/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/DartToolsPlugin.java
+END
+DartUIMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/9001/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/DartUIMessages.properties
+END
+Flags.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/Flags.java
+END
+DartElementComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/10901/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/DartElementComparator.java
+END
+DartDocContentAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/DartDocContentAccess.java
+END

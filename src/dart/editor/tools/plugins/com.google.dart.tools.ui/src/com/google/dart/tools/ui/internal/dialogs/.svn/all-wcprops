@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/21031/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs
+END
+StatusInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/StatusInfo.java
+END
+OverrideMethodDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/OverrideMethodDialog.java
+END
+CheckboxTreeAndListGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/CheckboxTreeAndListGroup.java
+END
+DialogMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/11542/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/DialogMessages.properties
+END
+TableTextCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/TableTextCellEditor.java
+END
+TextFieldNavigationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/TextFieldNavigationHandler.java
+END
+FilteredTypesSelectionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/11245/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/FilteredTypesSelectionDialog.java
+END
+OptionalMessageDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/OptionalMessageDialog.java
+END
+ResourceSelectionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/ResourceSelectionDialog.java
+END
+SourceActionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/SourceActionDialog.java
+END
+StatusUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/StatusUtil.java
+END
+MultiElementListSelectionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/9965/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/MultiElementListSelectionDialog.java
+END
+DialogMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/11542/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/DialogMessages.java
+END
+SortMembersMessageDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/SortMembersMessageDialog.java
+END
+OpenTypeSelectionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/OpenTypeSelectionDialog.java
+END
+ListDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/dialogs/ListDialog.java
+END

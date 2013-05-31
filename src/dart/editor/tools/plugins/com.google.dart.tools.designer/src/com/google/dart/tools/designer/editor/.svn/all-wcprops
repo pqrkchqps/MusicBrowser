@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor
+END
+UndoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/UndoManager.java
+END
+XmlExceptionComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/XmlExceptionComposite.java
+END
+XmlEditorPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/XmlEditorPage.java
+END
+IXmlEditorPageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/IXmlEditorPageFactory.java
+END
+XmlWarningComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/XmlWarningComposite.java
+END
+XwtDesignPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/XwtDesignPage.java
+END
+XmlDesignToolbarHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/XmlDesignToolbarHelper.java
+END
+IXmlEditorPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/IXmlEditorPage.java
+END
+XmlDesignComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/XmlDesignComposite.java
+END
+DesignContextMenuProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/DesignContextMenuProvider.java
+END
+ImageCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/ImageCanvas.java
+END
+DartDesignerEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/DartDesignerEditor.java
+END
+AbstractXmlEditorContributor.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/AbstractXmlEditorContributor.java
+END
+XmlDesignPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/XmlDesignPage.java
+END
+LineControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/LineControl.java
+END
+IRefreshStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/IRefreshStrategy.java
+END
+XmlPropertiesToolBarContributor.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/XmlPropertiesToolBarContributor.java
+END
+AbstractXmlEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/AbstractXmlEditor.java
+END
+SourcePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/SourcePage.java
+END

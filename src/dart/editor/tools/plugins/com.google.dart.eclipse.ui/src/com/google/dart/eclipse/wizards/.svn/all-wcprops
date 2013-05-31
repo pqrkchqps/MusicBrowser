@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/20687/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.eclipse.ui/src/com/google/dart/eclipse/wizards
+END
+DartProjectWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/20687/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.eclipse.ui/src/com/google/dart/eclipse/wizards/DartProjectWizardPage.java
+END
+DartProjectWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/16819/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.eclipse.ui/src/com/google/dart/eclipse/wizards/DartProjectWizard.java
+END
+ProjectComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/19806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.eclipse.ui/src/com/google/dart/eclipse/wizards/ProjectComposite.java
+END

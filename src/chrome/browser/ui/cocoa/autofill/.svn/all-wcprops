@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/193982/trunk/src/chrome/browser/ui/cocoa/autofill
+END
+autofill_popup_view_bridge.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/193982/trunk/src/chrome/browser/ui/cocoa/autofill/autofill_popup_view_bridge.mm
+END
+autofill_popup_view_cocoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/193540/trunk/src/chrome/browser/ui/cocoa/autofill/autofill_popup_view_cocoa.h
+END
+autofill_popup_view_cocoa.mm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/193540/trunk/src/chrome/browser/ui/cocoa/autofill/autofill_popup_view_cocoa.mm
+END
+autofill_popup_view_bridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/193540/trunk/src/chrome/browser/ui/cocoa/autofill/autofill_popup_view_bridge.h
+END

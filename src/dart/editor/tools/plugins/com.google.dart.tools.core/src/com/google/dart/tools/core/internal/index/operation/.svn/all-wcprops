@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/9259/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/index/operation
+END
+ClearIndexOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/9259/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/index/operation/ClearIndexOperation.java
+END
+IndexResourceOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/9259/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/index/operation/IndexResourceOperation.java
+END
+OperationProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/9227/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/index/operation/OperationProcessor.java
+END
+GetAttributeOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/9063/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/index/operation/GetAttributeOperation.java
+END
+OperationQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/9227/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/index/operation/OperationQueue.java
+END
+GetRelationshipsOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/9063/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/index/operation/GetRelationshipsOperation.java
+END
+RemoveResourceOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/9259/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/index/operation/RemoveResourceOperation.java
+END
+IndexOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/9063/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/index/operation/IndexOperation.java
+END

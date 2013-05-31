@@ -1,0 +1,55 @@
+10
+
+dir
+21780
+https://dart.googlecode.com/svn/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui
+https://dart.googlecode.com/svn
+
+
+
+2013-04-11T20:47:22.514421Z
+21309
+lukeEChurch@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+260f80e4-7a28-3924-810f-c04153c831b5
+
+build
+dir
+
+actions
+dir
+
+omni
+dir
+
+update
+dir
+
+theme
+dir
+
+console
+dir
+
+dialogs
+dir
+
+feedback
+dir
+
+presentation
+dir
+

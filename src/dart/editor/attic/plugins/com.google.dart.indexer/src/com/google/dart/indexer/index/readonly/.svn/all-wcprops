@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/readonly
+END
+Index.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/readonly/Index.java
+END
+EmptyIndexImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/readonly/EmptyIndexImpl.java
+END
+DiskBackedIndexImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/readonly/DiskBackedIndexImpl.java
+END

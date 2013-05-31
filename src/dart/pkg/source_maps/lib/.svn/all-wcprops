@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/21770/branches/bleeding_edge/dart/pkg/source_maps/lib
+END
+builder.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/20300/branches/bleeding_edge/dart/pkg/source_maps/lib/builder.dart
+END
+parser.dart
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/20300/branches/bleeding_edge/dart/pkg/source_maps/lib/parser.dart
+END
+source_maps.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/21770/branches/bleeding_edge/dart/pkg/source_maps/lib/source_maps.dart
+END
+span.dart
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/21151/branches/bleeding_edge/dart/pkg/source_maps/lib/span.dart
+END
+printer.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/20300/branches/bleeding_edge/dart/pkg/source_maps/lib/printer.dart
+END

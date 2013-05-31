@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/utils
+END
+CacheMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/utils/CacheMap.java
+END
+ToStringComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/utils/ToStringComparator.java
+END
+ResourceDeltaSwitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/utils/ResourceDeltaSwitch.java
+END
+ResourceSwitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/utils/ResourceSwitch.java
+END
+Debugging.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/utils/Debugging.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/utils/FileUtil.java
+END
+PathUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/utils/PathUtils.java
+END

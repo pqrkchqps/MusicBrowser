@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/21596/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/visitor
+END
+RecursiveASTVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/20425/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/visitor/RecursiveASTVisitor.java
+END
+SimpleASTVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/20425/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/visitor/SimpleASTVisitor.java
+END
+ToSourceVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/20425/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/visitor/ToSourceVisitor.java
+END
+GeneralizingASTVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/20425/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/visitor/GeneralizingASTVisitor.java
+END
+NodeLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/21596/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/visitor/NodeLocator.java
+END
+ConstantEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/20490/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/visitor/ConstantEvaluator.java
+END
+ElementLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/21413/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/visitor/ElementLocator.java
+END

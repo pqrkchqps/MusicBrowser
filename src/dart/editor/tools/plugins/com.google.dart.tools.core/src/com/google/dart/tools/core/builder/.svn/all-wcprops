@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/17480/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/builder
+END
+BuildVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/15619/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/builder/BuildVisitor.java
+END
+ParticipantEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/15682/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/builder/ParticipantEvent.java
+END
+BuildEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/17480/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/builder/BuildEvent.java
+END
+CleanVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/15619/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/builder/CleanVisitor.java
+END
+AbstractBuildVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/17480/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/builder/AbstractBuildVisitor.java
+END
+CleanEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/15682/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/builder/CleanEvent.java
+END
+BuildParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/15619/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/builder/BuildParticipant.java
+END

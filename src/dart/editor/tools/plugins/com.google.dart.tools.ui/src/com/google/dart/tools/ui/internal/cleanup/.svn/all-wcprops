@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/20428/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup
+END
+MapCleanUpOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/MapCleanUpOptions.java
+END
+MultiFixMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/MultiFixMessages.properties
+END
+ImportsCleanUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/13852/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/ImportsCleanUp.java
+END
+IMultiFix.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/11087/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/IMultiFix.java
+END
+AbstractCleanUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/11087/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/AbstractCleanUp.java
+END
+CleanUpRefactoring.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/14241/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/CleanUpRefactoring.java
+END
+DefaultCleanUpOptionsInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/DefaultCleanUpOptionsInitializer.java
+END
+FixMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/14241/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/FixMessages.java
+END
+CleanUpRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/CleanUpRegistry.java
+END
+CleanUpPostSaveListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/11087/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/CleanUpPostSaveListener.java
+END
+IMultiLineCleanUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/11087/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/IMultiLineCleanUp.java
+END
+CleanUpConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/CleanUpConstants.java
+END
+MultiFixMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/MultiFixMessages.java
+END
+FixMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/14241/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/FixMessages.properties
+END
+CodeFormatFix.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/CodeFormatFix.java
+END
+CodeFormatCleanUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/CodeFormatCleanUp.java
+END
+CleanUpRefactoringWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/19907/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/CleanUpRefactoringWizard.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/18257/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/end2end
+END
+NonStrictResolutionTest.dart
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/11316/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/end2end/NonStrictResolutionTest.dart
+END
+End2EndTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/18257/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/end2end/End2EndTests.java
+END
+NonStrictResolutionNegativeTest1.dart
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/275/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/end2end/NonStrictResolutionNegativeTest1.dart
+END
+NonStrictResolutionNegativeTest2.dart
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/275/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/end2end/NonStrictResolutionNegativeTest2.dart
+END

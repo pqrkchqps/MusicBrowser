@@ -1,0 +1,13 @@
+[0.000][INFO]:      ChromeDriver 26.0.1383.0 /home/mt5/Apps/Dart/depot_tools/chromedriver
+[0.996][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chromeOptions": {
+      "args": [ "--enable-shadow-dom", "--enable-style-scoped" ],
+      "binary": "/home/mt5/Apps/Dart/dartium/src/out/Release/chrome",
+      "extensions": [  ]
+   },
+   "javascriptEnabled": true,
+   "platform": "ANY",
+   "version": ""
+}
+

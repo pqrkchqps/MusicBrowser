@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/source
+END
+FileSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/source/FileSource.java
+END
+IndexableSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/source/IndexableSource.java
+END
+JarSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/source/JarSource.java
+END

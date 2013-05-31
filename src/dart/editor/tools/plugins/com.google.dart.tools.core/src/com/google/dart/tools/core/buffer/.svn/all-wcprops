@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/11396/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/buffer
+END
+BufferChangedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/11396/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/buffer/BufferChangedEvent.java
+END
+BufferChangedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/buffer/BufferChangedListener.java
+END
+Buffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/buffer/Buffer.java
+END

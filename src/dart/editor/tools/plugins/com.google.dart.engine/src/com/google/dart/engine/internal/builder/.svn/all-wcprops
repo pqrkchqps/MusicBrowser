@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/21712/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/builder
+END
+ElementBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/21712/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/builder/ElementBuilder.java
+END
+CompilationUnitBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/20635/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/builder/CompilationUnitBuilder.java
+END
+ElementHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/20711/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/builder/ElementHolder.java
+END
+HtmlUnitBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/21122/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/builder/HtmlUnitBuilder.java
+END

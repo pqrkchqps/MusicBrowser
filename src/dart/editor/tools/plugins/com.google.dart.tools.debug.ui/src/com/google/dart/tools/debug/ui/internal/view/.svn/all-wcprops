@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/21704/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/view
+END
+DebuggerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/view/DebuggerView.java
+END
+ShowBreakpointsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/10466/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/view/ShowBreakpointsAction.java
+END
+ShowExpressionsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/11554/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/view/ShowExpressionsAction.java
+END
+DebuggerPatternMatchListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/21165/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/view/DebuggerPatternMatchListener.java
+END
+DartExpressionView.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/21704/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/view/DartExpressionView.java
+END
+RemoveAllBreakpointsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/9139/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/view/RemoveAllBreakpointsHandler.java
+END
+RemoveAllBreakpointsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/7426/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/view/RemoveAllBreakpointsAction.java
+END
+RemoveLaunchAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/3958/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/view/RemoveLaunchAction.java
+END
+BlankSeparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/5603/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/view/BlankSeparator.java
+END
+DebuggerViewManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/13890/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/view/DebuggerViewManager.java
+END
+BreakpointsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/21704/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/view/BreakpointsView.java
+END
+DartVariablesView.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/14968/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/view/DartVariablesView.java
+END
+ToggleUseSourceMapsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/view/ToggleUseSourceMapsAction.java
+END

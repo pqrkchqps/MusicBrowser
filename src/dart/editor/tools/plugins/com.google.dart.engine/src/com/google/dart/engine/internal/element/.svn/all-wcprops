@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/21763/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element
+END
+EmbeddedHtmlScriptElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/19735/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/EmbeddedHtmlScriptElementImpl.java
+END
+ClassElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/21763/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/ClassElementImpl.java
+END
+PropertyInducingElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/PropertyInducingElementImpl.java
+END
+PropertyAccessorElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/PropertyAccessorElementImpl.java
+END
+ConstLocalVariableElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/19879/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/ConstLocalVariableElementImpl.java
+END
+ElementLocationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/ElementLocationImpl.java
+END
+ImportElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/ImportElementImpl.java
+END
+CompilationUnitElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/21459/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/CompilationUnitElementImpl.java
+END
+LabelElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/LabelElementImpl.java
+END
+MethodElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/20170/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/MethodElementImpl.java
+END
+ParameterElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/21024/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/ParameterElementImpl.java
+END
+ExportElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/ExportElementImpl.java
+END
+DynamicElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/DynamicElementImpl.java
+END
+FunctionElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/21000/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/FunctionElementImpl.java
+END
+ConstructorElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/19879/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/ConstructorElementImpl.java
+END
+TypeVariableElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/TypeVariableElementImpl.java
+END
+ConstFieldElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/19879/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/ConstFieldElementImpl.java
+END
+PrefixElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/PrefixElementImpl.java
+END
+MultiplyDefinedElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/21750/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/MultiplyDefinedElementImpl.java
+END
+LocalVariableElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/19879/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/LocalVariableElementImpl.java
+END
+TopLevelVariableElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/TopLevelVariableElementImpl.java
+END
+Modifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/Modifier.java
+END
+LibraryElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/21459/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/LibraryElementImpl.java
+END
+HtmlElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/20907/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/HtmlElementImpl.java
+END
+ConstTopLevelVariableElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/19879/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/ConstTopLevelVariableElementImpl.java
+END
+HideCombinatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/HideCombinatorImpl.java
+END
+ElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/21750/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/ElementImpl.java
+END
+ExecutableElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/20252/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/ExecutableElementImpl.java
+END
+FieldElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/FieldElementImpl.java
+END
+ShowCombinatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/ShowCombinatorImpl.java
+END
+VariableElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/19879/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/VariableElementImpl.java
+END
+FieldFormalParameterElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/21024/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/FieldFormalParameterElementImpl.java
+END
+ConstParameterElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/19879/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/ConstParameterElementImpl.java
+END
+HtmlScriptElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/HtmlScriptElementImpl.java
+END
+ExternalHtmlScriptElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/ExternalHtmlScriptElementImpl.java
+END
+AnnotationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/AnnotationImpl.java
+END
+FunctionTypeAliasElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/19906/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/element/FunctionTypeAliasElementImpl.java
+END

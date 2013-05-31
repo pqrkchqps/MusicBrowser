@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/21765/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/completion
+END
+CompletionEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/21765/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/completion/CompletionEngine.java
+END
+CompletionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/19400/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/completion/CompletionFactory.java
+END
+CompletionRequestor.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/18177/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/completion/CompletionRequestor.java
+END
+ProposalKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/18586/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/completion/ProposalKind.java
+END
+ProposalCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/21715/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/completion/ProposalCollector.java
+END
+CompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/18586/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/completion/CompletionProposal.java
+END
+CompletionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/21743/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/completion/CompletionState.java
+END
+ContextAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/20876/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/completion/ContextAnalyzer.java
+END

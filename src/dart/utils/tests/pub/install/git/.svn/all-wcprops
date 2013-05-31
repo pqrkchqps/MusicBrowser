@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/git
+END
+check_out_and_update_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/git/check_out_and_update_test.dart
+END
+different_repo_name_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/git/different_repo_name_test.dart
+END
+dependency_name_match_pubspec_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/git/dependency_name_match_pubspec_test.dart
+END
+check_out_transitive_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/git/check_out_transitive_test.dart
+END
+lock_version_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/git/lock_version_test.dart
+END
+require_pubspec_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/git/require_pubspec_test.dart
+END
+require_pubspec_name_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/git/require_pubspec_name_test.dart
+END
+stay_locked_if_compatible_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/git/stay_locked_if_compatible_test.dart
+END
+check_out_twice_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/git/check_out_twice_test.dart
+END
+unlock_if_incompatible_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/git/unlock_if_incompatible_test.dart
+END
+check_out_branch_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/git/check_out_branch_test.dart
+END
+check_out_revision_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/git/check_out_revision_test.dart
+END
+check_out_with_trailing_slash_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/git/check_out_with_trailing_slash_test.dart
+END
+check_out_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/install/git/check_out_test.dart
+END

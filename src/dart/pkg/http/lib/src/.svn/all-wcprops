@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/pkg/http/lib/src
+END
+mock_client.dart
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16834/branches/bleeding_edge/dart/pkg/http/lib/src/mock_client.dart
+END
+base_response.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/17412/branches/bleeding_edge/dart/pkg/http/lib/src/base_response.dart
+END
+base_client.dart
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/20642/branches/bleeding_edge/dart/pkg/http/lib/src/base_client.dart
+END
+request.dart
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/20642/branches/bleeding_edge/dart/pkg/http/lib/src/request.dart
+END
+multipart_request.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/21261/branches/bleeding_edge/dart/pkg/http/lib/src/multipart_request.dart
+END
+streamed_request.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/19683/branches/bleeding_edge/dart/pkg/http/lib/src/streamed_request.dart
+END
+byte_stream.dart
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/20978/branches/bleeding_edge/dart/pkg/http/lib/src/byte_stream.dart
+END
+client.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/20642/branches/bleeding_edge/dart/pkg/http/lib/src/client.dart
+END
+response.dart
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/20642/branches/bleeding_edge/dart/pkg/http/lib/src/response.dart
+END
+multipart_file.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/20640/branches/bleeding_edge/dart/pkg/http/lib/src/multipart_file.dart
+END
+utils.dart
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/pkg/http/lib/src/utils.dart
+END
+base_request.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/17819/branches/bleeding_edge/dart/pkg/http/lib/src/base_request.dart
+END
+streamed_response.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/17412/branches/bleeding_edge/dart/pkg/http/lib/src/streamed_response.dart
+END
+io_client.dart
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/21198/branches/bleeding_edge/dart/pkg/http/lib/src/io_client.dart
+END

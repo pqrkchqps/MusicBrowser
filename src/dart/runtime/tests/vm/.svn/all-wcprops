@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/21699/branches/bleeding_edge/dart/runtime/tests/vm
+END
+vm.status
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/21626/branches/bleeding_edge/dart/runtime/tests/vm/vm.status
+END
+test_config.dart
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14701/branches/bleeding_edge/dart/runtime/tests/vm/test_config.dart
+END

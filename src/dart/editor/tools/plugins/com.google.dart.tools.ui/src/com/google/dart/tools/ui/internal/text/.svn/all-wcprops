@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/21756/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text
+END
+Selection.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/7590/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/Selection.java
+END
+IProductConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/IProductConstants.java
+END
+DartHelpContextIds.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/20460/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/DartHelpContextIds.java
+END
+IJavaThemeConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/12444/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/IJavaThemeConstants.java
+END
+DartStatusConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/DartStatusConstants.java
+END
+DartUIPreferenceInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/DartUIPreferenceInitializer.java
+END
+SelectionAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/5208/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/SelectionAnalyzer.java
+END
+ProductProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/ProductProperties.java
+END
+ValidateEditException.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/ValidateEditException.java
+END

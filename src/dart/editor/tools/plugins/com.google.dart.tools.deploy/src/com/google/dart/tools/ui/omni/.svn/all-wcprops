@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/21230/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni
+END
+SearchBoxUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/8930/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/SearchBoxUtils.java
+END
+OmniBoxPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/20765/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/OmniBoxPopup.java
+END
+OmniBoxImages.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/19808/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/OmniBoxImages.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/7563/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/messages.properties
+END
+OmniBoxMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/7563/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/OmniBoxMessages.java
+END
+OmniEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/20765/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/OmniEntry.java
+END
+OmniBoxHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/8930/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/OmniBoxHandler.java
+END
+OmniElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/19330/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/OmniElement.java
+END
+OmniBoxControlContribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/21230/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/OmniBoxControlContribution.java
+END
+OmniBoxColors.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/7563/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/OmniBoxColors.java
+END
+OmniProposalProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/20765/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/OmniProposalProvider.java
+END
+BasePopupDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/8930/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/BasePopupDialog.java
+END

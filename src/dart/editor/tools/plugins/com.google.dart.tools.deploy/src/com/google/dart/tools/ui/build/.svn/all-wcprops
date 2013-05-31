@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/21309/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/build
+END
+BuildMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/12731/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/build/BuildMessages.properties
+END
+BuildMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/478/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/build/BuildMessages.java
+END
+CleanLibrariesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/21309/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/build/CleanLibrariesAction.java
+END

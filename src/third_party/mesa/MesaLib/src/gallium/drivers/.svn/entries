@@ -1,0 +1,113 @@
+10
+
+dir
+194114
+http://src.chromium.org/svn/trunk/src/third_party/mesa/MesaLib/src/gallium/drivers
+http://src.chromium.org/svn
+
+
+
+2010-10-25T22:47:51.426847Z
+63795
+kbr@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+cell
+dir
+
+galahad
+dir
+
+nvfx
+dir
+
+nouveau
+dir
+
+r300
+dir
+
+i915
+dir
+
+r600
+dir
+
+llvmpipe
+dir
+
+nv50
+dir
+
+softpipe
+dir
+
+sw
+dir
+
+identity
+dir
+
+i965
+dir
+
+trace
+dir
+
+rbug
+dir
+
+svga
+dir
+
+failover
+dir
+
+Makefile
+file
+
+
+
+
+2013-04-14T04:48:43.731280Z
+7ab47efd4e0af099cb6a674314910ead
+2010-04-20T22:05:31.183335Z
+45089
+apatrick@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+248
+

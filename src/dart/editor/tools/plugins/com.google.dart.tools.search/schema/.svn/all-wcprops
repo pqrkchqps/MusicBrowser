@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/560/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/schema
+END
+searchResultViewPages.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/560/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/schema/searchResultViewPages.exsd
+END
+textSearchEngine.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/560/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/schema/textSearchEngine.exsd
+END
+searchPages.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/560/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/schema/searchPages.exsd
+END
+searchResultSorters.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/560/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/schema/searchResultSorters.exsd
+END
+textSearchQueryProvider.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/560/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/schema/textSearchQueryProvider.exsd
+END

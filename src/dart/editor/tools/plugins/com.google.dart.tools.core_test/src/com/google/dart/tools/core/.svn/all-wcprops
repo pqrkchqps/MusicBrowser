@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/21750/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core
+END
+PluginXMLTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/19360/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/PluginXMLTest.java
+END
+DartCoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/19360/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/DartCoreTest.java
+END
+CallList.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/18909/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/CallList.java
+END
+AbstractDartCoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/16148/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/AbstractDartCoreTest.java
+END
+CmdLineOptionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/21653/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/CmdLineOptionsTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/21389/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/TestAll.java
+END
+DartCoreTest_New.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/21167/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/DartCoreTest_New.java
+END

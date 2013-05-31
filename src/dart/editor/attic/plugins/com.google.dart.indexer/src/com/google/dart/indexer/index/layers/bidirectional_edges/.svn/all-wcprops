@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/layers/bidirectional_edges
+END
+BidirectionalEdgesLayerForwardEdgesQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/layers/bidirectional_edges/BidirectionalEdgesLayerForwardEdgesQuery.java
+END
+BidirectionalEdgesLocationUpdaterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/layers/bidirectional_edges/BidirectionalEdgesLocationUpdaterImpl.java
+END
+BidirectionalEdgesLayerUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/layers/bidirectional_edges/BidirectionalEdgesLayerUpdater.java
+END
+BidirectionalEdgesLocationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/layers/bidirectional_edges/BidirectionalEdgesLocationInfo.java
+END
+BidirectionalEdgesLayerReverseEdgesQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/layers/bidirectional_edges/BidirectionalEdgesLayerReverseEdgesQuery.java
+END
+BidirectionalEdgesLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/layers/bidirectional_edges/BidirectionalEdgesLayer.java
+END
+BidirectionalEdgesLocationUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/layers/bidirectional_edges/BidirectionalEdgesLocationUpdater.java
+END

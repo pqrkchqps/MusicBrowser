@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/layers/reverse_edges
+END
+ReverseEdgesLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/layers/reverse_edges/ReverseEdgesLayer.java
+END
+ReverseEdgesLocationUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/layers/reverse_edges/ReverseEdgesLocationUpdater.java
+END
+ReverseEdgesLocationUpdaterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/layers/reverse_edges/ReverseEdgesLocationUpdaterImpl.java
+END
+ReverseEdgesLayerUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/layers/reverse_edges/ReverseEdgesLayerUpdater.java
+END
+ReverseEdgesLocationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/layers/reverse_edges/ReverseEdgesLocationInfo.java
+END
+ReverseEdgesQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/layers/reverse_edges/ReverseEdgesQuery.java
+END

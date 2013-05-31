@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/selectionactions
+END
+StructureSelectHistoryAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/selectionactions/StructureSelectHistoryAction.java
+END
+StructureSelectEnclosingAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/selectionactions/StructureSelectEnclosingAction.java
+END
+StructureSelectionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/selectionactions/StructureSelectionAction.java
+END
+SelectionActionMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/selectionactions/SelectionActionMessages.properties
+END
+SelectionHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/selectionactions/SelectionHistory.java
+END
+GoToNextPreviousMemberAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/selectionactions/GoToNextPreviousMemberAction.java
+END
+StructureSelectPreviousAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/selectionactions/StructureSelectPreviousAction.java
+END
+SelectionActionMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/selectionactions/SelectionActionMessages.java
+END
+StructureSelectNextAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/editor/selectionactions/StructureSelectNextAction.java
+END

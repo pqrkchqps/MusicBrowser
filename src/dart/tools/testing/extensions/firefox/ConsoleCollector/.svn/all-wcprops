@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/13326/branches/bleeding_edge/dart/tools/testing/extensions/firefox/ConsoleCollector
+END
+install.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/13326/branches/bleeding_edge/dart/tools/testing/extensions/firefox/ConsoleCollector/install.rdf
+END
+chrome.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/13318/branches/bleeding_edge/dart/tools/testing/extensions/firefox/ConsoleCollector/chrome.manifest
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/13318/branches/bleeding_edge/dart/tools/testing/extensions/firefox/ConsoleCollector/Makefile
+END

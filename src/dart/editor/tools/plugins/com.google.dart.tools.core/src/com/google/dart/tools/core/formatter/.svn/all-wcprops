@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/11269/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/formatter
+END
+DefaultCodeFormatterConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/formatter/DefaultCodeFormatterConstants.java
+END
+IndentManipulation.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/formatter/IndentManipulation.java
+END
+CodeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/11269/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/formatter/CodeFormatter.java
+END

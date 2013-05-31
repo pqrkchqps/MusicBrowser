@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12122/branches/bleeding_edge/dart/runtime/tests/vm/data
+END
+fixed_length_file
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15/branches/bleeding_edge/dart/runtime/tests/vm/data/fixed_length_file
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12122/branches/bleeding_edge/dart/runtime/tests/vm/data/.gitignore
+END
+empty_file
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11605/branches/bleeding_edge/dart/runtime/tests/vm/data/empty_file
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/21661/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/16998/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/17621/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/.project
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/16998/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/.gitignore
+END
+coverage-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/17287/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/coverage-config.xml
+END

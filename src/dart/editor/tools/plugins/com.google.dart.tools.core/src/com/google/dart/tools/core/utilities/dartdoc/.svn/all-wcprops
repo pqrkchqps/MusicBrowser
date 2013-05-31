@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/21775/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/dartdoc
+END
+ExternalDartDocFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/6427/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/dartdoc/ExternalDartDocFile.java
+END
+DartDocUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/21775/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/dartdoc/DartDocUtilities.java
+END
+ExternalDartDocManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/11189/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/dartdoc/ExternalDartDocManager.java
+END

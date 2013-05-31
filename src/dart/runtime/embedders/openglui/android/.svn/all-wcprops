@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20745/branches/bleeding_edge/dart/runtime/embedders/openglui/android
+END
+eventloop.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/20598/branches/bleeding_edge/dart/runtime/embedders/openglui/android/eventloop.cc
+END
+support_android.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/17161/branches/bleeding_edge/dart/runtime/embedders/openglui/android/support_android.cc
+END
+android_graphics_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/18934/branches/bleeding_edge/dart/runtime/embedders/openglui/android/android_graphics_handler.cc
+END
+eventloop.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/20598/branches/bleeding_edge/dart/runtime/embedders/openglui/android/eventloop.h
+END
+android_input_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/20745/branches/bleeding_edge/dart/runtime/embedders/openglui/android/android_input_handler.h
+END
+android_graphics_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/18934/branches/bleeding_edge/dart/runtime/embedders/openglui/android/android_graphics_handler.h
+END
+android_log.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/17161/branches/bleeding_edge/dart/runtime/embedders/openglui/android/android_log.h
+END
+main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/20745/branches/bleeding_edge/dart/runtime/embedders/openglui/android/main.cc
+END
+android_sound_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/20745/branches/bleeding_edge/dart/runtime/embedders/openglui/android/android_sound_handler.cc
+END
+android_sound_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/18934/branches/bleeding_edge/dart/runtime/embedders/openglui/android/android_sound_handler.h
+END
+android_resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/17161/branches/bleeding_edge/dart/runtime/embedders/openglui/android/android_resource.h
+END

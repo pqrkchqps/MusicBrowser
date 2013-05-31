@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/11396/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/common
+END
+HasSourceInfoSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5349/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/common/HasSourceInfoSetter.java
+END
+HasSourceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5349/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/common/HasSourceInfo.java
+END
+AbstractNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5349/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/common/AbstractNode.java
+END
+SourceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/11396/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/common/SourceInfo.java
+END

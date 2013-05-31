@@ -1,0 +1,91 @@
+10
+
+dir
+21780
+https://dart.googlecode.com/svn/branches/bleeding_edge/dart/sdk/lib
+https://dart.googlecode.com/svn
+
+
+
+2013-04-19T20:54:04.782644Z
+21771
+amouravski@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+260f80e4-7a28-3924-810f-c04153c831b5
+
+typeddata
+dir
+
+crypto
+dir
+
+indexed_db
+dir
+
+core
+dir
+
+_collection_dev
+dir
+
+math
+dir
+
+collection
+dir
+
+web_sql
+dir
+
+mirrors
+dir
+
+web_audio
+dir
+
+utf
+dir
+
+web_gl
+dir
+
+svg
+dir
+
+uri
+dir
+
+isolate
+dir
+
+html
+dir
+
+io
+dir
+
+json
+dir
+
+_internal
+dir
+
+async
+dir
+
+chrome
+dir
+

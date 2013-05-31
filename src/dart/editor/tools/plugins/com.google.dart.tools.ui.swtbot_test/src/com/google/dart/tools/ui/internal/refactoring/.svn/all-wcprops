@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/7345/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/internal/refactoring
+END
+EventSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/6806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/internal/refactoring/EventSender.java
+END
+RenameLinkedModeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/7345/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/internal/refactoring/RenameLinkedModeTest.java
+END
+AbstractDartEditorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/7345/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/internal/refactoring/AbstractDartEditorTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/6573/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/internal/refactoring/TestAll.java
+END

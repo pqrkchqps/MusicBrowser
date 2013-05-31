@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/21699/branches/bleeding_edge/dart/runtime/tests/vm/dart
+END
+optimized_stacktrace_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/21437/branches/bleeding_edge/dart/runtime/tests/vm/dart/optimized_stacktrace_test.dart
+END
+inline_stack_frame_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/runtime/tests/vm/dart/inline_stack_frame_test.dart
+END
+isolate_unhandled_exception_uri_helper.dart
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/16200/branches/bleeding_edge/dart/runtime/tests/vm/dart/isolate_unhandled_exception_uri_helper.dart
+END
+isolate_unhandled_exception_uri_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/runtime/tests/vm/dart/isolate_unhandled_exception_uri_test.dart
+END
+isolate_unhandled_exception_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/runtime/tests/vm/dart/isolate_unhandled_exception_test.dart
+END
+byte_array_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/21699/branches/bleeding_edge/dart/runtime/tests/vm/dart/byte_array_test.dart
+END
+isolate_unhandled_exception_test2.dart
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/16200/branches/bleeding_edge/dart/runtime/tests/vm/dart/isolate_unhandled_exception_test2.dart
+END
+isolate_mirror_local_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/runtime/tests/vm/dart/isolate_mirror_local_test.dart
+END
+isolate_mirror_remote_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/runtime/tests/vm/dart/isolate_mirror_remote_test.dart
+END
+byte_array_optimized_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/21699/branches/bleeding_edge/dart/runtime/tests/vm/dart/byte_array_optimized_test.dart
+END

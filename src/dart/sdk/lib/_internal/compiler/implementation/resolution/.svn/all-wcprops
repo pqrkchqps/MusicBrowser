@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/21697/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/resolution
+END
+scope.dart
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/16687/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/resolution/scope.dart
+END
+members.dart
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/21697/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/resolution/members.dart
+END
+secret_tree_element.dart
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/14473/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/resolution/secret_tree_element.dart
+END
+resolution.dart
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/19793/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/resolution/resolution.dart
+END

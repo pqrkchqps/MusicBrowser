@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/19000/branches/bleeding_edge/dart/editor/util/debuggertest
+END
+web_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/19000/branches/bleeding_edge/dart/editor/util/debuggertest/web_test.html
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/19000/branches/bleeding_edge/dart/editor/util/debuggertest/.project
+END
+pets.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/19000/branches/bleeding_edge/dart/editor/util/debuggertest/pets.dart
+END
+web_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/19000/branches/bleeding_edge/dart/editor/util/debuggertest/web_test.dart
+END
+cmd_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/19000/branches/bleeding_edge/dart/editor/util/debuggertest/cmd_test.dart
+END

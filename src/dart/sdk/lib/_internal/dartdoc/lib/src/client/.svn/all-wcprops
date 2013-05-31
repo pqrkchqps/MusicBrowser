@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/20064/branches/bleeding_edge/dart/sdk/lib/_internal/dartdoc/lib/src/client
+END
+dropdown.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/20064/branches/bleeding_edge/dart/sdk/lib/_internal/dartdoc/lib/src/client/dropdown.dart
+END
+client-live-nav.dart
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/19690/branches/bleeding_edge/dart/sdk/lib/_internal/dartdoc/lib/src/client/client-live-nav.dart
+END
+client-shared.dart
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/18761/branches/bleeding_edge/dart/sdk/lib/_internal/dartdoc/lib/src/client/client-shared.dart
+END
+client-static.dart
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/17895/branches/bleeding_edge/dart/sdk/lib/_internal/dartdoc/lib/src/client/client-static.dart
+END
+search.dart
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/19690/branches/bleeding_edge/dart/sdk/lib/_internal/dartdoc/lib/src/client/search.dart
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/9996/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/dom/rewrite
+END
+TargetSourceRangeComputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/dom/rewrite/TargetSourceRangeComputer.java
+END
+TrackedNodePosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/dom/rewrite/TrackedNodePosition.java
+END
+ASTRewrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/dom/rewrite/ASTRewrite.java
+END
+ListRewrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/9996/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/dom/rewrite/ListRewrite.java
+END

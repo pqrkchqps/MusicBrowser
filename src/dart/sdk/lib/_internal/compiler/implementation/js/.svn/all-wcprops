@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/21419/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/js
+END
+builder.dart
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/21419/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/js/builder.dart
+END
+nodes.dart
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/21419/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/js/nodes.dart
+END
+js.dart
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/20067/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/js/js.dart
+END
+precedence.dart
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/14566/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/js/precedence.dart
+END
+printer.dart
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/21419/branches/bleeding_edge/dart/sdk/lib/_internal/compiler/implementation/js/printer.dart
+END

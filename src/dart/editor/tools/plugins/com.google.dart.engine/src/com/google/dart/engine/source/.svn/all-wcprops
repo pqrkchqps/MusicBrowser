@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/21741/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/source
+END
+FileBasedSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/21516/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/source/FileBasedSource.java
+END
+Source.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/21179/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/source/Source.java
+END
+UriResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/21122/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/source/UriResolver.java
+END
+FileUriResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/21122/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/source/FileUriResolver.java
+END
+SourceContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/source/SourceContainer.java
+END
+SourceKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/source/SourceKind.java
+END
+DirectoryBasedSourceContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/21741/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/source/DirectoryBasedSourceContainer.java
+END
+SourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/21125/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/source/SourceFactory.java
+END
+DartUriResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/21125/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/source/DartUriResolver.java
+END
+PackageUriResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/21552/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/source/PackageUriResolver.java
+END
+ContentCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/source/ContentCache.java
+END

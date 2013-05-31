@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/12212/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/dom/visitor
+END
+WrappedDartVisitorAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/12212/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/dom/visitor/WrappedDartVisitorAdaptor.java
+END
+WrappedDartVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/4962/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/dom/visitor/WrappedDartVisitor.java
+END
+SafeDartNodeTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/dom/visitor/SafeDartNodeTraverser.java
+END

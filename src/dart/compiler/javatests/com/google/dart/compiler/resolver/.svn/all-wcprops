@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/19801/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver
+END
+Initializer1NegativeTest.dart
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/Initializer1NegativeTest.dart
+END
+ParameterInitializerNegativeTest2.dart
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/ParameterInitializerNegativeTest2.dart
+END
+Initializer3NegativeTest.dart
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/Initializer3NegativeTest.dart
+END
+StaticSuperMethodNegativeTest.dart
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/StaticSuperMethodNegativeTest.dart
+END
+StaticInstanceCallNegativeTest.dart
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/StaticInstanceCallNegativeTest.dart
+END
+Initializer5NegativeTest.dart
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/Initializer5NegativeTest.dart
+END
+UnresolvedSuperFieldNegativeTest.dart
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/UnresolvedSuperFieldNegativeTest.dart
+END
+StaticSuperGetterNegativeTest.dart
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/11316/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/StaticSuperGetterNegativeTest.dart
+END
+ConstSuperTest.dart
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/9136/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/ConstSuperTest.dart
+END
+MockLibraryUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2252/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/MockLibraryUnit.java
+END
+CompileTimeConstantTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/15989/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/CompileTimeConstantTest.java
+END
+ConstVariableInitializationNegativeTest1.dart
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/ConstVariableInitializationNegativeTest1.dart
+END
+ConstSuperNegativeTest2.dart
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/ConstSuperNegativeTest2.dart
+END
+NegativeResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/17479/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/NegativeResolverTest.java
+END
+ResolverTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/19801/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/ResolverTestCase.java
+END
+ClassImplementsUnknownInterfaceNegativeTest.dart
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/ClassImplementsUnknownInterfaceNegativeTest.dart
+END
+ResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/16135/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/ResolverTest.java
+END
+Initializer2NegativeTest.dart
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/Initializer2NegativeTest.dart
+END
+ParameterInitializerNegativeTest1.dart
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/ParameterInitializerNegativeTest1.dart
+END
+CyclicRedirectedConstructorNegativeTest.dart
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/CyclicRedirectedConstructorNegativeTest.dart
+END
+Initializer4NegativeTest.dart
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/Initializer4NegativeTest.dart
+END
+ParameterInitializerNegativeTest3.dart
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/ParameterInitializerNegativeTest3.dart
+END
+Initializer6NegativeTest.dart
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/Initializer6NegativeTest.dart
+END
+StaticSuperFieldNegativeTest.dart
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/StaticSuperFieldNegativeTest.dart
+END
+ResolverAuditVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/5208/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/ResolverAuditVisitor.java
+END
+ConstSuperNegativeTest1.dart
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/ConstSuperNegativeTest1.dart
+END
+ConstVariableInitializationNegativeTest2.dart
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/ConstVariableInitializationNegativeTest2.dart
+END
+ResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/4217/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/ResolverTests.java
+END
+ClassImplementsClassNegativeTest.dart
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/ClassImplementsClassNegativeTest.dart
+END
+StaticToInstanceInvocationNegativeTest1.dart
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/StaticToInstanceInvocationNegativeTest1.dart
+END
+ElementMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/10862/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/ElementMapTest.java
+END
+ResolverCompilerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/17473/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/compiler/resolver/ResolverCompilerTest.java
+END

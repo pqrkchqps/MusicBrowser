@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/21742/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core
+END
+IUserAgentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/7561/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/IUserAgentManager.java
+END
+DebugUIHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/18275/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/DebugUIHelper.java
+END
+ChromeBrowserConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/7426/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/ChromeBrowserConfig.java
+END
+DartLaunchConfigurationDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/21676/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/DartLaunchConfigurationDelegate.java
+END
+DartDebugCorePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/DartDebugCorePlugin.java
+END
+DartLaunchConfigWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/21284/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/DartLaunchConfigWrapper.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/21247/branches/bleeding_edge/dart/utils/compiler
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/15392/branches/bleeding_edge/dart/utils/compiler/.gitignore
+END
+compiler.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/21247/branches/bleeding_edge/dart/utils/compiler/compiler.gyp
+END
+create_snapshot.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/21247/branches/bleeding_edge/dart/utils/compiler/create_snapshot.dart
+END

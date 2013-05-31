@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/192403/trunk/src/chrome/browser/policy/cloud/proto
+END
+device_management_backend.proto
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/192403/trunk/src/chrome/browser/policy/cloud/proto/device_management_backend.proto
+END
+device_management_local.proto
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/188065/trunk/src/chrome/browser/policy/cloud/proto/device_management_local.proto
+END
+chrome_extension_policy.proto
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/188065/trunk/src/chrome/browser/policy/cloud/proto/chrome_extension_policy.proto
+END

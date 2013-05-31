@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/package
+END
+sibling_isolate.dart
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/13752/branches/bleeding_edge/dart/tests/standalone/package/sibling_isolate.dart
+END
+package_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/package/package_test.dart
+END
+package_isolate_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/16389/branches/bleeding_edge/dart/tests/standalone/package/package_isolate_test.dart
+END
+package1_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/16106/branches/bleeding_edge/dart/tests/standalone/package/package1_test.dart
+END
+invalid_uri_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/16106/branches/bleeding_edge/dart/tests/standalone/package/invalid_uri_test.dart
+END

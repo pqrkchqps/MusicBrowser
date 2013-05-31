@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/21567/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis
+END
+TaskProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/14592/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/TaskProcessorTest.java
+END
+CacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/8814/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/CacheTest.java
+END
+TaskQueueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/12087/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/TaskQueueTest.java
+END
+ScanTaskTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/14510/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/ScanTaskTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/12604/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/TestAll.java
+END
+WaitForIdle.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/14581/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/WaitForIdle.java
+END
+AnalysisServerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/19951/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/AnalysisServerTest.java
+END
+AnalyzeLibraryTaskTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/14510/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/AnalyzeLibraryTaskTest.java
+END
+BlockingTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/12087/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/BlockingTask.java
+END
+AnalysisServerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/19714/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/AnalysisServerAdapter.java
+END
+FileChangedTaskTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/14510/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/FileChangedTaskTest.java
+END
+AnalysisTestUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/19716/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/AnalysisTestUtilities.java
+END
+AbstractDartAnalysisTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/12604/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/AbstractDartAnalysisTest.java
+END
+ContextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/19714/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/ContextTest.java
+END
+Listener.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/14581/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/Listener.java
+END
+DiscardTaskTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/19714/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/DiscardTaskTest.java
+END
+NullTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/12087/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/NullTask.java
+END
+WaitForTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/9694/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/analysis/WaitForTask.java
+END

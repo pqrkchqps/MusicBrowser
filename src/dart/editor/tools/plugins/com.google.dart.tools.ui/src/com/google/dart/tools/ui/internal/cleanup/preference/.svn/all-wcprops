@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/18394/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference
+END
+ScrolledPageContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/ScrolledPageContent.java
+END
+SaveParticipantConfigurationBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/SaveParticipantConfigurationBlock.java
+END
+AlreadyExistsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/AlreadyExistsDialog.java
+END
+CleanUpProfileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/CleanUpProfileManager.java
+END
+PropertyAndPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/PropertyAndPreferencePage.java
+END
+IModifyDialogTabPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/IModifyDialogTabPage.java
+END
+CodeFormatingTabPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/CodeFormatingTabPage.java
+END
+AbstractConfigurationBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/AbstractConfigurationBlock.java
+END
+CleanUpTabPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/CleanUpTabPage.java
+END
+ProfileStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/ProfileStore.java
+END
+CleanUpModifyDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/CleanUpModifyDialog.java
+END
+PreferencesAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/9998/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/PreferencesAccess.java
+END
+CleanUpConfigurationBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/CleanUpConfigurationBlock.java
+END
+AbstractConfigurationBlockPreferenceAndPropertyPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/AbstractConfigurationBlockPreferenceAndPropertyPage.java
+END
+FormatterMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/FormatterMessages.java
+END
+ProfileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/ProfileManager.java
+END
+ProjectSelectionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/18394/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/ProjectSelectionDialog.java
+END
+DartPreview.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/11408/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/DartPreview.java
+END
+AbstractCleanUpTabPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/AbstractCleanUpTabPage.java
+END
+AbstractConfigurationBlockPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/AbstractConfigurationBlockPreferencePage.java
+END
+ProfileConfigurationBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/ProfileConfigurationBlock.java
+END
+CreateProfileDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/CreateProfileDialog.java
+END
+CleanUpProfileVersioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/CleanUpProfileVersioner.java
+END
+IProfileVersioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/IProfileVersioner.java
+END
+FormatterMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/FormatterMessages.properties
+END
+ModifyDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/ModifyDialog.java
+END
+ContributedCleanUpTabPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/ContributedCleanUpTabPage.java
+END
+CleanUpMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/CleanUpMessages.java
+END
+IPreferenceAndPropertyConfigurationBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/IPreferenceAndPropertyConfigurationBlock.java
+END
+CleanUpPreferenceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/CleanUpPreferenceUtil.java
+END
+DartEditorAppearanceConfigurationBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/DartEditorAppearanceConfigurationBlock.java
+END
+CleanUpPreview.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/CleanUpPreview.java
+END
+SaveParticipantPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/12444/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/SaveParticipantPreferencePage.java
+END
+IPreferenceConfigurationBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/IPreferenceConfigurationBlock.java
+END
+CleanUpMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/CleanUpMessages.properties
+END
+DartFormattingContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/DartFormattingContext.java
+END
+ModifyDialogTabPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/ModifyDialogTabPage.java
+END
+BulletListBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/preference/BulletListBlock.java
+END

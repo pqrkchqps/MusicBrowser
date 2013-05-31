@@ -1,0 +1,70 @@
+10
+
+dir
+21780
+https://dart.googlecode.com/svn/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal
+https://dart.googlecode.com/svn
+
+
+
+2013-04-19T21:04:19.774359Z
+21772
+brianwilkerson@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+260f80e4-7a28-3924-810f-c04153c831b5
+
+type
+dir
+
+resolver
+dir
+
+sdk
+dir
+
+formatter
+dir
+
+context
+dir
+
+search
+dir
+
+builder
+dir
+
+index
+dir
+
+constant
+dir
+
+element
+dir
+
+error
+dir
+
+scope
+dir
+
+verifier
+dir
+
+parser
+dir
+

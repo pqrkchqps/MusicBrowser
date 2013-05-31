@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/21408/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/html
+END
+HtmlParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/21408/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/html/HtmlParserTest.java
+END
+HtmlBuildParticipantTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/15619/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/html/HtmlBuildParticipantTest.java
+END
+DartHtmlScriptHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/15552/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/html/DartHtmlScriptHelperTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/19505/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/html/TestAll.java
+END
+TokenizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/15552/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/html/TokenizerTest.java
+END

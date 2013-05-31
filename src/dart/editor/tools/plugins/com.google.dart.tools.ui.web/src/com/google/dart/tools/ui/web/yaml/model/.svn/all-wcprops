@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/10984/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/yaml/model
+END
+YamlParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/10984/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/yaml/model/YamlParser.java
+END
+YamlBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/10984/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/yaml/model/YamlBody.java
+END
+YamlDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/10984/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/yaml/model/YamlDocument.java
+END
+YamlSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/10984/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/yaml/model/YamlSection.java
+END

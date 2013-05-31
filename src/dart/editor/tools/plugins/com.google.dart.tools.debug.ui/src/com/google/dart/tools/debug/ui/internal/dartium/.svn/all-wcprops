@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/21284/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/dartium
+END
+DartiumMainTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/21284/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/dartium/DartiumMainTab.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/21225/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/dartium/messages.properties
+END
+DartiumLaunchMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/21225/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/dartium/DartiumLaunchMessages.java
+END
+DartiumTabGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/3377/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/dartium/DartiumTabGroup.java
+END
+DartiumLaunchShortcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/20707/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/dartium/DartiumLaunchShortcut.java
+END

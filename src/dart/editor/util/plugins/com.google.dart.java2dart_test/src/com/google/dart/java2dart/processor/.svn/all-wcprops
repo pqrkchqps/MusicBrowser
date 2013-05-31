@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/21649/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/src/com/google/dart/java2dart/processor
+END
+CollectionSemanticProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/21633/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/src/com/google/dart/java2dart/processor/CollectionSemanticProcessorTest.java
+END
+DateSemanticProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/21639/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/src/com/google/dart/java2dart/processor/DateSemanticProcessorTest.java
+END
+SemanticProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/17287/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/src/com/google/dart/java2dart/processor/SemanticProcessorTest.java
+END
+LoggerSemanticProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/21639/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/src/com/google/dart/java2dart/processor/LoggerSemanticProcessorTest.java
+END
+GuavaSemanticProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/21633/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/src/com/google/dart/java2dart/processor/GuavaSemanticProcessorTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/21639/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/src/com/google/dart/java2dart/processor/TestAll.java
+END
+PropertySemanticProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/21633/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/src/com/google/dart/java2dart/processor/PropertySemanticProcessorTest.java
+END
+EngineSemanticProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/21633/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/src/com/google/dart/java2dart/processor/EngineSemanticProcessorTest.java
+END
+ObjectSemanticProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/21649/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/src/com/google/dart/java2dart/processor/ObjectSemanticProcessorTest.java
+END
+IOSemanticProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/21633/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/src/com/google/dart/java2dart/processor/IOSemanticProcessorTest.java
+END
+BeautifySemanticProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/21633/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/src/com/google/dart/java2dart/processor/BeautifySemanticProcessorTest.java
+END
+JUnitSemanticProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/21633/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/src/com/google/dart/java2dart/processor/JUnitSemanticProcessorTest.java
+END
+MathSemanticProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/21639/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart_test/src/com/google/dart/java2dart/processor/MathSemanticProcessorTest.java
+END

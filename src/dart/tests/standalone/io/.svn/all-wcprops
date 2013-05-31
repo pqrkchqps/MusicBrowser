@@ -1,0 +1,989 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/21739/branches/bleeding_edge/dart/tests/standalone/io
+END
+https_server_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/21514/branches/bleeding_edge/dart/tests/standalone/io/https_server_test.dart
+END
+process_exit_negative_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/16131/branches/bleeding_edge/dart/tests/standalone/io/process_exit_negative_test.dart
+END
+ln.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7228/branches/bleeding_edge/dart/tests/standalone/io/ln.sh
+END
+http_parser_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/http_parser_test.dart
+END
+regress_7191_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/tests/standalone/io/regress_7191_test.dart
+END
+http_body_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/21432/branches/bleeding_edge/dart/tests/standalone/io/http_body_test.dart
+END
+test_extension_fail_tester.dart
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/test_extension_fail_tester.dart
+END
+raw_secure_server_socket_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/21739/branches/bleeding_edge/dart/tests/standalone/io/raw_secure_server_socket_test.dart
+END
+skipping_dart2js_compilations_helper.dart
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/16158/branches/bleeding_edge/dart/tests/standalone/io/skipping_dart2js_compilations_helper.dart
+END
+directory_invalid_arguments_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/directory_invalid_arguments_test.dart
+END
+http_redirect_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/http_redirect_test.dart
+END
+regress_9194_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/standalone/io/regress_9194_test.dart
+END
+process_environment_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/process_environment_test.dart
+END
+raw_secure_server_closing_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/raw_secure_server_closing_test.dart
+END
+web_socket_protocol_processor_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/web_socket_protocol_processor_test.dart
+END
+many_file_operations_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/16106/branches/bleeding_edge/dart/tests/standalone/io/many_file_operations_test.dart
+END
+stream_pipe_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/21466/branches/bleeding_edge/dart/tests/standalone/io/stream_pipe_test.dart
+END
+process_pid_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/21611/branches/bleeding_edge/dart/tests/standalone/io/process_pid_test.dart
+END
+directory_error_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/directory_error_test.dart
+END
+process_run_output_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/process_run_output_test.dart
+END
+secure_client_raw_server_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/secure_client_raw_server_test.dart
+END
+file_system_links_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/tests/standalone/io/file_system_links_test.dart
+END
+http_server_response_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/http_server_response_test.dart
+END
+socket_invalid_arguments_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/tests/standalone/io/socket_invalid_arguments_test.dart
+END
+http_connection_close_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/http_connection_close_test.dart
+END
+http_client_exception_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/http_client_exception_test.dart
+END
+options_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/options_test.dart
+END
+process_broken_pipe_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/tests/standalone/io/process_broken_pipe_test.dart
+END
+http_auth_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/tests/standalone/io/http_auth_test.dart
+END
+http_compression_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/tests/standalone/io/http_compression_test.dart
+END
+raw_socket_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/raw_socket_test.dart
+END
+process_stderr_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/tests/standalone/io/process_stderr_test.dart
+END
+https_client_certificate_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/https_client_certificate_test.dart
+END
+socket_info_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/socket_info_test.dart
+END
+testing_server.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/testing_server.dart
+END
+http_server_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/21514/branches/bleeding_edge/dart/tests/standalone/io/http_server_test.dart
+END
+dart_std_io_pipe_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/dart_std_io_pipe_test.dart
+END
+process_segfault_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/process_segfault_test.dart
+END
+sleep_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/standalone/io/sleep_test.dart
+END
+process_invalid_arguments_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/process_invalid_arguments_test.dart
+END
+http_date_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/21189/branches/bleeding_edge/dart/tests/standalone/io/http_date_test.dart
+END
+process_stdin_transform_unsubscribe_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/process_stdin_transform_unsubscribe_test.dart
+END
+file_system_exists_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/standalone/io/file_system_exists_test.dart
+END
+http_server_early_client_close_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/http_server_early_client_close_test.dart
+END
+http_client_request_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/tests/standalone/io/http_client_request_test.dart
+END
+http_client_connect_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/tests/standalone/io/http_client_connect_test.dart
+END
+string_transformer_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/string_transformer_test.dart
+END
+dart_std_io_pipe_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/20960/branches/bleeding_edge/dart/tests/standalone/io/dart_std_io_pipe_test.sh
+END
+fuzz_support.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/fuzz_support.dart
+END
+skipping_dart2js_compilations_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/standalone/io/skipping_dart2js_compilations_test.dart
+END
+http_head_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/tests/standalone/io/http_head_test.dart
+END
+regress_8828_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/regress_8828_test.dart
+END
+windows_environment_script.dart
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/21116/branches/bleeding_edge/dart/tests/standalone/io/windows_environment_script.dart
+END
+mime_multipart_parser_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/mime_multipart_parser_test.dart
+END
+readuntil_test.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7165/branches/bleeding_edge/dart/tests/standalone/io/readuntil_test.dat
+END
+file_system_delete_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/tests/standalone/io/file_system_delete_test.dart
+END
+http_connection_header_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/http_connection_header_test.dart
+END
+http_proxy_configuration_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/standalone/io/http_proxy_configuration_test.dart
+END
+delete_symlink_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/delete_symlink_test.dart
+END
+secure_session_resume_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/secure_session_resume_test.dart
+END
+test_extension_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/test_extension_test.dart
+END
+http_server_early_server_close_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/http_server_early_server_close_test.dart
+END
+echo_server_stream_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/echo_server_stream_test.dart
+END
+read_as_text.dat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7165/branches/bleeding_edge/dart/tests/standalone/io/read_as_text.dat
+END
+raw_socket_write_destroy_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/raw_socket_write_destroy_test.dart
+END
+web_socket_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/21553/branches/bleeding_edge/dart/tests/standalone/io/web_socket_test.dart
+END
+file_error_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/file_error_test.dart
+END
+stdout_bad_argument_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/tests/standalone/io/stdout_bad_argument_test.dart
+END
+many_directory_operations_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/16106/branches/bleeding_edge/dart/tests/standalone/io/many_directory_operations_test.dart
+END
+string_decoder_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/string_decoder_test.dart
+END
+raw_server_socket_cancel_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/19546/branches/bleeding_edge/dart/tests/standalone/io/raw_server_socket_cancel_test.dart
+END
+dart_std_io_pipe_script.dart
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/tests/standalone/io/dart_std_io_pipe_script.dart
+END
+secure_no_builtin_roots_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/secure_no_builtin_roots_test.dart
+END
+secure_socket_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/secure_socket_test.dart
+END
+http_detach_socket_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/21134/branches/bleeding_edge/dart/tests/standalone/io/http_detach_socket_test.dart
+END
+process_check_arguments_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/process_check_arguments_test.dart
+END
+http_close_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/tests/standalone/io/http_close_test.dart
+END
+socket_exception_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/socket_exception_test.dart
+END
+secure_socket_bad_certificate_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/21260/branches/bleeding_edge/dart/tests/standalone/io/secure_socket_bad_certificate_test.dart
+END
+process_exit_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/process_exit_test.dart
+END
+test_runner_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/standalone/io/test_runner_test.dart
+END
+process_set_exit_code_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/process_set_exit_code_test.dart
+END
+compile_all_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/16106/branches/bleeding_edge/dart/tests/standalone/io/compile_all_test.dart
+END
+test_runner_exit_code_script.dart
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/19927/branches/bleeding_edge/dart/tests/standalone/io/test_runner_exit_code_script.dart
+END
+http_basic_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/http_basic_test.dart
+END
+secure_no_builtin_roots_database_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/secure_no_builtin_roots_database_test.dart
+END
+readline_test1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7165/branches/bleeding_edge/dart/tests/standalone/io/readline_test1.dat
+END
+platform_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/platform_test.dart
+END
+file_non_ascii_sync_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/file_non_ascii_sync_test.dart
+END
+file_fuzz_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/21466/branches/bleeding_edge/dart/tests/standalone/io/file_fuzz_test.dart
+END
+file_non_ascii_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/file_non_ascii_test.dart
+END
+http_keep_alive_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/tests/standalone/io/http_keep_alive_test.dart
+END
+directory_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/directory_test.dart
+END
+stdout_stderr_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/21416/branches/bleeding_edge/dart/tests/standalone/io/stdout_stderr_test.dart
+END
+http_read_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/tests/standalone/io/http_read_test.dart
+END
+secure_client_server_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/tests/standalone/io/secure_client_server_test.dart
+END
+file_write_as_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/file_write_as_test.dart
+END
+socket_close_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/socket_close_test.dart
+END
+windows_environment_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/21116/branches/bleeding_edge/dart/tests/standalone/io/windows_environment_test.dart
+END
+http_request_pipeling_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/http_request_pipeling_test.dart
+END
+http_stream_close_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/19676/branches/bleeding_edge/dart/tests/standalone/io/http_stream_close_test.dart
+END
+file_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/file_test.dart
+END
+directory_create_race_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/directory_create_race_test.dart
+END
+http_session_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/http_session_test.dart
+END
+directory_fuzz_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/tests/standalone/io/directory_fuzz_test.dart
+END
+pipe_server_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/pipe_server_test.dart
+END
+file_constructor_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/file_constructor_test.dart
+END
+process_check_arguments_script.dart
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/process_check_arguments_script.dart
+END
+socket_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/socket_test.dart
+END
+secure_server_closing_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/secure_server_closing_test.dart
+END
+io_sink_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/tests/standalone/io/io_sink_test.dart
+END
+path_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/21076/branches/bleeding_edge/dart/tests/standalone/io/path_test.dart
+END
+link_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/21277/branches/bleeding_edge/dart/tests/standalone/io/link_test.dart
+END
+windows_file_system_links_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/21116/branches/bleeding_edge/dart/tests/standalone/io/windows_file_system_links_test.dart
+END
+status_file_parser_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/status_file_parser_test.dart
+END
+secure_socket_argument_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/secure_socket_argument_test.dart
+END
+process_set_exit_code_script.dart
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/19676/branches/bleeding_edge/dart/tests/standalone/io/process_set_exit_code_script.dart
+END
+print_env.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/16106/branches/bleeding_edge/dart/tests/standalone/io/print_env.dart
+END
+test_extension_fail_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/test_extension_fail_test.dart
+END
+file_input_stream_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/file_input_stream_test.dart
+END
+process_start_exception_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/process_start_exception_test.dart
+END
+http_shutdown_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/tests/standalone/io/http_shutdown_test.dart
+END
+process_test_util.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/19676/branches/bleeding_edge/dart/tests/standalone/io/process_test_util.dart
+END
+test_extension.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16106/branches/bleeding_edge/dart/tests/standalone/io/test_extension.dart
+END
+process_path_environment_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/process_path_environment_test.dart
+END
+socket_many_connections_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/socket_many_connections_test.dart
+END
+https_client_exception_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/https_client_exception_test.dart
+END
+secure_server_socket_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/secure_server_socket_test.dart
+END
+secure_multiple_client_server_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/tests/standalone/io/secure_multiple_client_server_test.dart
+END
+directory_non_ascii_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/directory_non_ascii_test.dart
+END
+process_kill_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/process_kill_test.dart
+END
+directory_list_nonexistent_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/directory_list_nonexistent_test.dart
+END
+zlib_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/zlib_test.dart
+END
+process_working_directory_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/process_working_directory_test.dart
+END
+http_advanced_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/21189/branches/bleeding_edge/dart/tests/standalone/io/http_advanced_test.dart
+END
+regress_7679_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/regress_7679_test.dart
+END
+raw_secure_socket_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/raw_secure_socket_test.dart
+END
+url_encoding_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/url_encoding_test.dart
+END
+http_headers_state_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/21198/branches/bleeding_edge/dart/tests/standalone/io/http_headers_state_test.dart
+END
+file_output_stream_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/tests/standalone/io/file_output_stream_test.dart
+END
+file_invalid_arguments_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/file_invalid_arguments_test.dart
+END
+secure_server_client_certificate_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/secure_server_client_certificate_test.dart
+END
+file_typed_data_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/21466/branches/bleeding_edge/dart/tests/standalone/io/file_typed_data_test.dart
+END
+http_10_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/21514/branches/bleeding_edge/dart/tests/standalone/io/http_10_test.dart
+END
+process_stdout_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/tests/standalone/io/process_stdout_test.dart
+END
+directory_non_ascii_sync_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/directory_non_ascii_sync_test.dart
+END
+process_std_io_script2.dart
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/19676/branches/bleeding_edge/dart/tests/standalone/io/process_std_io_script2.dart
+END
+file_read_special_device_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/standalone/io/file_read_special_device_test.dart
+END
+process_path_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/process_path_test.dart
+END
+socket_port_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/socket_port_test.dart
+END
+process_non_ascii_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/process_non_ascii_test.dart
+END
+file_read_stdio_script.dart
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/standalone/io/file_read_stdio_script.dart
+END
+test_extension_tester.dart
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/test_extension_tester.dart
+END
+regress_10026_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/21735/branches/bleeding_edge/dart/tests/standalone/io/regress_10026_test.dart
+END
+process_stdin_transform_unsubscribe_script.dart
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/19046/branches/bleeding_edge/dart/tests/standalone/io/process_stdin_transform_unsubscribe_script.dart
+END
+raw_secure_socket_pause_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/21498/branches/bleeding_edge/dart/tests/standalone/io/raw_secure_socket_pause_test.dart
+END
+process_std_io_script.dart
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/21275/branches/bleeding_edge/dart/tests/standalone/io/process_std_io_script.dart
+END
+read_into_const_list_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/21466/branches/bleeding_edge/dart/tests/standalone/io/read_into_const_list_test.dart
+END
+http_connection_info_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/standalone/io/http_connection_info_test.dart
+END
+http_content_length_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/21514/branches/bleeding_edge/dart/tests/standalone/io/http_content_length_test.dart
+END
+http_headers_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/21189/branches/bleeding_edge/dart/tests/standalone/io/http_headers_test.dart
+END
+regress_7191_script.dart
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/21197/branches/bleeding_edge/dart/tests/standalone/io/regress_7191_script.dart
+END
+http_proxy_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/tests/standalone/io/http_proxy_test.dart
+END
+readline_test2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7165/branches/bleeding_edge/dart/tests/standalone/io/readline_test2.dat
+END

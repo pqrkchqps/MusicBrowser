@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/21757/branches/bleeding_edge/dart/runtime/third_party/jscre
+END
+pcre.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/15/branches/bleeding_edge/dart/runtime/third_party/jscre/pcre.h
+END
+ucptable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15/branches/bleeding_edge/dart/runtime/third_party/jscre/ucptable.cpp
+END
+pcre_compile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/321/branches/bleeding_edge/dart/runtime/third_party/jscre/pcre_compile.cpp
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/15/branches/bleeding_edge/dart/runtime/third_party/jscre/LICENSE
+END
+ASCIICType.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15/branches/bleeding_edge/dart/runtime/third_party/jscre/ASCIICType.h
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/15/branches/bleeding_edge/dart/runtime/third_party/jscre/AUTHORS
+END
+pcre_xclass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15/branches/bleeding_edge/dart/runtime/third_party/jscre/pcre_xclass.cpp
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/15/branches/bleeding_edge/dart/runtime/third_party/jscre/config.h
+END
+pcre_chartables.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/15/branches/bleeding_edge/dart/runtime/third_party/jscre/pcre_chartables.c
+END
+pcre_tables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15/branches/bleeding_edge/dart/runtime/third_party/jscre/pcre_tables.cpp
+END
+pcre_ucp_searchfuncs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/15/branches/bleeding_edge/dart/runtime/third_party/jscre/pcre_ucp_searchfuncs.cpp
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/15/branches/bleeding_edge/dart/runtime/third_party/jscre/COPYING
+END
+ucpinternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15/branches/bleeding_edge/dart/runtime/third_party/jscre/ucpinternal.h
+END
+pcre_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/16982/branches/bleeding_edge/dart/runtime/third_party/jscre/pcre_internal.h
+END
+jscre.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/21757/branches/bleeding_edge/dart/runtime/third_party/jscre/jscre.gypi
+END
+pcre_exec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/966/branches/bleeding_edge/dart/runtime/third_party/jscre/pcre_exec.cpp
+END

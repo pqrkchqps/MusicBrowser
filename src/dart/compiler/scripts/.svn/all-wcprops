@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/21362/branches/bleeding_edge/dart/compiler/scripts
+END
+generate_my_projects.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/21362/branches/bleeding_edge/dart/compiler/scripts/generate_my_projects.py
+END
+sample_metrics.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/scripts/sample_metrics.sh
+END
+dart_analyzer.bat
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/16216/branches/bleeding_edge/dart/compiler/scripts/dart_analyzer.bat
+END
+analyzer_metrics.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8392/branches/bleeding_edge/dart/compiler/scripts/analyzer_metrics.sh
+END
+analyzer_series_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8392/branches/bleeding_edge/dart/compiler/scripts/analyzer_series_test.sh
+END
+dart_analyzer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/15563/branches/bleeding_edge/dart/compiler/scripts/dart_analyzer.sh
+END
+metrics_math.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/scripts/metrics_math.sh
+END

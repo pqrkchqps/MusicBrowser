@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21684/branches/bleeding_edge/dart/compiler
+END
+dart-compiler.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/18989/branches/bleeding_edge/dart/compiler/dart-compiler.gyp
+END
+dart_analyzer.mf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8392/branches/bleeding_edge/dart/compiler/dart_analyzer.mf
+END
+api.dart
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/20466/branches/bleeding_edge/dart/compiler/api.dart
+END
+dartium.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/20062/branches/bleeding_edge/dart/compiler/dartium.gyp
+END
+generate_systemlibrary_list.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/708/branches/bleeding_edge/dart/compiler/generate_systemlibrary_list.py
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/21362/branches/bleeding_edge/dart/compiler/.gitignore
+END
+generate_source_list.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/21362/branches/bleeding_edge/dart/compiler/generate_source_list.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/README
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/21684/branches/bleeding_edge/dart/compiler/build.xml
+END
+dart_analyzer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/18989/branches/bleeding_edge/dart/compiler/dart_analyzer.xml
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/20448/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/icons
+END
+chrome_app.png
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/17483/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/icons/chrome_app.png
+END
+dart_server.png
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/icons/dart_server.png
+END
+dart_cu.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/icons/dart_cu.png
+END
+run_client.png
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1753/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/icons/run_client.png
+END
+chromium_16_remote.png
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/icons/chromium_16_remote.png
+END
+chromium_16.png
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/3570/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/icons/chromium_16.png
+END
+run_server.png
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1753/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/icons/run_server.png
+END

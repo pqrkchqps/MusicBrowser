@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/21751/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/utilities/source
+END
+LineInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/utilities/source/LineInfo.java
+END
+SourceRangeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/21751/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/utilities/source/SourceRangeFactory.java
+END
+SourceRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/20666/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/utilities/source/SourceRange.java
+END

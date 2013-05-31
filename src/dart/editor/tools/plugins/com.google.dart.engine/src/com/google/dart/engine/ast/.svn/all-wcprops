@@ -1,0 +1,761 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/21762/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast
+END
+RedirectingConstructorInvocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/RedirectingConstructorInvocation.java
+END
+LibraryDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/LibraryDirective.java
+END
+Statement.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/Statement.java
+END
+BinaryExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/BinaryExpression.java
+END
+PropertyAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/PropertyAccess.java
+END
+ExtendsClause.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ExtendsClause.java
+END
+PrefixedIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/PrefixedIdentifier.java
+END
+ClassDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/21762/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ClassDeclaration.java
+END
+PostfixExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/PostfixExpression.java
+END
+LabeledStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/LabeledStatement.java
+END
+FormalParameterList.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/FormalParameterList.java
+END
+ArgumentList.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ArgumentList.java
+END
+CompilationUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/20666/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/CompilationUnit.java
+END
+StringInterpolation.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/StringInterpolation.java
+END
+Directive.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/Directive.java
+END
+FunctionDeclarationStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/FunctionDeclarationStatement.java
+END
+ClassTypeAlias.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ClassTypeAlias.java
+END
+NodeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/20739/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/NodeList.java
+END
+Identifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/Identifier.java
+END
+EmptyFunctionBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/EmptyFunctionBody.java
+END
+AdjacentStrings.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/AdjacentStrings.java
+END
+IfStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/IfStatement.java
+END
+AsExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/AsExpression.java
+END
+SwitchStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/SwitchStatement.java
+END
+IndexExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/IndexExpression.java
+END
+ConstructorInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ConstructorInitializer.java
+END
+MapLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/21650/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/MapLiteral.java
+END
+NormalFormalParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/19757/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/NormalFormalParameter.java
+END
+FunctionDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/FunctionDeclaration.java
+END
+IsExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/IsExpression.java
+END
+ConstructorDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ConstructorDeclaration.java
+END
+Literal.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/Literal.java
+END
+BooleanLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/BooleanLiteral.java
+END
+SwitchCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/SwitchCase.java
+END
+UriBasedDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/UriBasedDirective.java
+END
+FunctionExpressionInvocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/FunctionExpressionInvocation.java
+END
+ScriptTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ScriptTag.java
+END
+FunctionTypeAlias.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/19906/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/FunctionTypeAlias.java
+END
+TypedLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/TypedLiteral.java
+END
+CascadeExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/CascadeExpression.java
+END
+FunctionExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/FunctionExpression.java
+END
+TopLevelVariableDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/TopLevelVariableDeclaration.java
+END
+LibraryIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/LibraryIdentifier.java
+END
+ContinueStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ContinueStatement.java
+END
+IntegerLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/IntegerLiteral.java
+END
+InterpolationString.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/InterpolationString.java
+END
+BlockFunctionBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/BlockFunctionBody.java
+END
+CatchClause.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/CatchClause.java
+END
+TypeArgumentList.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/TypeArgumentList.java
+END
+VariableDeclarationStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/VariableDeclarationStatement.java
+END
+ExportDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ExportDirective.java
+END
+TypeParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/TypeParameter.java
+END
+StringLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/StringLiteral.java
+END
+EmptyStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/EmptyStatement.java
+END
+ThrowExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/20301/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ThrowExpression.java
+END
+ExpressionStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ExpressionStatement.java
+END
+AssertStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/AssertStatement.java
+END
+ConstructorName.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ConstructorName.java
+END
+NullLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/NullLiteral.java
+END
+NamespaceDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/NamespaceDirective.java
+END
+VariableDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/19757/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/VariableDeclaration.java
+END
+FunctionTypedFormalParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/FunctionTypedFormalParameter.java
+END
+SuperConstructorInvocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/SuperConstructorInvocation.java
+END
+Expression.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/Expression.java
+END
+Comment.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/20629/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/Comment.java
+END
+FunctionBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/FunctionBody.java
+END
+TryStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/TryStatement.java
+END
+ReturnStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ReturnStatement.java
+END
+NamedExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/NamedExpression.java
+END
+DeclaredIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/19757/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/DeclaredIdentifier.java
+END
+CompilationUnitMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/CompilationUnitMember.java
+END
+SwitchDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/SwitchDefault.java
+END
+BreakStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/BreakStatement.java
+END
+InstanceCreationExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/InstanceCreationExpression.java
+END
+Annotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/21481/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/Annotation.java
+END
+NativeFunctionBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/20425/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/NativeFunctionBody.java
+END
+RethrowExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/20301/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/RethrowExpression.java
+END
+MethodInvocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/19818/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/MethodInvocation.java
+END
+ForStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ForStatement.java
+END
+MapLiteralEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/MapLiteralEntry.java
+END
+FormalParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/FormalParameter.java
+END
+CommentReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/CommentReference.java
+END
+ConditionalExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ConditionalExpression.java
+END
+AnnotatedNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/20233/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/AnnotatedNode.java
+END
+FieldFormalParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/FieldFormalParameter.java
+END
+MethodDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/20114/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/MethodDeclaration.java
+END
+DefaultFormalParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/19757/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/DefaultFormalParameter.java
+END
+DoubleLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/DoubleLiteral.java
+END
+ListLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ListLiteral.java
+END
+SwitchMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/SwitchMember.java
+END
+ArgumentDefinitionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ArgumentDefinitionTest.java
+END
+ASTNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ASTNode.java
+END
+SimpleStringLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/20722/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/SimpleStringLiteral.java
+END
+ConstructorFieldInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ConstructorFieldInitializer.java
+END
+ClassMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ClassMember.java
+END
+InterpolationElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/InterpolationElement.java
+END
+PartDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/PartDirective.java
+END
+EphemeralIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/EphemeralIdentifier.java
+END
+ASTVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/20425/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ASTVisitor.java
+END
+InterpolationExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/InterpolationExpression.java
+END
+WithClause.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/WithClause.java
+END
+ImportDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ImportDirective.java
+END
+ImplementsClause.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ImplementsClause.java
+END
+PrefixExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/PrefixExpression.java
+END
+SuperExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/SuperExpression.java
+END
+TypeParameterList.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/TypeParameterList.java
+END
+Label.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/Label.java
+END
+TypeName.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/TypeName.java
+END
+ExpressionFunctionBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ExpressionFunctionBody.java
+END
+Declaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/Declaration.java
+END
+ParenthesizedExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ParenthesizedExpression.java
+END
+DoStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/DoStatement.java
+END
+ThisExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ThisExpression.java
+END
+HideCombinator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/HideCombinator.java
+END
+VariableDeclarationList.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/20233/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/VariableDeclarationList.java
+END
+AssignmentExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/AssignmentExpression.java
+END
+FieldDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/FieldDeclaration.java
+END
+Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/Block.java
+END
+PartOfDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/PartOfDirective.java
+END
+TypeAlias.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/TypeAlias.java
+END
+SimpleFormalParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/SimpleFormalParameter.java
+END
+ForEachStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ForEachStatement.java
+END
+SimpleIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/21038/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/SimpleIdentifier.java
+END
+Combinator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/Combinator.java
+END
+WhileStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/WhileStatement.java
+END
+ShowCombinator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/ast/ShowCombinator.java
+END

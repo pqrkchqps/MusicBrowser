@@ -1,0 +1,19 @@
+K 10
+svn:ignore
+V 128
+xcodebuild
+out
+Debug
+DebugARM
+DebugIA32
+DebugSIMARM
+DebugX64
+Release
+ReleaseARM
+ReleaseIA32
+ReleaseSIMARM
+ReleaseX64
+build
+dart
+
+END

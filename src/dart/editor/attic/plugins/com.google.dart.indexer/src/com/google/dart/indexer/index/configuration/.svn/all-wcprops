@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/configuration
+END
+IndexConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/configuration/IndexConfiguration.java
+END
+Processor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/configuration/Processor.java
+END
+IdentifierStableMappingBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/configuration/IdentifierStableMappingBuilder.java
+END
+IndexConfigurationInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/configuration/IndexConfigurationInstance.java
+END
+IndexConfigurationBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/configuration/IndexConfigurationBuilder.java
+END
+Contributor.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/configuration/Contributor.java
+END
+ContributorWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/configuration/ContributorWrapper.java
+END

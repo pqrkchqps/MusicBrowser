@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/20578/branches/bleeding_edge/dart/runtime/tools/gyp
+END
+runtime-configurations.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/17505/branches/bleeding_edge/dart/runtime/tools/gyp/runtime-configurations.gypi
+END
+nss_configurations.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/15634/branches/bleeding_edge/dart/runtime/tools/gyp/nss_configurations.gypi
+END
+find_mac_sdk.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/20124/branches/bleeding_edge/dart/runtime/tools/gyp/find_mac_sdk.py
+END
+find_mac_gcc_version.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/20578/branches/bleeding_edge/dart/runtime/tools/gyp/find_mac_gcc_version.py
+END

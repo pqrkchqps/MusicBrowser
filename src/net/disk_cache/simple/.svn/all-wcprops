@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/193944/trunk/src/net/disk_cache/simple
+END
+simple_disk_format.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/193944/trunk/src/net/disk_cache/simple/simple_disk_format.cc
+END
+simple_entry_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/193419/trunk/src/net/disk_cache/simple/simple_entry_impl.cc
+END
+simple_disk_format.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/193944/trunk/src/net/disk_cache/simple/simple_disk_format.h
+END
+simple_entry_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/193419/trunk/src/net/disk_cache/simple/simple_entry_impl.h
+END
+simple_index.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/193944/trunk/src/net/disk_cache/simple/simple_index.cc
+END
+simple_backend_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/193944/trunk/src/net/disk_cache/simple/simple_backend_impl.cc
+END
+simple_index.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/193944/trunk/src/net/disk_cache/simple/simple_index.h
+END
+simple_backend_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/193944/trunk/src/net/disk_cache/simple/simple_backend_impl.h
+END
+simple_synchronous_entry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/193419/trunk/src/net/disk_cache/simple/simple_synchronous_entry.cc
+END
+simple_synchronous_entry.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/193419/trunk/src/net/disk_cache/simple/simple_synchronous_entry.h
+END

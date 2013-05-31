@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/pkg/oauth2/lib/src
+END
+handle_access_token_response.dart
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/20640/branches/bleeding_edge/dart/pkg/oauth2/lib/src/handle_access_token_response.dart
+END
+credentials.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/20640/branches/bleeding_edge/dart/pkg/oauth2/lib/src/credentials.dart
+END
+client.dart
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/pkg/oauth2/lib/src/client.dart
+END
+authorization_exception.dart
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/15116/branches/bleeding_edge/dart/pkg/oauth2/lib/src/authorization_exception.dart
+END
+expiration_exception.dart
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/15116/branches/bleeding_edge/dart/pkg/oauth2/lib/src/expiration_exception.dart
+END
+utils.dart
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/18686/branches/bleeding_edge/dart/pkg/oauth2/lib/src/utils.dart
+END
+authorization_code_grant.dart
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/20640/branches/bleeding_edge/dart/pkg/oauth2/lib/src/authorization_code_grant.dart
+END

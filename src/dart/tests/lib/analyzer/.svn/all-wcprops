@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/21473/branches/bleeding_edge/dart/tests/lib/analyzer
+END
+analyze_library.status
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/21473/branches/bleeding_edge/dart/tests/lib/analyzer/analyze_library.status
+END
+test_config.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/20685/branches/bleeding_edge/dart/tests/lib/analyzer/test_config.dart
+END

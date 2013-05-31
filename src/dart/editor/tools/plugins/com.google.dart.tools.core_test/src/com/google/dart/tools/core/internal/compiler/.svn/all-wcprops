@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/compiler
+END
+TestCompilerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/compiler/TestCompilerListener.java
+END
+TestCompilerConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/compiler/TestCompilerConfiguration.java
+END
+TestLibrarySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/compiler/TestLibrarySource.java
+END
+TestArtifactProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/compiler/TestArtifactProvider.java
+END
+TestDartSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/5440/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/compiler/TestDartSource.java
+END

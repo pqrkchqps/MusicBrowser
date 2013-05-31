@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/21649/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/src/com/google/dart/java2dart/processor
+END
+CollectionSemanticProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/21633/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/src/com/google/dart/java2dart/processor/CollectionSemanticProcessor.java
+END
+DateSemanticProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/21639/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/src/com/google/dart/java2dart/processor/DateSemanticProcessor.java
+END
+SemanticProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/21639/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/src/com/google/dart/java2dart/processor/SemanticProcessor.java
+END
+LoggerSemanticProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/21639/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/src/com/google/dart/java2dart/processor/LoggerSemanticProcessor.java
+END
+GuavaSemanticProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/21633/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/src/com/google/dart/java2dart/processor/GuavaSemanticProcessor.java
+END
+PropertySemanticProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/21633/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/src/com/google/dart/java2dart/processor/PropertySemanticProcessor.java
+END
+ObjectSemanticProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/21649/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/src/com/google/dart/java2dart/processor/ObjectSemanticProcessor.java
+END
+IOSemanticProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/21633/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/src/com/google/dart/java2dart/processor/IOSemanticProcessor.java
+END
+BeautifySemanticProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/21633/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/src/com/google/dart/java2dart/processor/BeautifySemanticProcessor.java
+END
+JUnitSemanticProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/21633/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/src/com/google/dart/java2dart/processor/JUnitSemanticProcessor.java
+END
+MathSemanticProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/21639/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/src/com/google/dart/java2dart/processor/MathSemanticProcessor.java
+END

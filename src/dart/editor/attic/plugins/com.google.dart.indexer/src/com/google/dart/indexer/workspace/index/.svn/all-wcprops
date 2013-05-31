@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/workspace/index
+END
+TargetIndexingFailed.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/workspace/index/TargetIndexingFailed.java
+END
+ResourceIndexingTargetGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/workspace/index/ResourceIndexingTargetGroup.java
+END
+ResourceIndexingTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/workspace/index/ResourceIndexingTarget.java
+END
+QueueState.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/workspace/index/QueueState.java
+END
+WorkspaceFilesCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/workspace/index/WorkspaceFilesCollector.java
+END
+IndexingTargetGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/workspace/index/IndexingTargetGroup.java
+END
+IndexingQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/workspace/index/IndexingQueue.java
+END
+IndexingTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/workspace/index/IndexingTarget.java
+END
+WorkspaceIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/workspace/index/WorkspaceIndexer.java
+END

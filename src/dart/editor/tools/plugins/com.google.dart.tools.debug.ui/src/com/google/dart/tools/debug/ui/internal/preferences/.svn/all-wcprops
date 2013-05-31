@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/17511/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/preferences
+END
+BrowsersLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/7426/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/preferences/BrowsersLabelProvider.java
+END
+DebugPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/17511/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/preferences/DebugPreferencePage.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/3371/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/preferences/messages.properties
+END
+DebugPreferenceMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/2138/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/preferences/DebugPreferenceMessages.java
+END

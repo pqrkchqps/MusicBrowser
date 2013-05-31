@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/11408/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/compare
+END
+DartNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/11408/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/compare/DartNode.java
+END
+DartContentViewerCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/11408/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/compare/DartContentViewerCreator.java
+END
+CompareMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/11408/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/compare/CompareMessages.properties
+END
+DartMergeViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/11408/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/compare/DartMergeViewer.java
+END
+DartCompareUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/11408/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/compare/DartCompareUtilities.java
+END
+CompareMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/11408/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/compare/CompareMessages.java
+END

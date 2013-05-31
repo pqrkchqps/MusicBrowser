@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/14359/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/schema
+END
+com.google.dart.tools.ui.theme.theme.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/14359/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/schema/com.google.dart.tools.ui.theme.theme.exsd
+END
+com.google.dart.tools.ui.theme.mapper.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/14359/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/schema/com.google.dart.tools.ui.theme.mapper.exsd
+END

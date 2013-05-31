@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/entries
+END
+DependentLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/entries/DependentLocation.java
+END
+DependencyPersistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/entries/DependencyPersistance.java
+END
+LocationInfoHeaders.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/entries/LocationInfoHeaders.java
+END
+DependentFileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/entries/DependentFileInfo.java
+END
+DependentEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/entries/DependentEntity.java
+END
+PathAndModStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/entries/PathAndModStamp.java
+END
+LocationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/entries/LocationInfo.java
+END
+FileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/entries/FileInfo.java
+END

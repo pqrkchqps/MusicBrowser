@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/14581/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/swtbot/conditions
+END
+FileExists.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/3415/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/swtbot/conditions/FileExists.java
+END
+CompilerWarmedUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/7493/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/swtbot/conditions/CompilerWarmedUp.java
+END
+AnalysisCompleteCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/14581/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/swtbot/conditions/AnalysisCompleteCondition.java
+END
+ProblemsViewCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/3415/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/swtbot/conditions/ProblemsViewCount.java
+END
+NativeShellClosed.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/6662/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/swtbot/conditions/NativeShellClosed.java
+END
+NativeShellShowing.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/6662/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/swtbot/conditions/NativeShellShowing.java
+END
+ConsoleViewOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/6708/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/swtbot/conditions/ConsoleViewOutput.java
+END

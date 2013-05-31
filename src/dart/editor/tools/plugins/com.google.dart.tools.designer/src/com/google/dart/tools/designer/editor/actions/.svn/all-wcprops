@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/actions
+END
+SwitchAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/actions/SwitchAction.java
+END
+EditorRelatedAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/actions/EditorRelatedAction.java
+END
+DesignPageActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/15872/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.designer/src/com/google/dart/tools/designer/editor/actions/DesignPageActions.java
+END

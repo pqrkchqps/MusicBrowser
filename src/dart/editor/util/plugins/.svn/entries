@@ -1,0 +1,37 @@
+10
+
+dir
+21780
+https://dart.googlecode.com/svn/branches/bleeding_edge/dart/editor/util/plugins
+https://dart.googlecode.com/svn
+
+
+
+2013-04-18T00:08:02.052983Z
+21661
+scheglov@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+260f80e4-7a28-3924-810f-c04153c831b5
+
+com.google.dart.java2dart
+dir
+
+com.google.dart.dev_util
+dir
+
+com.google.dart.java2dart_test
+dir
+

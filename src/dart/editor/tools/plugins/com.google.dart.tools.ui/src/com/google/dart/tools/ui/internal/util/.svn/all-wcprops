@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/21704/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util
+END
+OpenTypeHierarchyUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/20626/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/OpenTypeHierarchyUtil.java
+END
+ControlContentAssistHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/ControlContentAssistHelper.java
+END
+ViewerPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/ViewerPane.java
+END
+CorextMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/6887/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/CorextMessages.properties
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/7746/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/Messages.java
+END
+GridDataFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/11087/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/GridDataFactory.java
+END
+DartModelUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/13852/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/DartModelUtil.java
+END
+PixelConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/PixelConverter.java
+END
+TypeNameMatchLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/16142/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/TypeNameMatchLabelProvider.java
+END
+Resources.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/Resources.java
+END
+StringMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/StringMatcher.java
+END
+GridLayoutFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/11087/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/GridLayoutFactory.java
+END
+SWTUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/21704/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/SWTUtil.java
+END
+PartListenerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/14552/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/PartListenerAdapter.java
+END
+ExternalBrowserUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/14245/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/ExternalBrowserUtil.java
+END
+NotYetImplementedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/NotYetImplementedException.java
+END
+CodeFormatterUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/11239/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/CodeFormatterUtil.java
+END
+DartDocHelpContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/DartDocHelpContext.java
+END
+ElementValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/ElementValidator.java
+END
+DartUIHelp.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/DartUIHelp.java
+END
+DirectoryVerification.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/10767/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/DirectoryVerification.java
+END
+TableLayoutComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/9679/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/TableLayoutComposite.java
+END
+BusyIndicatorRunnableContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/BusyIndicatorRunnableContext.java
+END
+CoreUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/CoreUtility.java
+END
+TypeLabelUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/11707/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/TypeLabelUtil.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/7746/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/messages.properties
+END
+SelectionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/SelectionUtil.java
+END
+PatternConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/PatternConstructor.java
+END
+TypeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/TypeFilter.java
+END
+Strings.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/Strings.java
+END
+RowLayouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/RowLayouter.java
+END
+ExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/19259/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/ExceptionHandler.java
+END
+CorextMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/9001/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/util/CorextMessages.java
+END

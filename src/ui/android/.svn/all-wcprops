@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/193503/trunk/src/ui/android
+END
+ui_jni_registrar.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/193503/trunk/src/ui/android/ui_jni_registrar.cc
+END
+ui_jni_registrar.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/178472/trunk/src/ui/android/ui_jni_registrar.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/158159/trunk/src/ui/android/OWNERS
+END

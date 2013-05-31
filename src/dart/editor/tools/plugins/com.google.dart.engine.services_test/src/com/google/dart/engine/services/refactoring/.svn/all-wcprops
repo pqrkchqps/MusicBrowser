@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/21556/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/refactoring
+END
+RefactoringImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/19326/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/refactoring/RefactoringImplTest.java
+END
+SubProgressMonitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/18463/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/refactoring/SubProgressMonitorTest.java
+END
+NullProgressMonitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/18463/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/refactoring/NullProgressMonitorTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/19438/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/refactoring/TestAll.java
+END
+OperationCancelledExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/18463/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/refactoring/OperationCancelledExceptionTest.java
+END
+RefactoringFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/21556/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/refactoring/RefactoringFactoryTest.java
+END
+ParameterInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/21294/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services_test/src/com/google/dart/engine/services/refactoring/ParameterInfoTest.java
+END

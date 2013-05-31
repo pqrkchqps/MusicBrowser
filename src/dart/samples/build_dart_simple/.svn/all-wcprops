@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/21420/branches/bleeding_edge/dart/samples/build_dart_simple
+END
+test.foo
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/19058/branches/bleeding_edge/dart/samples/build_dart_simple/test.foo
+END
+test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/19058/branches/bleeding_edge/dart/samples/build_dart_simple/test.dart
+END
+build.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/21420/branches/bleeding_edge/dart/samples/build_dart_simple/build.dart
+END

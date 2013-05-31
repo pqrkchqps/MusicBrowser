@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3857/branches/bleeding_edge/dart/samples/third_party/oauth2client/1.0beta4
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3857/branches/bleeding_edge/dart/samples/third_party/oauth2client/1.0beta4/setup.py
+END
+setup_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3857/branches/bleeding_edge/dart/samples/third_party/oauth2client/1.0beta4/setup_utils.py
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3857/branches/bleeding_edge/dart/samples/third_party/oauth2client/1.0beta4/PKG-INFO
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3857/branches/bleeding_edge/dart/samples/third_party/oauth2client/1.0beta4/MANIFEST.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3857/branches/bleeding_edge/dart/samples/third_party/oauth2client/1.0beta4/README
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3857/branches/bleeding_edge/dart/samples/third_party/oauth2client/1.0beta4/setup.cfg
+END

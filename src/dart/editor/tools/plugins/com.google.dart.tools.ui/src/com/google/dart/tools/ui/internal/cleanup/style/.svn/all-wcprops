@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/15983/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/style
+END
+Style_useBlocks_CleanUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/12709/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/style/Style_useBlocks_CleanUp.java
+END
+Style_useTypeAnnotations_CleanUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/15983/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/style/Style_useTypeAnnotations_CleanUp.java
+END
+Style_trailingSpace_CleanUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/14062/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/cleanup/style/Style_trailingSpace_CleanUp.java
+END

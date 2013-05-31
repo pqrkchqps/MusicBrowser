@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/20468/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/chrome
+END
+sample.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/18482/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/chrome/sample.html
+END
+dart_icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/16819/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/chrome/dart_icon.png
+END
+background.dart
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/18482/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/chrome/background.dart
+END
+sample.css
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/16819/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/chrome/sample.css
+END
+build.dart
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/20468/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/chrome/build.dart
+END
+sample.dart
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/18482/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/chrome/sample.dart
+END
+readme.md
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/18482/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/chrome/readme.md
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/18482/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/chrome/manifest.json
+END

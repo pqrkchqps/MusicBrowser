@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/21564/branches/bleeding_edge/dart/samples/third_party/todomvc
+END
+pubspec.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/21386/branches/bleeding_edge/dart/samples/third_party/todomvc/pubspec.yaml
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10097/branches/bleeding_edge/dart/samples/third_party/todomvc/LICENSE
+END
+build.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/20137/branches/bleeding_edge/dart/samples/third_party/todomvc/build.dart
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/15867/branches/bleeding_edge/dart/samples/third_party/todomvc/README.md
+END

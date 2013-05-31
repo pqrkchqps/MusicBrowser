@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/19690/branches/bleeding_edge/dart/utils/template
+END
+tokenkind.dart
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/18960/branches/bleeding_edge/dart/utils/template/tokenkind.dart
+END
+world.dart
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14140/branches/bleeding_edge/dart/utils/template/world.dart
+END
+parser.dart
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19690/branches/bleeding_edge/dart/utils/template/parser.dart
+END
+temploptions.dart
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6840/branches/bleeding_edge/dart/utils/template/temploptions.dart
+END
+tree.dart
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/19690/branches/bleeding_edge/dart/utils/template/tree.dart
+END
+source.dart
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19690/branches/bleeding_edge/dart/utils/template/source.dart
+END
+utils.dart
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/18615/branches/bleeding_edge/dart/utils/template/utils.dart
+END
+tokenizer_base.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/18960/branches/bleeding_edge/dart/utils/template/tokenizer_base.dart
+END
+codegen.dart
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/19690/branches/bleeding_edge/dart/utils/template/codegen.dart
+END
+tokenizer.dart
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/18960/branches/bleeding_edge/dart/utils/template/tokenizer.dart
+END
+template.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14693/branches/bleeding_edge/dart/utils/template/template.dart
+END
+uitest.dart
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19690/branches/bleeding_edge/dart/utils/template/uitest.dart
+END
+tool.dart
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/19690/branches/bleeding_edge/dart/utils/template/tool.dart
+END
+token.dart
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12017/branches/bleeding_edge/dart/utils/template/token.dart
+END
+template
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5544/branches/bleeding_edge/dart/utils/template/template
+END
+template_tool.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5900/branches/bleeding_edge/dart/utils/template/template_tool.html
+END
+htmltree.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/19690/branches/bleeding_edge/dart/utils/template/htmltree.dart
+END
+template.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5900/branches/bleeding_edge/dart/utils/template/template.html
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/188011/trunk/src/ash/system/audio
+END
+tray_volume.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/188011/trunk/src/ash/system/audio/tray_volume.cc
+END
+tray_volume.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/178781/trunk/src/ash/system/audio/tray_volume.h
+END
+audio_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/148778/trunk/src/ash/system/audio/audio_observer.h
+END

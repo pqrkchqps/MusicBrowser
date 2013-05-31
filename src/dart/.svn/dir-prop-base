@@ -1,0 +1,26 @@
+K 10
+svn:ignore
+V 197
+.children
+.project
+Makefile
+benchmarks
+build
+ipch
+out
+xcodebuild
+.flaky.log
+*.Makefile
+*.opensdf
+*.pyc
+*.sdf
+*.sln
+*.suo
+*.target.mk
+*.vcproj
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.xcodeproj
+
+END

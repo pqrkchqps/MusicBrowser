@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/21157/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/code
+END
+InlineMethodRefactoring_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/21157/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/code/InlineMethodRefactoring_OLD.java
+END
+TokenUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/13628/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/code/TokenUtils.java
+END
+ConvertOptionalParametersToNamedRefactoring.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/!svn/ver/21157/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/code/ConvertOptionalParametersToNamedRefactoring.java
+END
+ExtractMethodRefactoring_I.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/19762/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/code/ExtractMethodRefactoring_I.java
+END
+ExtractLocalRefactoring_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/19155/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/code/ExtractLocalRefactoring_OLD.java
+END
+StatementAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/13628/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/code/StatementAnalyzer.java
+END
+InlineMethodRefactoring_I.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/20435/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/code/InlineMethodRefactoring_I.java
+END
+InlineLocalRefactoring_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/19326/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/code/InlineLocalRefactoring_OLD.java
+END
+ExtractLocalRefactoring_I.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/19155/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/code/ExtractLocalRefactoring_I.java
+END
+ExtractMethodAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/12434/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/code/ExtractMethodAnalyzer.java
+END
+ConvertMethodToGetterRefactoring.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/21157/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/code/ConvertMethodToGetterRefactoring.java
+END
+ConvertGetterToMethodRefactoring.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/21157/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/code/ConvertGetterToMethodRefactoring.java
+END
+InlineLocalRefactoring_I.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/19326/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/code/InlineLocalRefactoring_I.java
+END
+ParameterInfo_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/19762/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/code/ParameterInfo_OLD.java
+END
+ExtractUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/16174/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/code/ExtractUtils.java
+END
+ExtractMethodRefactoring_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/19762/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/code/ExtractMethodRefactoring_OLD.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/21771/branches/bleeding_edge/dart/sdk/lib/_internal/dartdoc
+END
+pubspec.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/21320/branches/bleeding_edge/dart/sdk/lib/_internal/dartdoc/pubspec.yaml
+END
+dartdoc.status
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/19417/branches/bleeding_edge/dart/sdk/lib/_internal/dartdoc/dartdoc.status
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14473/branches/bleeding_edge/dart/sdk/lib/_internal/dartdoc/.gitignore
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14473/branches/bleeding_edge/dart/sdk/lib/_internal/dartdoc/README.txt
+END

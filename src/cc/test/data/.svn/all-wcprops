@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/190770/trunk/src/cc/test/data
+END
+background_filter_blur_outsets.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/190770/trunk/src/cc/test/data/background_filter_blur_outsets.png
+END
+10_10_layer_tree.json
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/177987/trunk/src/cc/test/data/10_10_layer_tree.json
+END
+green.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/171596/trunk/src/cc/test/data/green.png
+END
+anti_aliasing.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/187705/trunk/src/cc/test/data/anti_aliasing.png
+END
+blue_yellow.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/172955/trunk/src/cc/test/data/blue_yellow.png
+END
+long_scrollable_page.json
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/180555/trunk/src/cc/test/data/long_scrollable_page.json
+END
+background_filter.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/187721/trunk/src/cc/test/data/background_filter.png
+END
+blue_yellow_alpha_translate.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/189966/trunk/src/cc/test/data/blue_yellow_alpha_translate.png
+END
+background_filter_blur_off_axis.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/188203/trunk/src/cc/test/data/background_filter_blur_off_axis.png
+END
+blue_yellow_alpha.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/189966/trunk/src/cc/test/data/blue_yellow_alpha.png
+END
+background_filter_blur.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/188203/trunk/src/cc/test/data/background_filter_blur.png
+END

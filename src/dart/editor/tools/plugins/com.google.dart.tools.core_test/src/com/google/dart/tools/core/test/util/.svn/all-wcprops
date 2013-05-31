@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/21221/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/test/util
+END
+FileOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/test/util/FileOperation.java
+END
+DartCoreTestLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/16644/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/test/util/DartCoreTestLog.java
+END
+TestProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/21221/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/test/util/TestProject.java
+END
+PluginUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/test/util/PluginUtilities.java
+END
+MoneyProjectUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/6133/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/test/util/MoneyProjectUtilities.java
+END
+PlainTestProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/19592/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/test/util/PlainTestProject.java
+END
+FileUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/test/util/FileUtilities.java
+END
+TestUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/19592/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/test/util/TestUtilities.java
+END
+HTMLFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/4776/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/test/util/HTMLFactory.java
+END

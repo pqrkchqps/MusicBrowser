@@ -1,0 +1,77 @@
+10
+
+dir
+21780
+https://dart.googlecode.com/svn/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/index
+https://dart.googlecode.com/svn
+
+
+
+2013-03-06T08:45:34.649791Z
+19538
+ricow@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+260f80e4-7a28-3924-810f-c04153c831b5
+
+persistance
+dir
+
+operation
+dir
+
+impl
+dir
+
+TestAll.java
+file
+
+
+
+
+2013-04-14T04:51:30.231282Z
+24f8f02c6130427f76ff5b4a806cff6a
+2012-05-04T20:54:23.037552Z
+7347
+brianwilkerson@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1324
+
+contributor
+dir
+
+store
+dir
+

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/21231/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/util
+END
+ShowWebConsoleAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/20687/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/util/ShowWebConsoleAction.java
+END
+ShowWebConsoleHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/9822/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/util/ShowWebConsoleHandler.java
+END
+ILaunchShortcutExt.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/3460/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/util/ILaunchShortcutExt.java
+END
+IResourceFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/17483/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/util/IResourceFilter.java
+END
+DartPropertyTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/10177/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/util/DartPropertyTester.java
+END
+AppSelectionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/17483/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/util/AppSelectionDialog.java
+END
+RemoteConnectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/20677/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/util/RemoteConnectionHandler.java
+END
+AbstractLaunchShortcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/21231/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/util/AbstractLaunchShortcut.java
+END
+LaunchUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/20621/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/util/LaunchUtils.java
+END
+DebuggerEditorInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/14142/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.ui/src/com/google/dart/tools/debug/ui/internal/util/DebuggerEditorInput.java
+END

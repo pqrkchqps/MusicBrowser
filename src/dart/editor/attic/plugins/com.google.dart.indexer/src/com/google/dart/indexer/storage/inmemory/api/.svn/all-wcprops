@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/storage/inmemory/api
+END
+ILocationEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/storage/inmemory/api/ILocationEncoder.java
+END
+IFileInfoEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/storage/inmemory/api/IFileInfoEncoder.java
+END
+ILocationInfoCoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/storage/inmemory/api/ILocationInfoCoder.java
+END
+SimpleLocationInfoEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/storage/inmemory/api/SimpleLocationInfoEncoder.java
+END

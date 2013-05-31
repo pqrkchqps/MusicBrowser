@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/21717/branches/bleeding_edge/dart/tools/dom/templates/html/dartium
+END
+cpp_callback_header.template
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/16557/branches/bleeding_edge/dart/tools/dom/templates/html/dartium/cpp_callback_header.template
+END
+dart_implementation.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/21111/branches/bleeding_edge/dart/tools/dom/templates/html/dartium/dart_implementation.darttemplate
+END
+chrome_dartium.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/19059/branches/bleeding_edge/dart/tools/dom/templates/html/dartium/chrome_dartium.darttemplate
+END
+indexed_db_dartium.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/17929/branches/bleeding_edge/dart/tools/dom/templates/html/dartium/indexed_db_dartium.darttemplate
+END
+impl_MouseEvent.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/19659/branches/bleeding_edge/dart/tools/dom/templates/html/dartium/impl_MouseEvent.darttemplate
+END
+cpp_derived_sources.template
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/16557/branches/bleeding_edge/dart/tools/dom/templates/html/dartium/cpp_derived_sources.template
+END
+cpp_implementation.template
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/21686/branches/bleeding_edge/dart/tools/dom/templates/html/dartium/cpp_implementation.template
+END
+cpp_header.template
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/21686/branches/bleeding_edge/dart/tools/dom/templates/html/dartium/cpp_header.template
+END
+web_sql_dartium.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/21443/branches/bleeding_edge/dart/tools/dom/templates/html/dartium/web_sql_dartium.darttemplate
+END
+impl_KeyboardEvent.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/17585/branches/bleeding_edge/dart/tools/dom/templates/html/dartium/impl_KeyboardEvent.darttemplate
+END
+web_audio_dartium.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/21443/branches/bleeding_edge/dart/tools/dom/templates/html/dartium/web_audio_dartium.darttemplate
+END
+web_gl_dartium.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/21443/branches/bleeding_edge/dart/tools/dom/templates/html/dartium/web_gl_dartium.darttemplate
+END
+svg_dartium.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/21443/branches/bleeding_edge/dart/tools/dom/templates/html/dartium/svg_dartium.darttemplate
+END
+cpp_callback_implementation.template
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/16557/branches/bleeding_edge/dart/tools/dom/templates/html/dartium/cpp_callback_implementation.template
+END
+cpp_resolver.template
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/21182/branches/bleeding_edge/dart/tools/dom/templates/html/dartium/cpp_resolver.template
+END
+html_dartium.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/21717/branches/bleeding_edge/dart/tools/dom/templates/html/dartium/html_dartium.darttemplate
+END

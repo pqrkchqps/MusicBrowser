@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index
+END
+PerformanceRelatedConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/PerformanceRelatedConstants.java
+END
+VersionFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/VersionFile.java
+END
+ErrorFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/ErrorFile.java
+END
+IndexSessionStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/IndexSessionStats.java
+END
+IndexSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/IndexSession.java
+END
+IndexTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/index/IndexTransaction.java
+END

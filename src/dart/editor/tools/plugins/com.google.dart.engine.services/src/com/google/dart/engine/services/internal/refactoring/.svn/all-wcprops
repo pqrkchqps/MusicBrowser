@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/21574/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/internal/refactoring
+END
+InlineLocalRefactoringImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/21574/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/internal/refactoring/InlineLocalRefactoringImpl.java
+END
+ConvertMethodToGetterRefactoringImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/21556/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/internal/refactoring/ConvertMethodToGetterRefactoringImpl.java
+END
+RenameUnitMemberValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/19701/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/internal/refactoring/RenameUnitMemberValidator.java
+END
+RenameUnitMemberRefactoringImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/20434/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/internal/refactoring/RenameUnitMemberRefactoringImpl.java
+END
+RenameRefactoringImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/20434/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/internal/refactoring/RenameRefactoringImpl.java
+END
+ParameterInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/21294/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/internal/refactoring/ParameterInfoImpl.java
+END
+ExtractMethodAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/19561/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/internal/refactoring/ExtractMethodAnalyzer.java
+END
+ExtractMethodRefactoringImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/21294/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/internal/refactoring/ExtractMethodRefactoringImpl.java
+END
+RenameConstructorRefactoringImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/20434/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/internal/refactoring/RenameConstructorRefactoringImpl.java
+END
+InlineMethodRefactoringImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/21412/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/internal/refactoring/InlineMethodRefactoringImpl.java
+END
+RefactoringImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/19326/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/internal/refactoring/RefactoringImpl.java
+END
+RenameLocalRefactoringImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/20434/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/internal/refactoring/RenameLocalRefactoringImpl.java
+END
+RenameClassMemberRefactoringImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/20434/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/internal/refactoring/RenameClassMemberRefactoringImpl.java
+END
+ExtractLocalRefactoringImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/19326/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/internal/refactoring/ExtractLocalRefactoringImpl.java
+END
+RenameClassMemberValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/20519/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/internal/refactoring/RenameClassMemberValidator.java
+END

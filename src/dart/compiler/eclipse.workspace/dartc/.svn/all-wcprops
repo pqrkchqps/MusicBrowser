@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/18989/branches/bleeding_edge/dart/compiler/eclipse.workspace/dartc
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/18989/branches/bleeding_edge/dart/compiler/eclipse.workspace/dartc/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6079/branches/bleeding_edge/dart/compiler/eclipse.workspace/dartc/.project
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/17818/branches/bleeding_edge/dart/compiler/eclipse.workspace/dartc/.gitignore
+END

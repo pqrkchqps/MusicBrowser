@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/20745/branches/bleeding_edge/dart/runtime/embedders/openglui/emulator
+END
+emulator_embedder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/20745/branches/bleeding_edge/dart/runtime/embedders/openglui/emulator/emulator_embedder.cc
+END
+emulator_resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/20598/branches/bleeding_edge/dart/runtime/embedders/openglui/emulator/emulator_resource.h
+END
+emulator_embedder.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/17161/branches/bleeding_edge/dart/runtime/embedders/openglui/emulator/emulator_embedder.h
+END
+emulator_graphics_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/20598/branches/bleeding_edge/dart/runtime/embedders/openglui/emulator/emulator_graphics_handler.cc
+END
+emulator_graphics_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/18084/branches/bleeding_edge/dart/runtime/embedders/openglui/emulator/emulator_graphics_handler.h
+END

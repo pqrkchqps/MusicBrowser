@@ -1,0 +1,34 @@
+10
+
+dir
+21780
+https://dart.googlecode.com/svn/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/test_data/UpdateUtilsTest
+https://dart.googlecode.com/svn
+
+
+
+2012-10-18T21:10:36.435281Z
+13799
+pquitslund@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+260f80e4-7a28-3924-810f-c04153c831b5
+
+testCopyPreservesPerms
+dir
+
+testUnzipPreservesPerms
+dir
+

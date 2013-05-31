@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/21687/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui
+END
+EventSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/14290/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/EventSender.java
+END
+AbstractDartEditorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/14290/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/AbstractDartEditorTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/21029/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/TestAll.java
+END
+DartUiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/13308/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/DartUiTest.java
+END
+ScannerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/ScannerTest.java
+END
+PartitionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/11408/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/PartitionTest.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/21007/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/Activator.java
+END

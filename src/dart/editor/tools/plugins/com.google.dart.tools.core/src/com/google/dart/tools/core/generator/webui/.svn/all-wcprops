@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/webui
+END
+xclickcounter.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/16939/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/webui/xclickcounter.html
+END
+webapp.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/17875/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/webui/webapp.html
+END
+webapp.css
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/16939/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/webui/webapp.css
+END
+xclickcounter.dart
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/webui/xclickcounter.dart
+END
+webapp.dart
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/webui/webapp.dart
+END
+build.dart
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/16939/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/generator/webui/build.dart
+END

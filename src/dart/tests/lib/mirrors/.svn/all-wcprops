@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/21694/branches/bleeding_edge/dart/tests/lib/mirrors
+END
+mirrors_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/21610/branches/bleeding_edge/dart/tests/lib/mirrors/mirrors_test.dart
+END
+get_symbol_name_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/21694/branches/bleeding_edge/dart/tests/lib/mirrors/get_symbol_name_test.dart
+END

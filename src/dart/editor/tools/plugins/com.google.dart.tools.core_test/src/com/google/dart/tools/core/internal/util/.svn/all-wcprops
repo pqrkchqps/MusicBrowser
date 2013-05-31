@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/15463/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/util
+END
+JSONErrorMessageParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/util/JSONErrorMessageParserTest.java
+END
+NullInputStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/util/NullInputStreamTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/9757/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/util/TestAll.java
+END
+LibraryReferenceFinderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/15463/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/util/LibraryReferenceFinderTest.java
+END
+SourceRangeUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/7691/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/internal/util/SourceRangeUtilsTest.java
+END

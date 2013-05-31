@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21538/branches/bleeding_edge/dart/sdk/lib/json
+END
+json.dart
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/21538/branches/bleeding_edge/dart/sdk/lib/json/json.dart
+END
+json_sources.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/20503/branches/bleeding_edge/dart/sdk/lib/json/json_sources.gypi
+END

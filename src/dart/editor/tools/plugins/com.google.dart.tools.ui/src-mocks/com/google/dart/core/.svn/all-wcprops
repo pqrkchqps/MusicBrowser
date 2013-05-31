@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/core
+END
+IJarEntryResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/core/IJarEntryResource.java
+END
+IPackageFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/core/IPackageFragment.java
+END
+ILocalVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/core/ILocalVariable.java
+END
+IPackageFragmentRoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/core/IPackageFragmentRoot.java
+END

@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/21581/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler
+END
+DartCompilerMainContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/17622/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/DartCompilerMainContext.java
+END
+Source.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5440/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/Source.java
+END
+CompilerConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/12983/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/CompilerConfiguration.java
+END
+SystemLibraryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/18172/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/SystemLibraryManager.java
+END
+DefaultCompilerConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/11104/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/DefaultCompilerConfiguration.java
+END
+UrlLibrarySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/19505/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/UrlLibrarySource.java
+END
+SystemLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/12267/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/SystemLibrary.java
+END
+PackageLibraryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/19700/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/PackageLibraryManager.java
+END
+ErrorFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/ErrorFormatter.java
+END
+UrlSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/12507/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/UrlSource.java
+END
+SystemLibraryProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/13084/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/SystemLibraryProvider.java
+END
+ErrorSeverity.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9035/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/ErrorSeverity.java
+END
+DartCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/17629/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/DartCompiler.java
+END
+LibrarySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4771/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/LibrarySource.java
+END
+DelegatingCompilerConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/11104/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/DelegatingCompilerConfiguration.java
+END
+InternalCompilerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/11396/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/InternalCompilerException.java
+END
+DefaultDartArtifactProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/11104/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/DefaultDartArtifactProvider.java
+END
+DefaultLibrarySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10678/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/DefaultLibrarySource.java
+END
+SubSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4771/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/SubSystem.java
+END
+DeltaAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/14217/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/DeltaAnalyzer.java
+END
+LibraryDepsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/13023/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/LibraryDepsVisitor.java
+END
+DefaultDartCompilerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3045/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/DefaultDartCompilerListener.java
+END
+CommandLineOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/19946/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/CommandLineOptions.java
+END
+DartCompilationError.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9599/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/DartCompilationError.java
+END
+SystemLibrariesReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/19051/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/SystemLibrariesReader.java
+END
+DartCompilationPhase.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/253/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/DartCompilationPhase.java
+END
+SourceDelta.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/SourceDelta.java
+END
+UnitTestBatchRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/17629/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/UnitTestBatchRunner.java
+END
+DartSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/DartSource.java
+END
+LibraryDeps.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5208/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/LibraryDeps.java
+END
+DefaultErrorFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/15416/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/DefaultErrorFormatter.java
+END
+FileBasedSystemLibraryProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/13084/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/FileBasedSystemLibraryProvider.java
+END
+DartArtifactProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/DartArtifactProvider.java
+END
+ErrorCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9865/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/ErrorCode.java
+END
+PrettyErrorFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/15416/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/PrettyErrorFormatter.java
+END
+DartCompilerErrorCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/15643/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/DartCompilerErrorCode.java
+END
+DartCompilerContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/4771/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/DartCompilerContext.java
+END
+DartCompilerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3045/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/DartCompilerListener.java
+END
+UrlDartSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/11104/branches/bleeding_edge/dart/compiler/java/com/google/dart/compiler/UrlDartSource.java
+END

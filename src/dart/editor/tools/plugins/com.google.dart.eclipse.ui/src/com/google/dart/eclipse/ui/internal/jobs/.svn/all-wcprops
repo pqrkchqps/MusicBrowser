@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/11189/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.eclipse.ui/src/com/google/dart/eclipse/ui/internal/jobs
+END
+UIJobMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/10414/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.eclipse.ui/src/com/google/dart/eclipse/ui/internal/jobs/UIJobMessages.java
+END
+ValidateSDKJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/11189/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.eclipse.ui/src/com/google/dart/eclipse/ui/internal/jobs/ValidateSDKJob.java
+END
+UIJobMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/10414/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.eclipse.ui/src/com/google/dart/eclipse/ui/internal/jobs/UIJobMessages.properties
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/21749/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/type
+END
+TypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/type/TypeImpl.java
+END
+InterfaceTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/21749/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/type/InterfaceTypeImpl.java
+END
+VoidTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/type/VoidTypeImpl.java
+END
+BottomTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/type/BottomTypeImpl.java
+END
+DynamicTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/type/DynamicTypeImpl.java
+END
+FunctionTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/20730/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/type/FunctionTypeImpl.java
+END
+TypeVariableTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/type/TypeVariableTypeImpl.java
+END

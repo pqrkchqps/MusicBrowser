@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/search/scope
+END
+UniverseSearchScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/search/scope/UniverseSearchScope.java
+END
+LibrarySearchScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/search/scope/LibrarySearchScope.java
+END

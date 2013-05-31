@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/update/git
+END
+do_not_update_if_unneeded_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/update/git/do_not_update_if_unneeded_test.dart
+END
+update_to_incompatible_pubspec_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/update/git/update_to_incompatible_pubspec_test.dart
+END
+update_locked_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/update/git/update_locked_test.dart
+END
+update_to_nonexistent_pubspec_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/update/git/update_to_nonexistent_pubspec_test.dart
+END
+update_one_locked_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/21237/branches/bleeding_edge/dart/utils/tests/pub/update/git/update_one_locked_test.dart
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/lib/async/deferred
+END
+deferred_api_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/lib/async/deferred/deferred_api_test.dart
+END
+deferred_api_library.dart
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/18637/branches/bleeding_edge/dart/tests/lib/async/deferred/deferred_api_library.dart
+END

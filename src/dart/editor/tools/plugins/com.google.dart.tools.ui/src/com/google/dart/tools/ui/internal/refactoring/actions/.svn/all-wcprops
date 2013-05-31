@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/21518/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/actions
+END
+RefactoringStarter.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/21244/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/actions/RefactoringStarter.java
+END
+RenameDartElementAction_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/20292/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/actions/RenameDartElementAction_OLD.java
+END
+RenameDartElementAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/21518/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/actions/RenameDartElementAction.java
+END
+RenameResourceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/19123/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/actions/RenameResourceAction.java
+END

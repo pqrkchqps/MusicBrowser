@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/21117/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.eclipse.ui/src/com/google/dart/eclipse/ui/internal/navigator
+END
+DartNavigatorLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/18358/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.eclipse.ui/src/com/google/dart/eclipse/ui/internal/navigator/DartNavigatorLabelProvider.java
+END
+DartNavigatorViewerSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/11422/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.eclipse.ui/src/com/google/dart/eclipse/ui/internal/navigator/DartNavigatorViewerSorter.java
+END
+LibraryNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/20408/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.eclipse.ui/src/com/google/dart/eclipse/ui/internal/navigator/LibraryNode.java
+END
+DartNavigatorContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/21117/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.eclipse.ui/src/com/google/dart/eclipse/ui/internal/navigator/DartNavigatorContentProvider.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/8499/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/formatter/align
+END
+AlignmentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/8499/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/formatter/align/AlignmentException.java
+END
+Alignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/formatter/align/Alignment.java
+END

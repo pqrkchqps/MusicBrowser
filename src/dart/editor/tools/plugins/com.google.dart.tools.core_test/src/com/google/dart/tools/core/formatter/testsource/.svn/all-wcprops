@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/19690/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/formatter/testsource
+END
+test001$A_in.dart
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/formatter/testsource/test001$A_in.dart
+END
+test001$A_out.dart
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/formatter/testsource/test001$A_out.dart
+END
+test002$A_in.dart
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/2502/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/formatter/testsource/test002$A_in.dart
+END
+test003$A_in.dart
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/formatter/testsource/test003$A_in.dart
+END
+test002$A_out.dart
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/2502/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/formatter/testsource/test002$A_out.dart
+END
+test003$A_out.dart
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/formatter/testsource/test003$A_out.dart
+END
+test004$A_in.dart
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/16687/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/formatter/testsource/test004$A_in.dart
+END
+test005$A_in.dart
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/formatter/testsource/test005$A_in.dart
+END
+test004$A_out.dart
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/16687/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/formatter/testsource/test004$A_out.dart
+END
+test006$A_in.dart
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/12914/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/formatter/testsource/test006$A_in.dart
+END
+test005$A_out.dart
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/formatter/testsource/test005$A_out.dart
+END
+test007$A_in.dart
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/19690/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/formatter/testsource/test007$A_in.dart
+END
+test006$A_out.dart
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/12914/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/formatter/testsource/test006$A_out.dart
+END
+test007$A_out.dart
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/19690/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/formatter/testsource/test007$A_out.dart
+END
+Sample.app
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/formatter/testsource/Sample.app
+END
+testA$A_in.dart
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/11239/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/formatter/testsource/testA$A_in.dart
+END
+testA$A_out.dart
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/11239/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/formatter/testsource/testA$A_out.dart
+END

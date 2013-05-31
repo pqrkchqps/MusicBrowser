@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/21437/branches/bleeding_edge/dart/pkg/stack_trace/lib/src
+END
+frame.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20752/branches/bleeding_edge/dart/pkg/stack_trace/lib/src/frame.dart
+END
+trace.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/21437/branches/bleeding_edge/dart/pkg/stack_trace/lib/src/trace.dart
+END
+utils.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20710/branches/bleeding_edge/dart/pkg/stack_trace/lib/src/utils.dart
+END

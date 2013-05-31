@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/12122/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.tools.deploy.feature_releng/build-settings
+END
+eclipse-platform.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/4335/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.tools.deploy.feature_releng/build-settings/eclipse-platform.properties
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/12122/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.tools.deploy.feature_releng/build-settings/.gitignore
+END
+chrome-bot.linux.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/2353/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.tools.deploy.feature_releng/build-settings/chrome-bot.linux.properties
+END
+user.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/5149/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.tools.deploy.feature_releng/build-settings/user.properties
+END
+chrome-bot.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/5040/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.tools.deploy.feature_releng/build-settings/chrome-bot.properties
+END
+chrome-bot.macos.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/2722/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.tools.deploy.feature_releng/build-settings/chrome-bot.macos.properties
+END
+chrome-bot.win32.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/4577/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.tools.deploy.feature_releng/build-settings/chrome-bot.win32.properties
+END
+default-user.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/4238/branches/bleeding_edge/dart/editor/tools/features/com.google.dart.tools.deploy.feature_releng/build-settings/default-user.properties
+END

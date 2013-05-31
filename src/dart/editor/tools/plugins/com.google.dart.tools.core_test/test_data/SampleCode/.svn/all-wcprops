@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/14697/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/test_data/SampleCode
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/test_data/SampleCode/.project
+END
+.children
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/test_data/SampleCode/.children
+END
+sampler.dart
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/14697/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/test_data/SampleCode/sampler.dart
+END

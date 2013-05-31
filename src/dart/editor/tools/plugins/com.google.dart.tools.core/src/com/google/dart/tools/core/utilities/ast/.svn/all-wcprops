@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/19696/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/ast
+END
+DynamicTypesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/8751/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/ast/DynamicTypesFinder.java
+END
+NameOccurrencesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/14658/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/ast/NameOccurrencesFinder.java
+END
+DartElementLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/19696/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/ast/DartElementLocator.java
+END

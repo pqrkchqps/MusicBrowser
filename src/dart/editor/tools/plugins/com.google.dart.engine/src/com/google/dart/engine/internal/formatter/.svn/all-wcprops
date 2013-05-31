@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/formatter
+END
+FormattingEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/formatter/FormattingEngine.java
+END
+AbstractCodeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/formatter/AbstractCodeFormatter.java
+END
+BasicEditStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/formatter/BasicEditStore.java
+END
+TextRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/formatter/TextRegion.java
+END

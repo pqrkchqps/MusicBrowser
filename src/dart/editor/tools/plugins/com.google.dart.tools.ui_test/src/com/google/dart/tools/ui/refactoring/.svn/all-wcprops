@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/21157/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring
+END
+ExtractMethodRefactoringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/19762/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/ExtractMethodRefactoringTest.java
+END
+RenameImportProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/19075/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/RenameImportProcessorTest.java
+END
+RefactoringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/15624/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/RefactoringTest.java
+END
+InlineMethodRefactoringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/20437/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/InlineMethodRefactoringTest.java
+END
+ConvertOptionalParametersToNamedRefactoringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/12394/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/ConvertOptionalParametersToNamedRefactoringTest.java
+END
+RenameMethodProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/19075/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/RenameMethodProcessorTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/21157/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/TestAll.java
+END
+ExtractLocalRefactoringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/19155/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/ExtractLocalRefactoringTest.java
+END
+DeleteResourceParticipantTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/21157/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/DeleteResourceParticipantTest.java
+END
+RenameTypeProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/19075/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/RenameTypeProcessorTest.java
+END
+RenameClassTypeAliasProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/19075/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/RenameClassTypeAliasProcessorTest.java
+END
+RenameTypeParameterProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/19075/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/RenameTypeParameterProcessorTest.java
+END
+RenameResourceParticipant_OLD_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/21157/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/RenameResourceParticipant_OLD_Test.java
+END
+ReflectionUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/7710/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/ReflectionUtilsTest.java
+END
+RenameFieldProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/19075/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/RenameFieldProcessorTest.java
+END
+RenameFunctionProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/19075/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/RenameFunctionProcessorTest.java
+END
+MoveResourceParticipantTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/21157/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/MoveResourceParticipantTest.java
+END
+InlineLocalRefactoringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/19326/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/InlineLocalRefactoringTest.java
+END
+AbstractDartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/17650/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/AbstractDartTest.java
+END
+ConvertMethodToGetterRefactoringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/12140/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/ConvertMethodToGetterRefactoringTest.java
+END
+ConvertGetterToMethodRefactoringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/15104/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/ConvertGetterToMethodRefactoringTest.java
+END
+ExecutionUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/12394/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/ExecutionUtilsTest.java
+END
+RenameLocalFunctionProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/19075/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/RenameLocalFunctionProcessorTest.java
+END
+RenameLocalVariableProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/19075/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/RenameLocalVariableProcessorTest.java
+END
+RenameAnalyzeUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/17650/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/RenameAnalyzeUtilTest.java
+END
+RenameFunctionTypeAliasProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/19075/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/RenameFunctionTypeAliasProcessorTest.java
+END
+ExtractUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/17650/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/ExtractUtilsTest.java
+END
+RenameGlobalVariableProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/19075/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/refactoring/RenameGlobalVariableProcessorTest.java
+END

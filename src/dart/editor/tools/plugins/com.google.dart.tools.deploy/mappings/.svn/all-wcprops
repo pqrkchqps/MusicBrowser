@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/15012/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/mappings
+END
+org.eclipse.wst.xml.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/14359/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/mappings/org.eclipse.wst.xml.ui.xml
+END
+org.eclipse.wst.jsdt.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/14359/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/mappings/org.eclipse.wst.jsdt.ui.xml
+END
+org.eclipse.wst.html.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/14359/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/mappings/org.eclipse.wst.html.ui.xml
+END
+org.eclipse.jdt.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/14359/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/mappings/org.eclipse.jdt.ui.xml
+END
+org.eclipse.wst.css.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/14359/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/mappings/org.eclipse.wst.css.ui.xml
+END
+org.eclipse.debug.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/14903/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/mappings/org.eclipse.debug.ui.xml
+END
+com.google.dart.tools.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/15012/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/mappings/com.google.dart.tools.ui.xml
+END
+org.eclipse.ui.editors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/14903/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/mappings/org.eclipse.ui.editors.xml
+END

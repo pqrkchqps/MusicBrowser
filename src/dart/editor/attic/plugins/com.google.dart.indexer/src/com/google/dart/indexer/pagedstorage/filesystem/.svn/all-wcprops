@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/pagedstorage/filesystem
+END
+DiskFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/pagedstorage/filesystem/DiskFileSystem.java
+END
+DiskFileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/pagedstorage/filesystem/DiskFileObject.java
+END
+FileObjectInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/pagedstorage/filesystem/FileObjectInputStream.java
+END
+FileObjectOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/pagedstorage/filesystem/FileObjectOutputStream.java
+END
+FileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/pagedstorage/filesystem/FileSystem.java
+END
+MemoryMappedFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/pagedstorage/filesystem/MemoryMappedFileSystem.java
+END
+InMemoryFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/pagedstorage/filesystem/InMemoryFileSystem.java
+END
+FileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/pagedstorage/filesystem/FileObject.java
+END
+InMemoryFileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/pagedstorage/filesystem/InMemoryFileObject.java
+END
+AccessMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/pagedstorage/filesystem/AccessMode.java
+END
+MemoryMappedFileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/pagedstorage/filesystem/MemoryMappedFileObject.java
+END
+NioFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/pagedstorage/filesystem/NioFileSystem.java
+END
+NioFileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/pagedstorage/filesystem/NioFileObject.java
+END

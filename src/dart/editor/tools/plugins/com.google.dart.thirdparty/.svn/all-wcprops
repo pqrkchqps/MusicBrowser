@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/20432/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.thirdparty
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/20432/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.thirdparty/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/18950/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.thirdparty/.project
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/20427/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.thirdparty/.gitignore
+END
+plugin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/19360/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.thirdparty/plugin.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/20432/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.thirdparty/build.properties
+END
+readme.md
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/18950/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.thirdparty/readme.md
+END

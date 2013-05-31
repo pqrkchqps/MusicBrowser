@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/formatter/edit
+END
+StringEditBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/formatter/edit/StringEditBuilder.java
+END
+StringEditOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/internal/formatter/edit/StringEditOperation.java
+END

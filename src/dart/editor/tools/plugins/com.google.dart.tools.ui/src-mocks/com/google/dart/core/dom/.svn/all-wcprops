@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/core/dom
+END
+IPackageBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/core/dom/IPackageBinding.java
+END
+BindingKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/core/dom/BindingKey.java
+END
+IBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/core/dom/IBinding.java
+END
+ITypeBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/core/dom/ITypeBinding.java
+END
+IFunctionBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/core/dom/IFunctionBinding.java
+END
+IVariableBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/core/dom/IVariableBinding.java
+END
+Bindings.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/core/dom/Bindings.java
+END
+Modifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src-mocks/com/google/dart/core/dom/Modifier.java
+END

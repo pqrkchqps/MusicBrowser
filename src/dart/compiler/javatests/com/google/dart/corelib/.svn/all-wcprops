@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6080/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/corelib
+END
+SharedTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/4616/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/corelib/SharedTestCase.java
+END
+SharedTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/6080/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/corelib/SharedTests.java
+END
+TestSharedTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9/branches/bleeding_edge/dart/compiler/javatests/com/google/dart/corelib/TestSharedTests.java
+END

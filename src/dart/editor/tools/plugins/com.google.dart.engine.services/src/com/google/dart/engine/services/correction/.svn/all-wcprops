@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/21751/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/correction
+END
+QuickAssistProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/21675/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/correction/QuickAssistProcessor.java
+END
+QuickFixProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/21751/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/correction/QuickFixProcessor.java
+END
+CorrectionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/21716/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/correction/CorrectionProposal.java
+END
+CorrectionProcessors.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/21675/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/correction/CorrectionProcessors.java
+END
+CorrectionImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/18058/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/correction/CorrectionImage.java
+END
+CorrectionKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/21716/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/correction/CorrectionKind.java
+END

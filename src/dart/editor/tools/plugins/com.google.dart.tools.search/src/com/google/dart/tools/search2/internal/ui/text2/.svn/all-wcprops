@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search2/internal/ui/text2
+END
+FindInWorkspaceActionDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search2/internal/ui/text2/FindInWorkspaceActionDelegate.java
+END
+DefaultTextSearchQueryProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search2/internal/ui/text2/DefaultTextSearchQueryProvider.java
+END
+FindInFileActionDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search2/internal/ui/text2/FindInFileActionDelegate.java
+END
+TextSearchQueryProviderRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search2/internal/ui/text2/TextSearchQueryProviderRegistry.java
+END
+RetrieverAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search2/internal/ui/text2/RetrieverAction.java
+END
+FindInRecentScopeActionDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search2/internal/ui/text2/FindInRecentScopeActionDelegate.java
+END

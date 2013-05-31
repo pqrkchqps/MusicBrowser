@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/pagedstorage/exceptions
+END
+PagedStorageNonexistentPageReferenceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/pagedstorage/exceptions/PagedStorageNonexistentPageReferenceException.java
+END
+PagedStorageException.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/pagedstorage/exceptions/PagedStorageException.java
+END
+PagedStorageCorruptedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/18954/branches/bleeding_edge/dart/editor/attic/plugins/com.google.dart.indexer/src/com/google/dart/indexer/pagedstorage/exceptions/PagedStorageCorruptedException.java
+END

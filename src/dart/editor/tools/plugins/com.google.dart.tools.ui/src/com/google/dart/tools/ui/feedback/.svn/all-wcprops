@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/21299/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/feedback
+END
+ScreenshotViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/14291/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/feedback/ScreenshotViewer.java
+END
+FeedbackReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/20662/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/feedback/FeedbackReport.java
+END
+FeedbackWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/14910/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/feedback/FeedbackWriter.java
+END
+LogViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/11414/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/feedback/LogViewer.java
+END
+OpenFeedbackDialogAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/14402/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/feedback/OpenFeedbackDialogAction.java
+END
+FeedbackDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/14291/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/feedback/FeedbackDialog.java
+END
+LogReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/16606/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/feedback/LogReader.java
+END
+FeedbackUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/21299/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/feedback/FeedbackUtils.java
+END
+FeedbackMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/14574/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/feedback/FeedbackMessages.properties
+END
+FeedbackSubmissionJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/19330/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/feedback/FeedbackSubmissionJob.java
+END
+FeedbackMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/14574/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/feedback/FeedbackMessages.java
+END

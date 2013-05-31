@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 93
+*.Makefile
+*.sln
+*.target.mk
+*.vcproj
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.xcodeproj
+
+END

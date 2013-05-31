@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/16864/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/utilities/ast
+END
+DynamicTypesFinderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/14161/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/utilities/ast/DynamicTypesFinderTest.java
+END
+LocationSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/8025/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/utilities/ast/LocationSpec.java
+END
+NameOccurrencesFinderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/16744/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/utilities/ast/NameOccurrencesFinderTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/8728/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/utilities/ast/TestAll.java
+END
+DartElementLocatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/16864/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/utilities/ast/DartElementLocatorTest.java
+END

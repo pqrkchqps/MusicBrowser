@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/21400/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/instrumentation
+END
+Heartbeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/21042/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/instrumentation/Heartbeat.java
+END
+UIInstrumentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/21400/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/instrumentation/UIInstrumentation.java
+END
+UIInstrumentationBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/21400/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/instrumentation/UIInstrumentationBuilder.java
+END

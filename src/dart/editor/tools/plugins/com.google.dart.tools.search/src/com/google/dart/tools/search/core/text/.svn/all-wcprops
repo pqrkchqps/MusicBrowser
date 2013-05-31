@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/core/text
+END
+TextSearchEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/core/text/TextSearchEngine.java
+END
+TextSearchRequestor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/core/text/TextSearchRequestor.java
+END
+TextSearchScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/core/text/TextSearchScope.java
+END
+TextSearchMatchAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/7419/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/core/text/TextSearchMatchAccess.java
+END

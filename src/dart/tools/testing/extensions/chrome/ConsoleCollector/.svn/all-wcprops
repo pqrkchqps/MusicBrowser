@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/13442/branches/bleeding_edge/dart/tools/testing/extensions/chrome/ConsoleCollector
+END
+content.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/13442/branches/bleeding_edge/dart/tools/testing/extensions/chrome/ConsoleCollector/content.js
+END
+background.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/13442/branches/bleeding_edge/dart/tools/testing/extensions/chrome/ConsoleCollector/background.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/13442/branches/bleeding_edge/dart/tools/testing/extensions/chrome/ConsoleCollector/manifest.json
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/21379/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/generator
+END
+ChromePackagedAppSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/19513/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/generator/ChromePackagedAppSampleTest.java
+END
+WebAppSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/19513/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/generator/WebAppSampleTest.java
+END
+MyNewClass.txt
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1551/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/generator/MyNewClass.txt
+END
+GeneratorUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/21379/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/generator/GeneratorUtils.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/19513/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/generator/TestAll.java
+END
+CommandLineSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/19513/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/generator/CommandLineSampleTest.java
+END
+DartProjectGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/generator/DartProjectGeneratorTest.java
+END
+MyNewWebPage.txt
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/13488/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/generator/MyNewWebPage.txt
+END
+SomeLib.txt
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/11675/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/generator/SomeLib.txt
+END
+WebUiSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/19513/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/generator/WebUiSampleTest.java
+END
+MyNewInterface.txt
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core_test/src/com/google/dart/tools/core/generator/MyNewInterface.txt
+END

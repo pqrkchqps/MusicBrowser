@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/20800/branches/bleeding_edge/dart/client
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12503/branches/bleeding_edge/dart/client/.gitignore
+END
+dart.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17070/branches/bleeding_edge/dart/client/dart.js
+END

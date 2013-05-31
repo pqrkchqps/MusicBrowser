@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/cache
+END
+LRUCacheIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/cache/LRUCacheIterator.java
+END
+LRUCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/cache/LRUCache.java
+END
+OverflowingLRUCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/cache/OverflowingLRUCache.java
+END
+LRUCacheable.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/cache/LRUCacheable.java
+END
+ElementCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/cache/ElementCache.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/11087/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/fix
+END
+CompilationUnitFix.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/11087/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/fix/CompilationUnitFix.java
+END
+LinkedProposalModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/fix/LinkedProposalModel.java
+END
+LinkedProposalPositionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/10468/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/fix/LinkedProposalPositionGroup.java
+END
+AbstractFix.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/11087/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/fix/AbstractFix.java
+END

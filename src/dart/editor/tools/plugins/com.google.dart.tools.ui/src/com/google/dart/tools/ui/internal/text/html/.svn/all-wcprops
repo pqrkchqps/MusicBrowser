@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/html
+END
+HTMLTextPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/html/HTMLTextPresenter.java
+END
+SingleCharReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/html/SingleCharReader.java
+END
+SubstitutionTextReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/html/SubstitutionTextReader.java
+END
+HTMLMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/html/HTMLMessages.properties
+END
+HTMLPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/html/HTMLPrinter.java
+END
+BrowserInformationControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/3378/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/html/BrowserInformationControl.java
+END
+HTMLMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/html/HTMLMessages.java
+END
+HTML2TextReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/html/HTML2TextReader.java
+END

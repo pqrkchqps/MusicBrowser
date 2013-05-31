@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/20933/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/html
+END
+HtmlSourceViewerConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/20327/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/html/HtmlSourceViewerConfiguration.java
+END
+HtmlCustomPartitionScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/16591/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/html/HtmlCustomPartitionScanner.java
+END
+HtmlPartitionScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/16591/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/html/HtmlPartitionScanner.java
+END
+HtmlTagScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/16591/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/html/HtmlTagScanner.java
+END
+HtmlEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/20327/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/html/HtmlEditor.java
+END
+HtmlDocumentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/16591/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/html/HtmlDocumentProvider.java
+END
+HtmlDamagerRepairer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/6652/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/html/HtmlDamagerRepairer.java
+END
+HtmlLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/15552/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/html/HtmlLabelProvider.java
+END
+HtmlAutoIndentStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/20933/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/html/HtmlAutoIndentStrategy.java
+END
+HtmlHyperlinkDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/16591/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/html/HtmlHyperlinkDetector.java
+END
+HtmlContentAssistProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/16591/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/html/HtmlContentAssistProcessor.java
+END
+HtmlTagRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/6371/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/html/HtmlTagRule.java
+END
+HtmlWordRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/12584/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/html/HtmlWordRule.java
+END
+HtmlDartScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/16591/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/html/HtmlDartScanner.java
+END
+HtmlContentOutlinePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/16692/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/html/HtmlContentOutlinePage.java
+END

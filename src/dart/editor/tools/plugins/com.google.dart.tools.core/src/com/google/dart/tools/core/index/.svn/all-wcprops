@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/19646/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/index
+END
+AttributeCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/4047/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/index/AttributeCallback.java
+END
+Relationship.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/4047/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/index/Relationship.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/4047/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/index/Attribute.java
+END
+NotifyCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/8130/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/index/NotifyCallback.java
+END
+Resource.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/19646/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/index/Resource.java
+END
+Index.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/9227/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/index/Index.java
+END
+Location.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/10463/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/index/Location.java
+END
+Element.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/11823/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/index/Element.java
+END
+RelationshipCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/4047/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/index/RelationshipCallback.java
+END

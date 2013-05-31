@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/20175/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.command.analyze_test/src/com/google/dart/command/analyze
+END
+CombinedEngineTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/19837/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.command.analyze_test/src/com/google/dart/command/analyze/CombinedEngineTestSuite.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/19837/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.command.analyze_test/src/com/google/dart/command/analyze/TestAll.java
+END
+ErrorFormatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/20175/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.command.analyze_test/src/com/google/dart/command/analyze/ErrorFormatterTest.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/21583/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/utilities/general
+END
+StringUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/21583/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/utilities/general/StringUtilities.java
+END
+ObjectUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/utilities/general/ObjectUtilities.java
+END
+CharOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/19719/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine/src/com/google/dart/engine/utilities/general/CharOperation.java
+END

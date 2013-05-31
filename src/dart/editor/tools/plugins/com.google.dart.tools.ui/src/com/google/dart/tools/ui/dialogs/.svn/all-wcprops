@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/14029/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/dialogs
+END
+ITypeInfoRequestor.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/dialogs/ITypeInfoRequestor.java
+END
+ITypeSelectionComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/dialogs/ITypeSelectionComponent.java
+END
+ITypeInfoImageProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/dialogs/ITypeInfoImageProvider.java
+END
+TypeSelectionExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/dialogs/TypeSelectionExtension.java
+END
+DialogsMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/14029/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/dialogs/DialogsMessages.properties
+END
+ScanProgressUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/10597/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/dialogs/ScanProgressUI.java
+END
+ITypeInfoFilterExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/dialogs/ITypeInfoFilterExtension.java
+END
+DialogsMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/dialogs/DialogsMessages.java
+END

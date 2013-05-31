@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/21687/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.update.core/src/com/google/dart/tools/update/core/internal/jobs
+END
+UpdateJobMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/17601/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.update.core/src/com/google/dart/tools/update/core/internal/jobs/UpdateJobMessages.properties
+END
+INIRewriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/21687/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.update.core/src/com/google/dart/tools/update/core/internal/jobs/INIRewriter.java
+END
+CleanupInstallationJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/11110/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.update.core/src/com/google/dart/tools/update/core/internal/jobs/CleanupInstallationJob.java
+END
+UpdateJobMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/15822/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.update.core/src/com/google/dart/tools/update/core/internal/jobs/UpdateJobMessages.java
+END
+CheckForUpdatesJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/18863/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.update.core/src/com/google/dart/tools/update/core/internal/jobs/CheckForUpdatesJob.java
+END
+InstallUpdateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/18073/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.update.core/src/com/google/dart/tools/update/core/internal/jobs/InstallUpdateAction.java
+END
+DownloadUpdatesJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/9320/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.update.core/src/com/google/dart/tools/update/core/internal/jobs/DownloadUpdatesJob.java
+END

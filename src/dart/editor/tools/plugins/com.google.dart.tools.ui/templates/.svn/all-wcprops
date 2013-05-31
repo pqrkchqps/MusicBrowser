@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/templates
+END
+default-templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/templates/default-templates.xml
+END
+default-codetemplates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/templates/default-codetemplates.xml
+END
+default-templates.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/templates/default-templates.properties
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/184173/trunk/src/ui/gfx/android
+END
+java_bitmap.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/178472/trunk/src/ui/gfx/android/java_bitmap.cc
+END
+device_display_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/178472/trunk/src/ui/gfx/android/device_display_info.cc
+END
+java_bitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/178472/trunk/src/ui/gfx/android/java_bitmap.h
+END
+device_display_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/178472/trunk/src/ui/gfx/android/device_display_info.h
+END
+window_android.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/157424/trunk/src/ui/gfx/android/window_android.cc
+END
+window_android.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/184173/trunk/src/ui/gfx/android/window_android.h
+END

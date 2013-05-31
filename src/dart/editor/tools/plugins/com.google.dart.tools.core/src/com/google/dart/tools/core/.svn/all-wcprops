@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/21775/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core
+END
+DartCore.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/21675/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/DartCore.java
+END
+ToolFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/ToolFactory.java
+END
+NotYetImplementedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/NotYetImplementedException.java
+END
+DartPreferenceConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/DartPreferenceConstants.java
+END
+MessageConsole.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/18779/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/MessageConsole.java
+END
+CmdLineOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/21687/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/CmdLineOptions.java
+END
+DartCoreDebug.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/21315/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/DartCoreDebug.java
+END

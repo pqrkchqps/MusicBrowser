@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/21556/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/refactoring
+END
+ExtractMethodRefactoring.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/19762/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/refactoring/ExtractMethodRefactoring.java
+END
+NamingConventions.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/21158/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/refactoring/NamingConventions.java
+END
+Refactoring.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/19169/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/refactoring/Refactoring.java
+END
+InlineMethodRefactoring.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/20435/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/refactoring/InlineMethodRefactoring.java
+END
+ConvertMethodToGetterRefactoring.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/21556/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/refactoring/ConvertMethodToGetterRefactoring.java
+END
+SubProgressMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/18463/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/refactoring/SubProgressMonitor.java
+END
+NullProgressMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/18463/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/refactoring/NullProgressMonitor.java
+END
+ExtractLocalRefactoring.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/19169/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/refactoring/ExtractLocalRefactoring.java
+END
+RenameRefactoring.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/19169/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/refactoring/RenameRefactoring.java
+END
+RefactoringFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/21556/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/refactoring/RefactoringFactory.java
+END
+ParameterInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/19762/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/refactoring/ParameterInfo.java
+END
+ProgressMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/18463/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/refactoring/ProgressMonitor.java
+END
+InlineLocalRefactoring.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/19326/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/refactoring/InlineLocalRefactoring.java
+END
+OperationCanceledException.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/18463/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine.services/src/com/google/dart/engine/services/refactoring/OperationCanceledException.java
+END

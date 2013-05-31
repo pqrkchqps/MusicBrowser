@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/15222/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/swtbot/dialog
+END
+PreferencesHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/15024/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/swtbot/dialog/PreferencesHelper.java
+END
+OpenLibraryHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/7493/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/swtbot/dialog/OpenLibraryHelper.java
+END
+NewApplicationHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/15222/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.swtbot_test/src/com/google/dart/tools/ui/swtbot/dialog/NewApplicationHelper.java
+END

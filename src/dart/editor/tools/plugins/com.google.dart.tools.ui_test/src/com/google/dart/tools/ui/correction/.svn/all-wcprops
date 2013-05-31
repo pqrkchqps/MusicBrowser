@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/21675/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/correction
+END
+StubUtilityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/19064/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/correction/StubUtilityTest.java
+END
+QuickAssistProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/21675/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/correction/QuickAssistProcessorTest.java
+END
+QuickFixProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/21675/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/correction/QuickFixProcessorTest.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/10468/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui_test/src/com/google/dart/tools/ui/correction/TestAll.java
+END

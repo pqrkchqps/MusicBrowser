@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15392/branches/bleeding_edge/dart/runtime/bin/net
+END
+ssl.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15278/branches/bleeding_edge/dart/runtime/bin/net/ssl.gyp
+END
+sqlite.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/15278/branches/bleeding_edge/dart/runtime/bin/net/sqlite.gyp
+END
+nss_memio.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14893/branches/bleeding_edge/dart/runtime/bin/net/nss_memio.h
+END
+nss.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15278/branches/bleeding_edge/dart/runtime/bin/net/nss.gyp
+END
+os_linux.S
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14730/branches/bleeding_edge/dart/runtime/bin/net/os_linux.S
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/15392/branches/bleeding_edge/dart/runtime/bin/net/.gitignore
+END
+nss_memio.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14893/branches/bleeding_edge/dart/runtime/bin/net/nss_memio.cc
+END
+zlib.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15278/branches/bleeding_edge/dart/runtime/bin/net/zlib.gyp
+END

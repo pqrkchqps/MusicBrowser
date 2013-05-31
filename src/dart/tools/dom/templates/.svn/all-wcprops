@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/21722/branches/bleeding_edge/dart/tools/dom/templates
+END
+dart2js_impl.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/21111/branches/bleeding_edge/dart/tools/dom/templates/dart2js_impl.darttemplate
+END
+callback.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/17929/branches/bleeding_edge/dart/tools/dom/templates/callback.darttemplate
+END
+immutable_list_mixin.darttemplate
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/21471/branches/bleeding_edge/dart/tools/dom/templates/immutable_list_mixin.darttemplate
+END

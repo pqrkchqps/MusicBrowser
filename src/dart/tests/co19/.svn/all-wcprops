@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21753/branches/bleeding_edge/dart/tests/co19
+END
+co19-dart2dart.status
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/21753/branches/bleeding_edge/dart/tests/co19/co19-dart2dart.status
+END
+co19-dart2js.status
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/21602/branches/bleeding_edge/dart/tests/co19/co19-dart2js.status
+END
+co19-compiler.status
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/21517/branches/bleeding_edge/dart/tests/co19/co19-compiler.status
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12122/branches/bleeding_edge/dart/tests/co19/.gitignore
+END
+test_config.dart
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/20466/branches/bleeding_edge/dart/tests/co19/test_config.dart
+END
+co19-runtime.status
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/21753/branches/bleeding_edge/dart/tests/co19/co19-runtime.status
+END

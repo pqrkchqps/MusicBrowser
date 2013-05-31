@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/15057/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/text
+END
+NewTextSearchActionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/text/NewTextSearchActionGroup.java
+END
+ReplaceRefactoring.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/9002/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/text/ReplaceRefactoring.java
+END
+ExternalFileMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/7419/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/text/ExternalFileMatch.java
+END
+EditorOpener.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/text/EditorOpener.java
+END
+ReplaceConfigurationPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/9002/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/text/ReplaceConfigurationPage.java
+END
+LineElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/7419/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/text/LineElement.java
+END
+FileSearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/7419/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/text/FileSearchResult.java
+END
+FileResourceMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/7419/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/text/FileResourceMatch.java
+END
+TextSearchPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/text/TextSearchPage.java
+END
+ReplaceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/9002/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/text/ReplaceAction.java
+END
+BasicElementLabels.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/7419/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/text/BasicElementLabels.java
+END
+DecoratingFileSearchLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/text/DecoratingFileSearchLabelProvider.java
+END
+ExternalFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/7419/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/text/ExternalFile.java
+END
+IFileSearchContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/text/IFileSearchContentProvider.java
+END
+FileResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/7419/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/text/FileResource.java
+END
+SearchResultUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/text/SearchResultUpdater.java
+END
+FileLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/15057/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/text/FileLabelProvider.java
+END
+FileSearchQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/7431/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/text/FileSearchQuery.java
+END
+FileMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/7419/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/text/FileMatch.java
+END
+WorkspaceFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/7419/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.search/src/com/google/dart/tools/search/internal/ui/text/WorkspaceFile.java
+END

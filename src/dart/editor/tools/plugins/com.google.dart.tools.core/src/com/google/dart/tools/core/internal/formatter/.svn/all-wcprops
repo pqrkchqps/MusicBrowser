@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/12277/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/formatter
+END
+BinaryExpressionFragmentBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/9996/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/formatter/BinaryExpressionFragmentBuilder.java
+END
+CodeSnippetParsingUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/9129/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/formatter/CodeSnippetParsingUtil.java
+END
+FormattingEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/11340/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/formatter/FormattingEngine.java
+END
+CascadingInvocationFragmentBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/4962/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/formatter/CascadingInvocationFragmentBuilder.java
+END
+AbortFormatting.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/8499/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/formatter/AbortFormatting.java
+END
+DefaultCodeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/9996/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/formatter/DefaultCodeFormatter.java
+END
+OptimizedReplaceEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/formatter/OptimizedReplaceEdit.java
+END
+Scribe.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/formatter/Scribe.java
+END
+Location.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/formatter/Location.java
+END
+DartCodeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/11239/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/formatter/DartCodeFormatter.java
+END
+EditRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/11340/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/formatter/EditRecorder.java
+END
+CodeFormatterVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/12277/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/formatter/CodeFormatterVisitor.java
+END
+DefaultCodeFormatterOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/7344/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/formatter/DefaultCodeFormatterOptions.java
+END
+InvalidInputException.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/13/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/formatter/InvalidInputException.java
+END
+Scanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/9596/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/formatter/Scanner.java
+END

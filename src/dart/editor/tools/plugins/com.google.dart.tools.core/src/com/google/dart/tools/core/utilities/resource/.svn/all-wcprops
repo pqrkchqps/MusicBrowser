@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/21221/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/resource
+END
+IFileUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/5060/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/resource/IFileUtilities.java
+END
+IProjectUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/21221/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/resource/IProjectUtilities.java
+END
+IResourceUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/16865/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/utilities/resource/IResourceUtilities.java
+END

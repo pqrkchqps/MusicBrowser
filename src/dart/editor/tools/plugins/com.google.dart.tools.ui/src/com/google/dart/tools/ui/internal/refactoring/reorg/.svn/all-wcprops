@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/21413/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/reorg
+END
+RenameInformationPopup_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/19075/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/reorg/RenameInformationPopup_OLD.java
+END
+RenameLinkedMode_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/19075/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/reorg/RenameLinkedMode_OLD.java
+END
+RenameInformationPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/20292/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/reorg/RenameInformationPopup.java
+END
+RenameLinkedMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/21390/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/reorg/RenameLinkedMode.java
+END
+RenameInputWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/21413/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/reorg/RenameInputWizardPage.java
+END
+ReorgMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/6806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/reorg/ReorgMessages.java
+END
+RenameLocalVariableWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/7432/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/reorg/RenameLocalVariableWizard.java
+END
+RenameFunctionTypeAliasWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/6806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/reorg/RenameFunctionTypeAliasWizard.java
+END
+RenameRefactoringWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/6806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/reorg/RenameRefactoringWizard.java
+END
+RenameGlobalVariableWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/6806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/reorg/RenameGlobalVariableWizard.java
+END
+ReorgMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/5875/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/reorg/ReorgMessages.properties
+END
+RenameUserInterfaceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/19075/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/reorg/RenameUserInterfaceManager.java
+END
+RenameMethodWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/6806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/reorg/RenameMethodWizard.java
+END
+RenameClassTypeAliasWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/16980/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/reorg/RenameClassTypeAliasWizard.java
+END
+RenameTypeWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/6806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/reorg/RenameTypeWizard.java
+END
+RenameUserInterfaceStarter_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/19075/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/reorg/RenameUserInterfaceStarter_OLD.java
+END
+RenameTypeParameterWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/6965/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/reorg/RenameTypeParameterWizard.java
+END
+RenameFieldWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/6806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/reorg/RenameFieldWizard.java
+END
+RenameUserInterfaceStarter.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/19075/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/reorg/RenameUserInterfaceStarter.java
+END
+RenameFunctionWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/6806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/refactoring/reorg/RenameFunctionWizard.java
+END

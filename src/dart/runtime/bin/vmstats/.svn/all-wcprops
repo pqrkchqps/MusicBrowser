@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/21631/branches/bleeding_edge/dart/runtime/bin/vmstats
+END
+bargraph.dart
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/21579/branches/bleeding_edge/dart/runtime/bin/vmstats/bargraph.dart
+END
+isolate_list.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/21579/branches/bleeding_edge/dart/runtime/bin/vmstats/isolate_list.dart
+END
+vmstats.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/20899/branches/bleeding_edge/dart/runtime/bin/vmstats/vmstats.html
+END
+vmstats.dart.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/21631/branches/bleeding_edge/dart/runtime/bin/vmstats/vmstats.dart.js
+END
+vmstats.css
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/21579/branches/bleeding_edge/dart/runtime/bin/vmstats/vmstats.css
+END
+vmstats.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/21579/branches/bleeding_edge/dart/runtime/bin/vmstats/vmstats.dart
+END
+models.dart
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/20899/branches/bleeding_edge/dart/runtime/bin/vmstats/models.dart
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/21631/branches/bleeding_edge/dart/runtime/bin/vmstats/README
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/19569/branches/bleeding_edge/dart/runtime/bin/vmstats/favicon.ico
+END

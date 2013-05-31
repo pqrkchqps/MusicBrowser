@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/21240/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart
+END
+DartCodeScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/16864/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/DartCodeScanner.java
+END
+DartStringAutoIndentStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/DartStringAutoIndentStrategy.java
+END
+MethodDeclarationCompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/MethodDeclarationCompletionProposal.java
+END
+ContentAssistProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/20650/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/ContentAssistProcessor.java
+END
+DartTextMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/9001/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/DartTextMessages.properties
+END
+LazyDartCompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/7349/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/LazyDartCompletionProposal.java
+END
+TemplateCompletionProposalComputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/11269/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/TemplateCompletionProposalComputer.java
+END
+ParameterGuessingProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/ParameterGuessingProposal.java
+END
+DartTypeCompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/DartTypeCompletionProposal.java
+END
+FilledArgumentNamesMethodProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/FilledArgumentNamesMethodProposal.java
+END
+DartFormattingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/DartFormattingStrategy.java
+END
+DartAutoIndentStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/20983/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/DartAutoIndentStrategy.java
+END
+DartContentAssistHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/DartContentAssistHandler.java
+END
+TypeProposalInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/11396/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/TypeProposalInfo.java
+END
+HippieProposalComputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/HippieProposalComputer.java
+END
+LegacyDartReconcilingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/19728/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/LegacyDartReconcilingStrategy.java
+END
+SmartSemicolonAutoEditStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/11269/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/SmartSemicolonAutoEditStrategy.java
+END
+DartNoTypeCompletionProposalComputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/17653/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/DartNoTypeCompletionProposalComputer.java
+END
+DartCompletionProposalComputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/19981/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/DartCompletionProposalComputer.java
+END
+ProposalSorterRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/9998/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/ProposalSorterRegistry.java
+END
+GetterSetterCompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/GetterSetterCompletionProposal.java
+END
+DartDoubleClickSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/DartDoubleClickSelector.java
+END
+CompletionProposalComputerRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/9965/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/CompletionProposalComputerRegistry.java
+END
+RelevanceSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/9998/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/RelevanceSorter.java
+END
+MemberProposalInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/2446/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/MemberProposalInfo.java
+END
+DartCompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/DartCompletionProposal.java
+END
+IReconcilingParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/IReconcilingParticipant.java
+END
+DartDocDoubleClickStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/DartDocDoubleClickStrategy.java
+END
+DartMethodCompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/6887/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/DartMethodCompletionProposal.java
+END
+DartAutoIndentStrategy_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/20983/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/DartAutoIndentStrategy_OLD.java
+END
+LazyDartTypeCompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/9001/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/LazyDartTypeCompletionProposal.java
+END
+CompletionProposalComputerDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/11269/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/CompletionProposalComputerDescriptor.java
+END
+ProposalSorterHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/9998/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/ProposalSorterHandle.java
+END
+ProposalContextInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/ProposalContextInformation.java
+END
+ProposalInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/ProposalInfo.java
+END
+ImportRewrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/10069/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/ImportRewrite.java
+END
+MethodProposalInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/9998/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/MethodProposalInfo.java
+END
+ParameterGuesser.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/ParameterGuesser.java
+END
+FieldProposalInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/FieldProposalInfo.java
+END
+IProblemRequestorExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/IProblemRequestorExtension.java
+END
+ContentAssistComputerParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/9965/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/ContentAssistComputerParameter.java
+END
+ImportRewriteAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/10599/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/ImportRewriteAnalyzer.java
+END
+ContentAssistHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/9965/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/ContentAssistHistory.java
+END
+DartStringDoubleClickSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/DartStringDoubleClickSelector.java
+END
+DartCompletionProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/9965/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/DartCompletionProcessor.java
+END
+DartTypeCompletionProposalComputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/17653/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/DartTypeCompletionProposalComputer.java
+END
+IDartReconcilingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/IDartReconcilingListener.java
+END
+CompletionProposalCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/21239/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/CompletionProposalCategory.java
+END
+DartTextMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/9001/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/DartTextMessages.java
+END
+AbstractDartCompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/21240/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/AbstractDartCompletionProposal.java
+END
+OverrideCompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/6887/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/OverrideCompletionProposal.java
+END
+DartReconcilingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/19728/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/DartReconcilingStrategy.java
+END
+NodeClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/12212/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/NodeClassifier.java
+END
+AlphabeticSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/AlphabeticSorter.java
+END
+DartParameterListValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/9997/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/DartParameterListValidator.java
+END
+FillArgumentNamesCompletionProposalCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/FillArgumentNamesCompletionProposalCollector.java
+END
+InlineFunctionCompletionProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/InlineFunctionCompletionProposal.java
+END
+LazyGenericTypeProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/text/dart/LazyGenericTypeProposal.java
+END

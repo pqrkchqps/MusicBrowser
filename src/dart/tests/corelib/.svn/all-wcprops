@@ -1,0 +1,995 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/21694/branches/bleeding_edge/dart/tests/corelib
+END
+strings_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/strings_test.dart
+END
+double_round_to_double3_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/double_round_to_double3_test.dart
+END
+maps_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/maps_test.dart
+END
+hidden_library2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/18172/branches/bleeding_edge/dart/tests/corelib/hidden_library2_test.dart
+END
+list_set_range_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/21452/branches/bleeding_edge/dart/tests/corelib/list_set_range_test.dart
+END
+iterable_to_set_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/iterable_to_set_test.dart
+END
+double_round4_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/double_round4_test.dart
+END
+apply2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/21451/branches/bleeding_edge/dart/tests/corelib/apply2_test.dart
+END
+reg_exp1_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/reg_exp1_test.dart
+END
+iterable_last_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/iterable_last_test.dart
+END
+num_clamp_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/num_clamp_test.dart
+END
+stopwatch_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/stopwatch_test.dart
+END
+map_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/map_test.dart
+END
+reg_exp5_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/reg_exp5_test.dart
+END
+hash_map_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/hash_map_test.dart
+END
+list_sublist_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/21281/branches/bleeding_edge/dart/tests/corelib/list_sublist_test.dart
+END
+string_runes_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/string_runes_test.dart
+END
+date_time_parse_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/date_time_parse_test.dart
+END
+iterable_first_where_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/iterable_first_where_test.dart
+END
+string_split_reg_exp_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/string_split_reg_exp_test.dart
+END
+double_truncate2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/double_truncate2_test.dart
+END
+iterable_mapping_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/iterable_mapping_test.dart
+END
+list_remove_range_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/21462/branches/bleeding_edge/dart/tests/corelib/list_remove_range_test.dart
+END
+queue_last_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/queue_last_test.dart
+END
+map_values2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/map_values2_test.dart
+END
+date_time4_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/date_time4_test.dart
+END
+core_runtime_types_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/core_runtime_types_test.dart
+END
+date_time8_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/date_time8_test.dart
+END
+queue_single_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/queue_single_test.dart
+END
+null_nosuchmethod_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/null_nosuchmethod_test.dart
+END
+collection_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/21343/branches/bleeding_edge/dart/tests/corelib/collection_test.dart
+END
+iterable_take_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/iterable_take_test.dart
+END
+queue_first_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/queue_first_test.dart
+END
+int_round_to_double_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/int_round_to_double_test.dart
+END
+const_list_literal_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/const_list_literal_test.dart
+END
+expression_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/expression_test.dart
+END
+reg_exp_has_match_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/reg_exp_has_match_test.dart
+END
+string_case_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/string_case_test.dart
+END
+string_base_vm_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/string_base_vm_test.dart
+END
+symbol_map_helper.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/21451/branches/bleeding_edge/dart/tests/corelib/symbol_map_helper.dart
+END
+string_pattern_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/string_pattern_test.dart
+END
+iterable_skip_while_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/iterable_skip_while_test.dart
+END
+safe_to_string_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/safe_to_string_test.dart
+END
+string_substring_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/string_substring_test.dart
+END
+list_removeat_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/21454/branches/bleeding_edge/dart/tests/corelib/list_removeat_test.dart
+END
+double_round_to_double_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/double_round_to_double_test.dart
+END
+string_fromcharcode_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/string_fromcharcode_test.dart
+END
+collection_to_string_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/21343/branches/bleeding_edge/dart/tests/corelib/collection_to_string_test.dart
+END
+iterable_take_while_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/iterable_take_while_test.dart
+END
+iterable_to_list_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/iterable_to_list_test.dart
+END
+iterable_element_at_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/iterable_element_at_test.dart
+END
+nan_infinity_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/nan_infinity_test.dart
+END
+list_literal_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/list_literal_test.dart
+END
+reg_exp_groups_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/reg_exp_groups_test.dart
+END
+list_fixed_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/list_fixed_test.dart
+END
+list_growable_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/list_growable_test.dart
+END
+list_fill_range_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/21471/branches/bleeding_edge/dart/tests/corelib/list_fill_range_test.dart
+END
+stopwatch2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/stopwatch2_test.dart
+END
+int_truncate_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/int_truncate_test.dart
+END
+set_iterator_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/set_iterator_test.dart
+END
+reg_exp_group_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/reg_exp_group_test.dart
+END
+int_to_int_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/int_to_int_test.dart
+END
+list_iterators_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/list_iterators_test.dart
+END
+const_list_set_range_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/const_list_set_range_test.dart
+END
+null_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/null_test.dart
+END
+double_truncate_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/double_truncate_test.dart
+END
+date_time5_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/date_time5_test.dart
+END
+string_split_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/string_split_test.dart
+END
+list_replace_range_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/21471/branches/bleeding_edge/dart/tests/corelib/list_replace_range_test.dart
+END
+duration_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/duration_test.dart
+END
+iterable_length_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/21457/branches/bleeding_edge/dart/tests/corelib/iterable_length_test.dart
+END
+double_ceil2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/double_ceil2_test.dart
+END
+map_keys2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/map_keys2_test.dart
+END
+list_as_map_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/list_as_map_test.dart
+END
+date_time_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/21189/branches/bleeding_edge/dart/tests/corelib/date_time_test.dart
+END
+reg_exp_string_match_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/reg_exp_string_match_test.dart
+END
+int_floor_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/int_floor_test.dart
+END
+queue_iterator_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/queue_iterator_test.dart
+END
+iterable_first_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/iterable_first_test.dart
+END
+string_replace_dollar_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/string_replace_dollar_test.dart
+END
+string_buffer_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/string_buffer_test.dart
+END
+int_round_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/int_round_test.dart
+END
+double_round2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/double_round2_test.dart
+END
+range_error_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/range_error_test.dart
+END
+iterable_join_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/21193/branches/bleeding_edge/dart/tests/corelib/iterable_join_test.dart
+END
+splay_tree_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/splay_tree_test.dart
+END
+json_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/json_test.dart
+END
+double_floor_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/double_floor_test.dart
+END
+reg_exp_first_match_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/reg_exp_first_match_test.dart
+END
+for_in_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/for_in_test.dart
+END
+big_integer_vm_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/big_integer_vm_test.dart
+END
+double_compare_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/double_compare_test.dart
+END
+double_round_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/double_round_test.dart
+END
+queue_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/21338/branches/bleeding_edge/dart/tests/corelib/queue_test.dart
+END
+apply_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/21451/branches/bleeding_edge/dart/tests/corelib/apply_test.dart
+END
+iterable_expand_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/21454/branches/bleeding_edge/dart/tests/corelib/iterable_expand_test.dart
+END
+iterable_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/21494/branches/bleeding_edge/dart/tests/corelib/iterable_test.dart
+END
+bool_hashcode_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/bool_hashcode_test.dart
+END
+collection_removes_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/21338/branches/bleeding_edge/dart/tests/corelib/collection_removes_test.dart
+END
+int_truncate_to_double_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/int_truncate_to_double_test.dart
+END
+set_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/21338/branches/bleeding_edge/dart/tests/corelib/set_test.dart
+END
+collection_length_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/21343/branches/bleeding_edge/dart/tests/corelib/collection_length_test.dart
+END
+hash_set_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/21180/branches/bleeding_edge/dart/tests/corelib/hash_set_test.dart
+END
+exception_implementation_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/exception_implementation_test.dart
+END
+iterable_last_where_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/iterable_last_where_test.dart
+END
+list_literal_is_growable_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/list_literal_is_growable_test.dart
+END
+symbol_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/21617/branches/bleeding_edge/dart/tests/corelib/symbol_test.dart
+END
+list_map_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/21258/branches/bleeding_edge/dart/tests/corelib/list_map_test.dart
+END
+map_keys_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/map_keys_test.dart
+END
+corelib.status
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/21694/branches/bleeding_edge/dart/tests/corelib/corelib.status
+END
+list_reversed_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/21258/branches/bleeding_edge/dart/tests/corelib/list_reversed_test.dart
+END
+compare_to2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/compare_to2_test.dart
+END
+int_parse_radix_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/int_parse_radix_test.dart
+END
+double_truncate_to_double_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/double_truncate_to_double_test.dart
+END
+iterable_skip_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/iterable_skip_test.dart
+END
+date_time2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/date_time2_test.dart
+END
+collection_from_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/21343/branches/bleeding_edge/dart/tests/corelib/collection_from_test.dart
+END
+list_set_all_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/21471/branches/bleeding_edge/dart/tests/corelib/list_set_all_test.dart
+END
+date_time6_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/21260/branches/bleeding_edge/dart/tests/corelib/date_time6_test.dart
+END
+list_first_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/list_first_test.dart
+END
+string_codeunits_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/string_codeunits_test.dart
+END
+list_index_of_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/list_index_of_test.dart
+END
+int_floor_to_double_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/int_floor_to_double_test.dart
+END
+list_insert_all_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/21471/branches/bleeding_edge/dart/tests/corelib/list_insert_all_test.dart
+END
+string_replace_all_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/string_replace_all_test.dart
+END
+reg_exp_start_end_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/reg_exp_start_end_test.dart
+END
+double_floor2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/double_floor2_test.dart
+END
+list_last_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/list_last_test.dart
+END
+expando_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/expando_test.dart
+END
+double_round_to_double2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/double_round_to_double2_test.dart
+END
+list_insert_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/21454/branches/bleeding_edge/dart/tests/corelib/list_insert_test.dart
+END
+map_from_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/map_from_test.dart
+END
+string_replace_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/string_replace_test.dart
+END
+string_trim_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/string_trim_test.dart
+END
+double_round3_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/double_round3_test.dart
+END
+double_floor_to_double_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/double_floor_to_double_test.dart
+END
+const_list_remove_range_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/const_list_remove_range_test.dart
+END
+list_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/21194/branches/bleeding_edge/dart/tests/corelib/list_test.dart
+END
+reg_exp4_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/reg_exp4_test.dart
+END
+int_ceil_to_double_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/int_ceil_to_double_test.dart
+END
+list_sort_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14819/branches/bleeding_edge/dart/tests/corelib/list_sort_test.dart
+END
+iterable_contains_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/21338/branches/bleeding_edge/dart/tests/corelib/iterable_contains_test.dart
+END
+reg_exp_all_matches_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/reg_exp_all_matches_test.dart
+END
+int_ceil_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/int_ceil_test.dart
+END
+sort_helper.dart
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/sort_helper.dart
+END
+sort_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/sort_test.dart
+END
+compare_to_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/compare_to_test.dart
+END
+iterable_single_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/iterable_single_test.dart
+END
+indexed_list_access_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/indexed_list_access_test.dart
+END
+map_values_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/map_values_test.dart
+END
+hash_map2_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/hash_map2_test.dart
+END
+double_ceil_to_double_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/double_ceil_to_double_test.dart
+END
+list_to_string_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/21399/branches/bleeding_edge/dart/tests/corelib/list_to_string_test.dart
+END
+linked_hash_map_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/linked_hash_map_test.dart
+END
+double_ceil_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/double_ceil_test.dart
+END
+string_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/string_test.dart
+END
+is_operator_basic_types_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/21338/branches/bleeding_edge/dart/tests/corelib/is_operator_basic_types_test.dart
+END
+integer_to_radix_string_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/integer_to_radix_string_test.dart
+END
+date_time3_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/date_time3_test.dart
+END
+date_time7_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/date_time7_test.dart
+END
+iterable_single_where_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/21079/branches/bleeding_edge/dart/tests/corelib/iterable_single_where_test.dart
+END
+has_next_iterator_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/has_next_iterator_test.dart
+END
+string_from_list_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/string_from_list_test.dart
+END
+list_get_range_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/21281/branches/bleeding_edge/dart/tests/corelib/list_get_range_test.dart
+END
+unicode_test.dart
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/20996/branches/bleeding_edge/dart/tests/corelib/unicode_test.dart
+END

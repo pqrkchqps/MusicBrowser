@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/21741/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/analysis/model
+END
+ContextManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/21245/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/analysis/model/ContextManagerImpl.java
+END
+ProjectManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/21635/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/analysis/model/ProjectManagerImpl.java
+END
+PubFolderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/21635/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/analysis/model/PubFolderImpl.java
+END
+InvertedSourceContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/21741/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/analysis/model/InvertedSourceContainer.java
+END
+CompositeSourceContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/21741/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/analysis/model/CompositeSourceContainer.java
+END
+ProjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/21653/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.core/src/com/google/dart/tools/core/internal/analysis/model/ProjectImpl.java
+END

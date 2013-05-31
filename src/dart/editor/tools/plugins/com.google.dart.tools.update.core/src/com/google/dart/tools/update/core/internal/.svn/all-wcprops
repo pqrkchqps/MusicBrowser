@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/21687/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.update.core/src/com/google/dart/tools/update/core/internal
+END
+UpdateScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/9320/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.update.core/src/com/google/dart/tools/update/core/internal/UpdateScheduler.java
+END
+DownloadManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/9320/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.update.core/src/com/google/dart/tools/update/core/internal/DownloadManager.java
+END
+UpdateModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/9320/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.update.core/src/com/google/dart/tools/update/core/internal/UpdateModel.java
+END
+UpdateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/21296/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.update.core/src/com/google/dart/tools/update/core/internal/UpdateUtils.java
+END
+UpdateResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/9969/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.update.core/src/com/google/dart/tools/update/core/internal/UpdateResolver.java
+END

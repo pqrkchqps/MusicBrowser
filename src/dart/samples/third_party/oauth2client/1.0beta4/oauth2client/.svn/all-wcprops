@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3857/branches/bleeding_edge/dart/samples/third_party/oauth2client/1.0beta4/oauth2client
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3857/branches/bleeding_edge/dart/samples/third_party/oauth2client/1.0beta4/oauth2client/client.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3857/branches/bleeding_edge/dart/samples/third_party/oauth2client/1.0beta4/oauth2client/__init__.py
+END
+django_orm.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3857/branches/bleeding_edge/dart/samples/third_party/oauth2client/1.0beta4/oauth2client/django_orm.py
+END
+file.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3857/branches/bleeding_edge/dart/samples/third_party/oauth2client/1.0beta4/oauth2client/file.py
+END
+tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3857/branches/bleeding_edge/dart/samples/third_party/oauth2client/1.0beta4/oauth2client/tools.py
+END
+multistore_file.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/3857/branches/bleeding_edge/dart/samples/third_party/oauth2client/1.0beta4/oauth2client/multistore_file.py
+END
+appengine.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3857/branches/bleeding_edge/dart/samples/third_party/oauth2client/1.0beta4/oauth2client/appengine.py
+END

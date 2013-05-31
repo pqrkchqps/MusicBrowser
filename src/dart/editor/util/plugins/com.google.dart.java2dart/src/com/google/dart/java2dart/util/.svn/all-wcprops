@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/21585/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/src/com/google/dart/java2dart/util
+END
+ASTFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/21585/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/src/com/google/dart/java2dart/util/ASTFactory.java
+END
+JavaUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/21585/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/src/com/google/dart/java2dart/util/JavaUtils.java
+END
+RunnableEx.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/16998/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/src/com/google/dart/java2dart/util/RunnableEx.java
+END
+ExecutionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/17155/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/src/com/google/dart/java2dart/util/ExecutionUtils.java
+END
+TokenFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/17696/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/src/com/google/dart/java2dart/util/TokenFactory.java
+END
+ToFormattedSourceVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/20436/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/src/com/google/dart/java2dart/util/ToFormattedSourceVisitor.java
+END
+RunnableObjectEx.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/16998/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/src/com/google/dart/java2dart/util/RunnableObjectEx.java
+END
+Bindings.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/17416/branches/bleeding_edge/dart/editor/util/plugins/com.google.dart.java2dart/src/com/google/dart/java2dart/util/Bindings.java
+END

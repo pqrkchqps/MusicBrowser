@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/21244/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename
+END
+RenameTypeMemberProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/21157/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/RenameTypeMemberProcessor.java
+END
+RenameImportProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/14535/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/RenameImportProcessor.java
+END
+MemberDeclarationsReferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/12125/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/MemberDeclarationsReferences.java
+END
+RenameMethodProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/16468/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/RenameMethodProcessor.java
+END
+RenameClassTypeAliasProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/16980/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/RenameClassTypeAliasProcessor.java
+END
+RenameTypeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/RenameTypeProcessor.java
+END
+DeleteResourceParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/21157/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/DeleteResourceParticipant.java
+END
+FunctionLocalElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/7478/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/FunctionLocalElement.java
+END
+RenameTypeParameterProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/RenameTypeParameterProcessor.java
+END
+RenameFieldProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/7432/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/RenameFieldProcessor.java
+END
+RenameResourceParticipant_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/21157/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/RenameResourceParticipant_OLD.java
+END
+RenameFunctionProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/7432/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/RenameFunctionProcessor.java
+END
+MoveResourceParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/21157/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/MoveResourceParticipant.java
+END
+RenameResourceParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/21244/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/RenameResourceParticipant.java
+END
+RenameTopLevelProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/21157/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/RenameTopLevelProcessor.java
+END
+DartRenameProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/11823/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/DartRenameProcessor.java
+END
+RenameLocalVariableProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/16468/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/RenameLocalVariableProcessor.java
+END
+RenameLocalFunctionProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/21157/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/RenameLocalFunctionProcessor.java
+END
+RenameFunctionTypeAliasProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/7432/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/RenameFunctionTypeAliasProcessor.java
+END
+RenameAnalyzeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/16980/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/RenameAnalyzeUtil.java
+END
+RenameProjectParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/8219/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/RenameProjectParticipant.java
+END
+RenameGlobalVariableProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/7432/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/internal/corext/refactoring/rename/RenameGlobalVariableProcessor.java
+END

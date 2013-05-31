@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/21434/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/util
+END
+StringUtils.dart
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/16065/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/util/StringUtils.dart
+END
+utilslib.dart
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14657/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/util/utilslib.dart
+END
+CollectionUtils.dart
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/16687/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/util/CollectionUtils.dart
+END
+DateUtils.dart
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/21434/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/util/DateUtils.dart
+END
+Uri.dart
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/17562/branches/bleeding_edge/dart/samples/swarm/swarm_ui_lib/util/Uri.dart
+END

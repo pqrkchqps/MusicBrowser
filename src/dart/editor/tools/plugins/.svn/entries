@@ -1,0 +1,109 @@
+10
+
+dir
+21780
+https://dart.googlecode.com/svn/branches/bleeding_edge/dart/editor/tools/plugins
+https://dart.googlecode.com/svn
+
+
+
+2013-04-19T21:50:32.646507Z
+21775
+pquitslund@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+260f80e4-7a28-3924-810f-c04153c831b5
+
+com.google.dart.tools.designer
+dir
+
+com.google.dart.eclipse.ui
+dir
+
+com.google.dart.tools.debug.ui
+dir
+
+com.google.dart.tools.tests.buildbot_test
+dir
+
+com.google.dart.tools.search
+dir
+
+com.google.dart.engine_test
+dir
+
+com.google.dart.engine
+dir
+
+com.google.dart.tools.update.core
+dir
+
+com.google.dart.eclipse.core
+dir
+
+com.google.dart.tools.ui_test
+dir
+
+com.google.dart.tools.debug.core_test
+dir
+
+com.google.dart.tools.debug.core
+dir
+
+com.google.dart.tools.ui
+dir
+
+com.google.dart.command.analyze_test
+dir
+
+com.google.dart.command.analyze
+dir
+
+com.google.dart.compiler.js_test
+dir
+
+com.google.dart.compiler.js
+dir
+
+com.google.dart.engine.services_test
+dir
+
+com.google.dart.tools.core_test
+dir
+
+com.google.dart.tools.ui.web_test
+dir
+
+com.google.dart.tools.core
+dir
+
+com.google.dart.engine.services
+dir
+
+com.google.dart.tools.ui.web
+dir
+
+com.google.dart.thirdparty_test
+dir
+
+com.google.dart.thirdparty
+dir
+
+com.google.dart.tools.deploy
+dir
+
+com.google.dart.tools.ui.swtbot_test
+dir
+

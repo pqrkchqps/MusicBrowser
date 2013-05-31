@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/21315/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/preferences
+END
+DartBasePreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/21315/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/preferences/DartBasePreferencePage.java
+END
+FontPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/21314/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/preferences/FontPreferencePage.java
+END
+DartKeyBindingPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/10191/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/preferences/DartKeyBindingPersistence.java
+END
+PreferencesMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/20918/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/preferences/PreferencesMessages.properties
+END
+CompilerPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/11460/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/preferences/CompilerPreferencePage.java
+END
+PreferencesMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/20918/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/preferences/PreferencesMessages.java
+END
+MembersOrderPreferenceCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/preferences/MembersOrderPreferenceCache.java
+END
+DartKeyBindingPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/10191/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/preferences/DartKeyBindingPreferencePage.java
+END
+DartAnalysisPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/12121/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/preferences/DartAnalysisPreferencePage.java
+END
+AppearancePreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/preferences/AppearancePreferencePage.java
+END
+OverlayPreferenceStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/preferences/OverlayPreferenceStore.java
+END

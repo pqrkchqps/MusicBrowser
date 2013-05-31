@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3857/branches/bleeding_edge/dart/samples/third_party/httplib2/0.7.1/httplib2
+END
+cacerts.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3857/branches/bleeding_edge/dart/samples/third_party/httplib2/0.7.1/httplib2/cacerts.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3857/branches/bleeding_edge/dart/samples/third_party/httplib2/0.7.1/httplib2/__init__.py
+END
+socks.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3857/branches/bleeding_edge/dart/samples/third_party/httplib2/0.7.1/httplib2/socks.py
+END
+iri2uri.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3857/branches/bleeding_edge/dart/samples/third_party/httplib2/0.7.1/httplib2/iri2uri.py
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/20327/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/css
+END
+CssEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/16692/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/css/CssEditor.java
+END
+CssContentOutlinePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/16692/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/css/CssContentOutlinePage.java
+END
+CssScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/16543/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/css/CssScanner.java
+END
+CssDocumentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/16543/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/css/CssDocumentProvider.java
+END
+CssDamagerRepairer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/6371/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/css/CssDamagerRepairer.java
+END
+CssSourceViewerConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/16692/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/css/CssSourceViewerConfiguration.java
+END
+CssLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/16692/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/css/CssLabelProvider.java
+END
+CssAutoIndentStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/20327/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/css/CssAutoIndentStrategy.java
+END
+CssContentAssistProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/16692/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/css/CssContentAssistProcessor.java
+END
+CssNumberDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/6371/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/css/CssNumberDetector.java
+END
+CssPartitionScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/16692/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/css/CssPartitionScanner.java
+END
+CssWordDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/16692/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/css/CssWordDetector.java
+END
+CssContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/16692/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui.web/src/com/google/dart/tools/ui/web/css/CssContentProvider.java
+END

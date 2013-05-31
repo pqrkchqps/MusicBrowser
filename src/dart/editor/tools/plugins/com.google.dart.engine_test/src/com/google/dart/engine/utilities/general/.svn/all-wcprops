@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/17654/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/utilities/general
+END
+ObjectUtilitiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/17108/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/utilities/general/ObjectUtilitiesTest.java
+END
+StringUtilitiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/17108/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/utilities/general/StringUtilitiesTest.java
+END
+MemoryUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/17654/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/utilities/general/MemoryUtilities.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/17108/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/utilities/general/TestAll.java
+END
+CharOperationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/17148/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.engine_test/src/com/google/dart/engine/utilities/general/CharOperationTest.java
+END

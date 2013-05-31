@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/20765/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/elements
+END
+EditorElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/19330/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/elements/EditorElement.java
+END
+EditorProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/8930/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/elements/EditorProvider.java
+END
+HeaderElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/19330/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/elements/HeaderElement.java
+END
+TextSearchElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/19330/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/elements/TextSearchElement.java
+END
+ViewElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/19330/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/elements/ViewElement.java
+END
+ViewProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/8930/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/elements/ViewProvider.java
+END
+TextSearchProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/7563/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/elements/TextSearchProvider.java
+END
+PreferenceElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/19330/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/elements/PreferenceElement.java
+END
+FileElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/19330/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/elements/FileElement.java
+END
+TypeElement_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/20765/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/elements/TypeElement_OLD.java
+END
+PreferenceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/8930/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/elements/PreferenceProvider.java
+END
+FileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/19330/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/elements/FileProvider.java
+END
+TypeProvider_OLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/20765/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/elements/TypeProvider_OLD.java
+END
+TypeElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/20765/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/elements/TypeElement.java
+END
+TypeProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/20765/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.deploy/src/com/google/dart/tools/ui/omni/elements/TypeProvider.java
+END

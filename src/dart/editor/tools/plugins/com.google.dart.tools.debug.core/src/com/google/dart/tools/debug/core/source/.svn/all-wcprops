@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/source
+END
+DartSourceLookupDirector.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/7555/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/source/DartSourceLookupDirector.java
+END
+WorkspaceSourceContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/source/WorkspaceSourceContainer.java
+END
+DartSourceLookupParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/19978/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.debug.core/src/com/google/dart/tools/debug/core/source/DartSourceLookupParticipant.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/20449/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/projects
+END
+NewApplicationCreationPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/19806/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/projects/NewApplicationCreationPage.java
+END
+CreateFolderWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/19006/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/projects/CreateFolderWizard.java
+END
+CreateFileWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/11543/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/projects/CreateFileWizardPage.java
+END
+CreateFileWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/8927/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/projects/CreateFileWizard.java
+END
+ProjectUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/13243/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/projects/ProjectUtils.java
+END
+CreateApplicationWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/20449/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/projects/CreateApplicationWizard.java
+END
+ProjectMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/16819/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/projects/ProjectMessages.properties
+END
+ProjectMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/12392/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/projects/ProjectMessages.java
+END
+HideProjectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/9642/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/projects/HideProjectAction.java
+END
+OpenNewApplicationWizardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/19159/branches/bleeding_edge/dart/editor/tools/plugins/com.google.dart.tools.ui/src/com/google/dart/tools/ui/internal/projects/OpenNewApplicationWizardAction.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/20110/branches/bleeding_edge/dart/samples/clock/web
+END
+clock.css
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17156/branches/bleeding_edge/dart/samples/clock/web/clock.css
+END
+clock.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/20110/branches/bleeding_edge/dart/samples/clock/web/clock.dart
+END
+numbers.dart
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/19112/branches/bleeding_edge/dart/samples/clock/web/numbers.dart
+END
+balls.dart
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17549/branches/bleeding_edge/dart/samples/clock/web/balls.dart
+END
+clock.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17156/branches/bleeding_edge/dart/samples/clock/web/clock.html
+END
